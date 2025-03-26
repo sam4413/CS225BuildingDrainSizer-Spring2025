@@ -9,6 +9,10 @@ public class DrainSizerRunner {
     boolean guiFlag = false;
     boolean debugFlag = false;
     boolean noLogFlag = false;
+    
+    /** 
+     * @param args
+     */
     public static void main(String[] args) {
         DrainSizerRunner runner = new DrainSizerRunner();
         DrainSizer app = new DrainSizer();
