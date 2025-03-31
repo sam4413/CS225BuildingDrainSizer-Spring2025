@@ -31,9 +31,11 @@ public class DrainSizerRunner {
             } else if (arg.equals("-debug")) {
                 debugFlag = true;
                 Log.info("Running with debug mode: " + arg);
-            } else if (arg.equals("-test")) {
+                Log.DEBUG = true;
+            } else if (arg.equals("-noLog")) {
                 debugFlag = true;
-                Log.info("Running with test mode: " + arg);
+                Log.info("Running with noLog mode: " + arg);
+                Log.NOLOG = false;
             } 
             
             else {

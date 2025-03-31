@@ -1,8 +1,11 @@
 package utils;
 import java.io.File;
+import java.util.Scanner;
 
 import DrainSizer.FileIO;
 public class Log {
+    public static boolean DEBUG = false;
+    public static boolean NOLOG = false;
     /* 
         **Static method for use approved by Dr. B for logging**
         Static usage (apart from main) will only be seen in the utils package.
@@ -30,22 +33,34 @@ public class Log {
         System.err.println(Color.RED+"[FATAL]\t"+x.toString()+Color.RESET);
     }
     public static void debug(Object x) {
-        System.out.println(Color.WHITE+"[DEBUG]\t"+x.toString()+Color.RESET);
+        if (DEBUG) {
+            System.out.println(Color.WHITE+"[DEBUG]\t"+x.toString()+Color.RESET);
+        }
     }
-
+    public static void clear() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
+    }
+    //Test main (Must be in debug)
     public static void main(String[] args) {
-        String testString = "This is a formatted string.";
+        Scanner input = new Scanner(System.in);
+        System.out.println("\n\nEnter a test string to be printed out: ");
+        String test = input.nextLine();
+        input.close();
+
         int testInt = 100;
         double testDouble = 83.4583;
         char testChar = 'E';
 
-        Log.out("The quick fox jumped over the lazy dog");
-        Log.debug("The quick fox jumped over the lazy dog");
-        Log.info("The quick fox jumped over the lazy dog");
-        Log.warn("The quick fox jumped over the lazy dog");
-        Log.error("The quick fox jumped over the lazy dog");
-        Log.fatal("The quick fox jumped over the lazy dog");
-        Log.outf("The quick fox jumped over the lazy dog.\nString: %s\nInt: %d \nDouble (2 dec): %.2f\nChar: %c", testString, testInt, testDouble, testChar);
+        Log.out(test);
+        Log.debug(test);
+        Log.info(test);
+        Log.warn(test);
+        Log.error(test);
+        Log.fatal(test);
+        Log.outf("String: %s\nInt: %d \nDouble (2 dec): %.2f\nChar: %c", test, testInt, testDouble, testChar);
+
+        
     }
 
 }

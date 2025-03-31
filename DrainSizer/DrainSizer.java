@@ -10,7 +10,12 @@ public class DrainSizer {
     public void run() {
         try {
             Scanner input = new Scanner(System.in); // The master scanner. This will be passed around accordingly.
-            menu();
+            int choice = -1;
+            do {
+                menu(); 
+                choice = processChoice(input);
+            } while (choice != 3);
+            
 
             input.close();
         } catch (Exception err) {
@@ -41,23 +46,37 @@ public class DrainSizer {
     }
 
     public int processChoice(Scanner input) {
+        int outChoice = -1;
         try {
+            Log.out("Please enter an option: ");
             String inChoice = input.nextLine();
             int choice = Integer.parseInt(inChoice);
             switch (choice) {
                 case 1:
-                    
+                    outChoice = 1;
+                    Log.error("Not added");
+                    Log.clear();
                     break;
                 case 2:
-                    
+                    outChoice = 2;
+                    Log.error("Not added");
+                    Log.clear();
                     break;
                 case 3:
-                    Log.out("Goodbye");
+                    outChoice = 3;
+                    //Log.clear();
+                    Log.out(Color.RED+"Thank you for using Building Drain Sizer. Goodbye.");
+                    break;
+                case 4:
+                    outChoice = 4;
+                    PlumbingCode myCodeDefinitions = new PlumbingCode();
+                    myCodeDefinitions.readCodeFile("test.csv");
+                    Log.out(Color.RED+"Testmethod.");
                     break;
                 default:
                     break;
             }
-            return -1;
+            return outChoice;
         } catch (NumberFormatException err) {
             Log.error("Please enter a valid option.");
             return -1;

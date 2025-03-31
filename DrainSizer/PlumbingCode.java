@@ -1,6 +1,8 @@
 package DrainSizer;
 import java.util.ArrayList;
 
+import utils.Log;
+
 public class PlumbingCode {
     /*
      * This class encapsulates all the code values read from the input file.
@@ -11,6 +13,13 @@ public class PlumbingCode {
     
     //This reads the csv file and returns a string of the csv file to be parsed.
     public String readCodeFile(String filePath) {
+        FileIO myFileIO = new FileIO(filePath);
+
+        ArrayList<String> inCSV = myFileIO.readFile(",");
+
+        for (String string : inCSV) {
+            Log.info(string);
+        }
         return null;
     }
 
