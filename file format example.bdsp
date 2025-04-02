@@ -1,0 +1,26 @@
+#bdsp file format example
+#this is a comment
+# === how data is stored: ===
+# varName:value
+# === iterable (loop) example: ===
+# iterateable[
+# element:0
+# varName:value
+# ]
+
+# There is no specific data types in this format. The program simply reads these values and parses 
+# them accordingly depending on the requested format. Think of if JSON + YML data format together.
+
+projectName:Name
+lastsaved:00/00/0000
+totalFixtures:0
+#fixtures iterable
+fixtures[
+FloorDrain:0
+KitchenSink:0
+Lavatory:0
+WaterCloset:0
+]
+#totalstats
+totaldfu:0
+pipesize:0

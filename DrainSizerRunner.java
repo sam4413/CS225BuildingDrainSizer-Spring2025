@@ -1,6 +1,4 @@
 
-import java.io.File;
-
 import DrainSizer.DrainSizer;
 //Unpack the method and call the other methods
 import utils.Log;
