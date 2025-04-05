@@ -8,7 +8,7 @@ Embry-Riddle Aeronautical University
 Daytona Beach campus 
 1 Aerospace Boulevard Daytona Beach, FL 32114 
 
-> **As this project is source available, please do not copy, fork, or use any code from this repository to use it on your own project. Academic plagerism is very serious and can lead to severe consequences.**
+> **As this project is source available, please do not copy, fork, or use any code from this repository to use it on your own project, or any other project. Academic plagerism is very serious and can lead to severe consequences.**
 
 ***
 ## INTRODUCTION:  
