@@ -4,9 +4,9 @@
 ### Date 4/5/2025
 ### CS 225, Spring 2025 
     
-Embry-Riddle Aeronautical University 
-Daytona Beach campus 
-1 Aerospace Boulevard Daytona Beach, FL 32114 
+Embry-Riddle Aeronautical University<br>
+Daytona Beach campus<br>
+1 Aerospace Boulevard Daytona Beach, FL 32114 <br>
 
 > **As this project is source available, please do not copy, fork, or use any code from this repository to use it on your own project, or any other project. Academic plagerism is very serious and can lead to severe consequences.**
 
