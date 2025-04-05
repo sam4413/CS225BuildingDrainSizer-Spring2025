@@ -1,4 +1,4 @@
-package DrainSizer;
+package drainsizer;
 
 //Math class for mathematical computation
 public class DrainCalc {

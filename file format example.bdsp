@@ -13,7 +13,7 @@
 
 projectName:Name
 lastsaved:00/00/0000
-totalFixtures:0
+totalFixtures:10
 #fixtures iterable
 fixtures[
 FloorDrain:0

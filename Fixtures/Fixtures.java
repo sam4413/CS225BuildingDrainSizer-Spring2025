@@ -1,4 +1,4 @@
-package Fixtures;
+package fixtures;
 import java.util.*;
 //Not to be mistaken for Fixture class, the Fixtures class contains the arraylist containing all currently added fixtures. It also provides multiple methods of finding, searching, adding, and removing fixtures. This shall not be mistaken for the PlumbingCodeDefinitions Arraylist as that contains all the Fixture definitions as given per code.
 public class Fixtures {

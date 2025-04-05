@@ -1,8 +1,9 @@
-package DrainSizer;
+package drainsizer;
 
 import java.io.*;
 import java.util.*;
-import Fixtures.*;
+
+import fixtures.*;
 import utils.*;
 
 /*

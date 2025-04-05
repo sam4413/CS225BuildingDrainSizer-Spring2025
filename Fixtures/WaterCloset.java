@@ -1,4 +1,4 @@
-package Fixtures;
+package fixtures;
 
 public class WaterCloset extends Fixture {
 

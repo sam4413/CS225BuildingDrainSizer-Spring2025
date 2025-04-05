@@ -1,4 +1,4 @@
-package Fixtures;
+package fixtures;
 
 public abstract class Fixture {
     private int quantity;

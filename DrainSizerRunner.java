@@ -1,11 +1,11 @@
 
-import DrainSizer.DrainSizer;
+import drainsizer.DrainSizer;
 //Unpack the method and call the other methods
 import utils.Log;
 
 public class DrainSizerRunner {
     boolean guiFlag = false;
-    boolean debugFlag = false;
+    boolean debugFlag = true;
     boolean noLogFlag = false;
     
     /** 

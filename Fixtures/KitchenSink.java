@@ -1,4 +1,4 @@
-package Fixtures;
+package fixtures;
 
 public class KitchenSink extends Fixture {
 

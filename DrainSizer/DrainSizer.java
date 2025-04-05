@@ -1,19 +1,39 @@
-package DrainSizer;
+package drainsizer;
 
 import java.util.*;
-import Fixtures.*; //Fixtures folder
+
+import fixtures.*;
 import utils.*;
 
 //This is the main program. This is basically the main menu of the program. The user can choose between the options and passes the actions to their respective methods. This class also contains the currently stored currently added fixtures.
 public class DrainSizer {
     // Main runner method
+
+    //prerunner
+    public void prerunner() {
+        PlumbingCode code = new PlumbingCode();
+        code.assembleFixtureDefinitions("codes.csv");
+
+        ArrayList<PlumbingCodeDefinition> element = code.getFixturesList();
+        
+        for (PlumbingCodeDefinition thing : element) {
+            if (thing != null) {
+                Log.info(thing.toString());
+            }
+            else {
+
+            }
+        }
+    }
+
     public void run() {
         try {
-            Scanner input = new Scanner(System.in); // The master scanner. This will be passed around accordingly.
+            prerunner();
+            Scanner input = new Scanner(System.in); // The master scanner. This will be passed around accordingly if needed. 
             int choice = -1;
             do {
                 menu(); 
-                choice = processChoice(input);
+                choice = menuSelector();
             } while (choice != 3);
             
 
@@ -23,10 +43,35 @@ public class DrainSizer {
             // as it might not be safe to continue.
             Log.fatal(
                     "An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.\n"
-                            + err.getMessage() + "\nStack Trace:\n" + err.getStackTrace());
-            // Save methods
+                            + err.getMessage() + "\nStack Trace:\n" + ExceptionHelper.stackToString(err));
+            // Save methods TBD
             System.exit(-1);
         }
+    }
+
+    public int menuSelector() {
+        int choice = InputHelper.processIntChoice();
+        switch (choice) {
+            case 1:
+                choice = 1;
+                Log.error("Not Final");
+                FixtureOperations myFixtureOperations = new FixtureOperations();
+                myFixtureOperations.fixtureMenu();
+                break;
+            case 2:
+                choice = 2;
+                Log.error("NotImplimented");
+                break;
+            case 3:
+                choice = 3;
+                Log.out(Color.RED+"Thank you for using Building Drain Sizer. Goodbye.");
+                break;
+        
+            default:
+                //Log.error("Invalid value!");
+                break;
+        }
+        return choice;
     }
 
     // Top most level of the menu. This will allow the user to either create a new
@@ -45,48 +90,7 @@ public class DrainSizer {
                 Color.RED + "v.0.1 alpha " + Color.CYAN + "- nogui - public\n");
     }
 
-    public int processChoice(Scanner input) {
-        int outChoice = -1;
-        try {
-            Log.out("Please enter an option: ");
-            String inChoice = input.nextLine();
-            int choice = Integer.parseInt(inChoice);
-            switch (choice) {
-                case 1:
-                    outChoice = 1;
-                    Log.error("Not added");
-                    Log.clear();
-                    break;
-                case 2:
-                    outChoice = 2;
-                    Log.error("Not added");
-                    Log.clear();
-                    break;
-                case 3:
-                    outChoice = 3;
-                    //Log.clear();
-                    Log.out(Color.RED+"Thank you for using Building Drain Sizer. Goodbye.");
-                    break;
-                case 4:
-                    outChoice = 4;
-                    PlumbingCode myCodeDefinitions = new PlumbingCode();
-                    myCodeDefinitions.readCodeFile("test.csv");
-                    Log.out(Color.RED+"Testmethod.");
-                    break;
-                default:
-                    break;
-            }
-            return outChoice;
-        } catch (NumberFormatException err) {
-            Log.error("Please enter a valid option.");
-            return -1;
-        } catch (Exception err) {
-            Log.error(
-                    "An error has occured: " + err.getMessage() + "\nStack Trace: " + err.getStackTrace());
-            return -1;
-        }
-
-    }
+    
 
     public void saveProjectMenu(Scanner input) {
 
@@ -99,4 +103,6 @@ public class DrainSizer {
     public void calculateDrainSizeMenu(Scanner input) {
 
     }
+
+    
 }

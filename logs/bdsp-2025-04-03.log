@@ -1,0 +1,490 @@
+16:25:54.9344 [INFO]	Starting Drain Sizer Program
+16:25:59.7023 [ERROR]	Not added
+16:26:00.3245 [ERROR]	Not added
+16:26:00.6995 [ERROR]	Not added
+17:02:57.4549 [INFO]	Starting Drain Sizer Program
+17:02:57.4801 [ERROR]	An error occurred.
+[Ljava.lang.StackTraceElement;@7291c18f
+17:02:57.4892 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.iterator()" because "element" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@7cc355be
+17:03:37.1952 [INFO]	Starting Drain Sizer Program
+17:03:37.2234 [ERROR]	An error occurred.
+[Ljava.lang.StackTraceElement;@7291c18f
+17:03:37.2299 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.iterator()" because "element" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@7cc355be
+17:03:48.9003 [INFO]	Starting Drain Sizer Program
+17:03:48.9218 [ERROR]	An error occurred.
+[Ljava.lang.StackTraceElement;@7291c18f
+17:03:48.9284 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.iterator()" because "element" is null
+Stack Trace:
+Cannot invoke "java.util.ArrayList.iterator()" because "element" is null
+17:04:17.9698 [INFO]	Starting Drain Sizer Program
+17:04:17.9939 [ERROR]	An error occurred.
+[Ljava.lang.StackTraceElement;@7291c18f
+17:04:18.0011 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.iterator()" because "element" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@7cc355be
+17:05:01.1231 [INFO]	Starting Drain Sizer Program
+17:05:01.2214 [DEBUG]	
+
+17:05:01.2238 [ERROR]	Failed to parse line: "Automatic clothes washers, commercial",3,2
+17:05:01.2248 [ERROR]	Failed to parse line: "Automatic clothes washers, residential",2,2
+17:05:01.2384 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.add(Object)" because "this.fixturesList" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@254989ff
+17:17:03.1979 [INFO]	Starting Drain Sizer Program
+17:17:03.2639 [DEBUG]	
+
+17:17:03.2669 [ERROR]	Failed to parse line: "Automatic clothes washers, commercial",3,2
+17:17:03.2689 [ERROR]	Failed to parse line: "Automatic clothes washers, residential",2,2
+17:17:03.2799 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.add(Object)" because "this.fixturesList" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@254989ff
+17:19:28.9553 [INFO]	Starting Drain Sizer Program
+17:19:29.0163 [DEBUG]	
+
+17:19:29.0193 [ERROR]	Failed to parse line: "Automatic clothes washers, commercial",3,2
+17:19:29.0213 [ERROR]	Failed to parse line: "Automatic clothes washers, residential",2,2
+17:19:29.0323 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.add(Object)" because "this.fixturesList" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@254989ff
+17:20:23.6350 [INFO]	Starting Drain Sizer Program
+17:20:23.6970 [DEBUG]	
+
+17:20:23.7074 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.add(Object)" because "this.fixturesList" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@37bba400
+17:21:36.5711 [INFO]	Starting Drain Sizer Program
+17:21:36.6321 [DEBUG]	
+
+17:21:36.6421 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "java.util.ArrayList.add(Object)" because "this.fixturesList" is null
+Stack Trace:
+[Ljava.lang.StackTraceElement;@37bba400
+17:23:31.9758 [INFO]	Starting Drain Sizer Program
+17:23:32.0358 [DEBUG]	
+
+17:23:32.0438 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:23:32.0448 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:23:32.0468 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:23:32.0489 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:23:32.0498 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:23:32.0519 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:23:32.0528 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:23:32.0548 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:23:32.0558 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:23:32.0588 [ERROR]	Failed to parse line: "Dishwashing machinec, domestic",2,1.5
+17:23:32.0601 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:23:32.0618 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:23:32.0628 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:23:32.0639 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:23:32.0658 [ERROR]	Failed to parse line: "Kitchen sink, domestic",2,1.5
+17:23:32.0668 [ERROR]	Failed to parse line: "Kitchen sink, domestic with food waste disposer and/or dishwasher",2,1.5
+17:23:32.0688 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:23:32.0698 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:23:32.0708 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:23:32.0728 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:23:32.0738 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:23:32.0758 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:23:32.0768 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:23:32.0788 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:23:32.0798 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:23:32.0810 [ERROR]	Failed to parse line: "Urinal, 1 gallon per flush or less",2,-100
+17:23:32.0828 [ERROR]	Failed to parse line: "Urinal, nonwater supplied",0.5,-100
+17:23:32.0838 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:23:32.0858 [ERROR]	Failed to parse line: "Water closet, flushometer tank, public or private",4,-100
+17:23:32.0868 [ERROR]	Failed to parse line: "Water closet, private (1.6 gpf)",3,-100
+17:23:32.0890 [ERROR]	Failed to parse line: "Water closet, private (flushing greater than 1.6 gpf)",4,-100
+17:23:32.0908 [ERROR]	Failed to parse line: "Water closet, public (1.6 gpf)",4,-100
+17:23:32.0919 [ERROR]	Failed to parse line: "Water closet, public (flushing greater than 1.6 gpf)",6,-100
+17:23:32.0938 [INFO]	Wash sink (circular or multiple) each set of faucets - 2.0 - 1.5
+17:23:37.5814 [INFO]	Starting Drain Sizer Program
+17:23:37.6374 [DEBUG]	
+
+17:23:37.6504 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:23:37.6524 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:23:37.6544 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:23:37.6564 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:23:37.6584 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:23:37.6604 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:23:37.6624 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:23:37.6634 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:23:37.6656 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:23:37.6696 [ERROR]	Failed to parse line: "Dishwashing machinec, domestic",2,1.5
+17:23:37.6714 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:23:37.6734 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:23:37.6755 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:23:37.6776 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:23:37.6796 [ERROR]	Failed to parse line: "Kitchen sink, domestic",2,1.5
+17:23:37.6804 [ERROR]	Failed to parse line: "Kitchen sink, domestic with food waste disposer and/or dishwasher",2,1.5
+17:23:37.6824 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:23:37.6854 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:23:37.6875 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:23:37.6895 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:23:37.6905 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:23:37.6925 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:23:37.6945 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:23:37.6965 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:23:37.6986 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:23:37.7005 [ERROR]	Failed to parse line: "Urinal, 1 gallon per flush or less",2,-100
+17:23:37.7025 [ERROR]	Failed to parse line: "Urinal, nonwater supplied",0.5,-100
+17:23:37.7035 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:23:37.7056 [ERROR]	Failed to parse line: "Water closet, flushometer tank, public or private",4,-100
+17:23:37.7075 [ERROR]	Failed to parse line: "Water closet, private (1.6 gpf)",3,-100
+17:23:37.7085 [ERROR]	Failed to parse line: "Water closet, private (flushing greater than 1.6 gpf)",4,-100
+17:23:37.7105 [ERROR]	Failed to parse line: "Water closet, public (1.6 gpf)",4,-100
+17:23:37.7125 [ERROR]	Failed to parse line: "Water closet, public (flushing greater than 1.6 gpf)",6,-100
+17:23:37.7145 [INFO]	Wash sink (circular or multiple) each set of faucets - 2.0 - 1.5
+17:24:38.6891 [INFO]	Starting Drain Sizer Program
+17:24:38.7391 [DEBUG]	
+
+17:24:38.7481 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:24:38.7501 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:24:38.7513 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:24:38.7536 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:24:38.7551 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:24:38.7561 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:24:38.7581 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:24:38.7597 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:24:38.7611 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:24:38.7631 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:24:38.7651 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:24:38.7684 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:24:38.7711 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:24:38.7731 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:24:38.7752 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:24:38.7782 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:24:38.7805 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:24:38.7827 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:24:38.7853 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:24:38.7872 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:24:38.7902 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:24:38.7933 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:24:38.7952 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:24:38.7972 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:24:38.8011 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:24:38.8064 [ERROR]	Failed to parse line: "Urinal, 1 gallon per flush or less",2,-100
+17:24:38.8093 [ERROR]	Failed to parse line: "Urinal, nonwater supplied",0.5,-100
+17:24:38.8121 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:24:38.8141 [ERROR]	Failed to parse line: "Water closet, flushometer tank, public or private",4,-100
+17:24:38.8172 [ERROR]	Failed to parse line: "Water closet, private (1.6 gpf)",3,-100
+17:24:38.8193 [ERROR]	Failed to parse line: "Water closet, private (flushing greater than 1.6 gpf)",4,-100
+17:24:38.8212 [ERROR]	Failed to parse line: "Water closet, public (1.6 gpf)",4,-100
+17:24:38.8232 [ERROR]	Failed to parse line: "Water closet, public (flushing greater than 1.6 gpf)",6,-100
+17:24:38.8274 [INFO]	Wash sink (circular or multiple) each set of faucets - 2.0 - 1.5
+17:24:57.1052 [INFO]	Starting Drain Sizer Program
+17:24:57.3198 [DEBUG]	
+
+17:24:57.3283 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:24:57.3299 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:24:57.3309 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:24:57.3329 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:24:57.3346 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:24:57.3361 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:24:57.3369 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:24:57.3379 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:24:57.3400 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:24:57.3415 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:24:57.3426 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:24:57.3450 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:24:57.3465 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:24:57.3476 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:24:57.3490 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:24:57.3501 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:24:57.3517 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:24:57.3528 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:24:57.3538 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:24:57.3555 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:24:57.3575 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:24:57.3594 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:24:57.3607 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:24:57.3618 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:24:57.3637 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:24:57.3666 [ERROR]	Failed to parse line: "Urinal, 1 gallon per flush or less",2,-100
+17:24:57.3677 [ERROR]	Failed to parse line: "Urinal, nonwater supplied",0.5,-100
+17:24:57.3692 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:24:57.3708 [ERROR]	Failed to parse line: "Water closet flushometer tank, public or private",4,-100
+17:24:57.3720 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:24:57.3743 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:24:57.3760 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:24:57.3771 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:24:57.3793 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:25:12.6869 [INFO]	Starting Drain Sizer Program
+17:25:12.7400 [DEBUG]	
+
+17:25:12.7490 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:25:12.7499 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:25:12.7509 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:25:12.7519 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:25:12.7529 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:25:12.7549 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:25:12.7559 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:25:12.7569 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:25:12.7582 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:25:12.7592 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:25:12.7602 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:25:12.7622 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:25:12.7632 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:25:12.7642 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:25:12.7652 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:25:12.7672 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:25:12.7682 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:25:12.7692 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:25:12.7702 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:25:12.7723 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:25:12.7732 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:25:12.7742 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:25:12.7762 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:25:12.7772 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:25:12.7782 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:25:12.7792 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:25:12.7812 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:25:12.7822 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:25:12.7832 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:25:12.7852 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:25:12.7862 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:25:12.7872 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:25:12.7892 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:25:12.7912 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:28:37.2396 [FATAL]	Debug mode is not implemented yet
+17:28:37.2646 [INFO]	Starting Drain Sizer Program
+17:28:37.3036 [DEBUG]	
+
+17:28:37.3135 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:28:37.3155 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:28:37.3165 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:28:37.3185 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:28:37.3195 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:28:37.3206 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:28:37.3216 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:28:37.3225 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:28:37.3235 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:28:37.3245 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:28:37.3266 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:28:37.3283 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:28:37.3288 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:28:37.3298 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:28:37.3318 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:28:37.3338 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:28:37.3348 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:28:37.3358 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:28:37.3358 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:28:37.3368 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:28:37.3388 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:28:37.3398 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:28:37.3409 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:28:37.3418 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:28:37.3428 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:28:37.3448 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:28:37.3458 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:28:37.3478 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:28:37.3498 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:28:37.3509 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:28:37.3528 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:28:37.3538 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:28:37.3548 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:28:37.3568 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:34:11.1634 [FATAL]	Debug mode is not implemented yet
+17:34:11.1973 [INFO]	Starting Drain Sizer Program
+17:34:11.2293 [DEBUG]	
+
+17:34:11.2373 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:34:11.2383 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:34:11.2393 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:34:11.2403 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:34:11.2423 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:34:11.2433 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:34:11.2443 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:34:11.2453 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:34:11.2463 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:34:11.2473 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:34:11.2483 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:34:11.2493 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:34:11.2503 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:34:11.2513 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:34:11.2533 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:34:11.2543 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:34:11.2553 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:34:11.2563 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:34:11.2573 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:34:11.2593 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:34:11.2603 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:34:11.2613 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:34:11.2633 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:34:11.2643 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:34:11.2653 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:34:11.2663 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:34:11.2683 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:34:11.2703 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:34:11.2723 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:34:11.2733 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:34:11.2743 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:11.2763 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:11.2783 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:34:11.2804 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:34:13.9883 [ERROR]	Not added
+17:34:14.4846 [ERROR]	Not added
+17:34:34.9649 [FATAL]	Debug mode is not implemented yet
+17:34:35.0213 [INFO]	Starting Drain Sizer Program
+17:34:35.1184 [DEBUG]	
+
+17:34:35.1404 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:34:35.1448 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:34:35.1494 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:34:35.1525 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:34:35.1554 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:34:35.1585 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:34:35.1624 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:34:35.1674 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:34:35.1708 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:34:35.1745 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:34:35.1785 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:34:35.1815 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:34:35.1855 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:34:35.1886 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:34:35.1915 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:34:35.1962 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:34:35.1996 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:34:35.2026 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:34:35.2066 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:34:35.2115 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:34:35.2155 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:34:35.2185 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:34:35.2215 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:34:35.2249 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:34:35.2285 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:34:35.2305 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:34:35.2341 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:34:35.2376 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:34:35.2415 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:34:35.2446 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:34:35.2475 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:35.2504 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:35.2535 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:34:35.2585 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:34:37.3033 [DEBUG]	
+
+17:34:48.2217 [FATAL]	Debug mode is not implemented yet
+17:34:48.2516 [INFO]	Starting Drain Sizer Program
+17:34:48.2916 [DEBUG]	
+
+17:34:48.3026 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:34:48.3036 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:34:48.3046 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:34:48.3066 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:34:48.3076 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:34:48.3107 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:34:48.3126 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:34:48.3136 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:34:48.3146 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:34:48.3166 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:34:48.3186 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:34:48.3198 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:34:48.3206 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:34:48.3216 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:34:48.3236 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:34:48.3248 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:34:48.3266 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:34:48.3276 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:34:48.3297 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:34:48.3316 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:34:48.3325 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:34:48.3345 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:34:48.3355 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:34:48.3365 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:34:48.3385 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:34:48.3395 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:34:48.3415 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:34:48.3435 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:34:48.3456 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:34:48.3466 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:34:48.3485 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:48.3495 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:34:48.3505 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:34:48.3525 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:57:37.6345 [FATAL]	Debug mode is not implemented yet
+17:57:37.6567 [INFO]	Starting Drain Sizer Program
+17:57:37.6907 [DEBUG]	
+
+17:57:37.6996 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:57:37.7005 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:57:37.7015 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:57:37.7025 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:57:37.7035 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:57:37.7045 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:57:37.7055 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:57:37.7065 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:57:37.7075 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:57:37.7085 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:57:37.7095 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:57:37.7105 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:57:37.7115 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:57:37.7135 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:57:37.7155 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:57:37.7167 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:57:37.7182 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:57:37.7195 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:57:37.7205 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:57:37.7215 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:57:37.7235 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:57:37.7245 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:57:37.7265 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:57:37.7275 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:57:37.7295 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:57:37.7315 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:57:37.7333 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:57:37.7346 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:57:37.7355 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:57:37.7375 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:57:37.7385 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:57:37.7395 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:57:37.7405 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:57:37.7425 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+17:57:51.0154 [FATAL]	Debug mode is not implemented yet
+17:57:51.0409 [INFO]	Starting Drain Sizer Program
+17:57:51.0820 [DEBUG]	
+
+17:57:51.0930 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+17:57:51.0940 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+17:57:51.0950 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+17:57:51.0970 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+17:57:51.0980 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+17:57:51.0990 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+17:57:51.1010 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+17:57:51.1030 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+17:57:51.1040 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+17:57:51.1058 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+17:57:51.1070 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+17:57:51.1080 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+17:57:51.1090 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+17:57:51.1100 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+17:57:51.1130 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+17:57:51.1147 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+17:57:51.1156 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+17:57:51.1176 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+17:57:51.1186 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+17:57:51.1207 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+17:57:51.1216 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+17:57:51.1232 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+17:57:51.1236 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+17:57:51.1246 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+17:57:51.1266 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+17:57:51.1286 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+17:57:51.1310 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+17:57:51.1316 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+17:57:51.1326 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+17:57:51.1346 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+17:57:51.1357 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:57:51.1376 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+17:57:51.1376 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+17:57:51.1396 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
