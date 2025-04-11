@@ -17,5 +17,10 @@ public class WaterCloset extends Fixture {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getMinimumTrapSize'");
     }
+    @Override
+    public String toString() {
+        // TODO Auto-generated method stub
+        return super.toString() + "Water closet - (" + (getIsPublic() == true ? "public" : "private") + ")";
+    }
     
 }

@@ -1,7 +1,4 @@
 package drainsizer;
-import java.util.*;
-
-import fixtures.*;
 
 //This is the list of all the fixtures list provided by code.
 public class PlumbingCodeDefinition {

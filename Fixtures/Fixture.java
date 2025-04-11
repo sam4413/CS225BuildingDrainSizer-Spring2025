@@ -36,6 +36,6 @@ public abstract class Fixture {
 
     @Override
     public String toString() {
-        return "whatever";
+        return "x"+getQuantity()+" ";
     }
 }

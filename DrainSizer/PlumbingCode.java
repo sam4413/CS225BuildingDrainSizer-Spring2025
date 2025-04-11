@@ -16,7 +16,7 @@ public class PlumbingCode {
      */
 
     // This reads the csv file and returns a string of the csv file to be parsed.
-
+    
     public ArrayList<PlumbingCodeDefinition> fixturesList;
 
     public ArrayList<String> readCodeFile(String filePath) {
@@ -35,6 +35,7 @@ public class PlumbingCode {
     // data and assemble it into the arraylist.
     // Populates fixturesList from the CSV data
     public void assembleFixtureDefinitions(String filePath) {
+        fixturesList = new ArrayList<PlumbingCodeDefinition>();
         ArrayList<String> csvLines = readCodeFile(filePath);
         if (csvLines == null)
             return;
@@ -49,7 +50,6 @@ public class PlumbingCode {
                     String fixtureName = parts[0].trim();
                     double dfu = Double.parseDouble(parts[1].trim());
                     double trapSize = Double.parseDouble(parts[2].trim());
-                    fixturesList = new ArrayList<PlumbingCodeDefinition>();
                     PlumbingCodeDefinition def = new PlumbingCodeDefinition(fixtureName, dfu, trapSize);
                     fixturesList.add(def);
                     Log.info("Loaded fixture: " + fixtureName + " | DFU: " + dfu + " | Trap: " + trapSize);
@@ -60,6 +60,10 @@ public class PlumbingCode {
                 Log.error("Invalid line format: " + line);
             }
         }
+        /*for (PlumbingCodeDefinition fixture : fixturesList) {
+            Log.fatal(fixture.getFixtureName());
+            Log.fatal(fixturesList.size());
+        }*/
     }
 
     public double getDfuForType(String fixtureType) {

@@ -17,5 +17,9 @@ public class KitchenSink extends Fixture {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getMinimumTrapSize'");
     }
-    
+    @Override
+    public String toString() {
+        // TODO Auto-generated method stub
+        return super.toString() + "Kitchen sink - (" + (getIsPublic() == true ? "public" : "private") + ")";
+    }
 }

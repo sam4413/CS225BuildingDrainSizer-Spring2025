@@ -5,30 +5,25 @@ import java.util.Scanner;
 public class InputHelper {
     //im in the middle of debugging a scanner bug, so this will look a bit messy for now. 
     // in next demo on thursday this will be fixed. Check github for updates.
-    public static int processIntChoice() {
+    public static int processIntChoice(Scanner input, String prompt) {
         int choice = -1;
         try {
-            Scanner input = new Scanner(System.in);
-            Log.out("Please enter an option: ");
+            Log.out(prompt);
             String inChoice = input.nextLine();
             choice = Integer.parseInt(inChoice);
-            input.close();
             return choice;
         } catch (Exception err) {
-            /*Log.error(
+            Log.error(
                     "An error has occured: " + err.getMessage() + "\nStack Trace: " + ExceptionHelper.stackToString(err));
-            return -1;*/
-            return 8;
+            return -1;
         }
 
     }
 
-    public static String processStringChoice() {
+    public static String processStringChoice(Scanner input, String prompt) {
         try {
-            Scanner input = new Scanner(System.in);
-            Log.out("Please enter an option: ");
+            Log.out(prompt);
             String inChoice = input.nextLine();
-            input.close();
             return inChoice;
         } catch (Exception err) {
             Log.error(
@@ -36,5 +31,17 @@ public class InputHelper {
             return null;
         }
 
+    }
+
+    public static void processPause(Scanner input, String prompt) {
+        try {
+            Log.out(prompt);
+            input.nextLine();
+            return;
+        } catch (Exception err) {
+            Log.error(
+                    "An error has occured: " + err.getMessage() + "\nStack Trace: " + ExceptionHelper.stackToString(err));
+            return;
+        }
     }
 }

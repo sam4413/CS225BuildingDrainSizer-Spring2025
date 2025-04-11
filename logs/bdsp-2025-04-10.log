@@ -1,0 +1,318 @@
+15:53:14.5137 [FATAL]	Debug mode is not implemented yet
+15:53:14.5327 [INFO]	Starting Drain Sizer Program
+15:53:14.5628 [DEBUG]	
+
+15:53:14.5708 [INFO]	Loaded fixture: Automatic clothes washers commercial | DFU: 3.0 | Trap: 2.0
+15:53:14.5708 [INFO]	Loaded fixture: Automatic clothes washers residential | DFU: 2.0 | Trap: 2.0
+15:53:14.5718 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (1.6 gpf water closet) | DFU: 5.0 | Trap: 0.0
+15:53:14.5728 [INFO]	Loaded fixture: Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: 0.0
+15:53:14.5738 [INFO]	Loaded fixture: Bathtubb (with or without overhead shower or whirlpool attachments) | DFU: 2.0 | Trap: 1.5
+15:53:14.5748 [INFO]	Loaded fixture: Bidet | DFU: 1.0 | Trap: 1.25
+15:53:14.5748 [INFO]	Loaded fixture: Combination sink and tray | DFU: 2.0 | Trap: 1.5
+15:53:14.5758 [INFO]	Loaded fixture: Dental lavatory | DFU: 1.0 | Trap: 1.25
+15:53:14.5758 [INFO]	Loaded fixture: Dental unit or cuspidor | DFU: 1.0 | Trap: 1.25
+15:53:14.5769 [INFO]	Loaded fixture: Dishwashing machine domestic | DFU: 2.0 | Trap: 1.5
+15:53:14.5777 [INFO]	Loaded fixture: Drinking fountain | DFU: 0.5 | Trap: 1.25
+15:53:14.5778 [INFO]	Loaded fixture: Emergency floor drain | DFU: 0.0 | Trap: 2.0
+15:53:14.5788 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+15:53:14.5788 [INFO]	Loaded fixture: Floor sinks | DFU: -200.0 | Trap: 2.0
+15:53:14.5814 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+15:53:14.5819 [INFO]	Loaded fixture: Kitchen sink domestic with food waste disposer and/or dishwasher | DFU: 2.0 | Trap: 1.5
+15:53:14.5829 [INFO]	Loaded fixture: Laundry tray (1 or 2 compartments) | DFU: 2.0 | Trap: 1.5
+15:53:14.5838 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+15:53:14.5848 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less | DFU: 2.0 | Trap: 1.5
+15:53:14.5858 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm | DFU: 3.0 | Trap: 1.5
+15:53:14.5858 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm | DFU: 5.0 | Trap: 2.0
+15:53:14.5872 [INFO]	Loaded fixture: Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm | DFU: 6.0 | Trap: 2.0
+15:53:14.5881 [INFO]	Loaded fixture: Service sink | DFU: 2.0 | Trap: 1.5
+15:53:14.5901 [INFO]	Loaded fixture: Sink | DFU: 2.0 | Trap: 1.5
+15:53:14.5921 [INFO]	Loaded fixture: Urinal | DFU: 4.0 | Trap: -100.0
+15:53:14.5931 [INFO]	Loaded fixture: Urinal 1 gallon per flush or less | DFU: 2.0 | Trap: -100.0
+15:53:14.5931 [INFO]	Loaded fixture: Urinal nonwater supplied | DFU: 0.5 | Trap: -100.0
+15:53:14.5941 [INFO]	Loaded fixture: Wash sink (circular or multiple) each set of faucets | DFU: 2.0 | Trap: 1.5
+15:53:14.5951 [INFO]	Loaded fixture: Water closet flushometer tank public or private | DFU: 4.0 | Trap: -100.0
+15:53:14.5971 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+15:53:14.5981 [INFO]	Loaded fixture: Water closet private (flushing greater than 1.6 gpf) | DFU: 4.0 | Trap: -100.0
+15:53:14.5992 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+15:53:14.6001 [INFO]	Loaded fixture: Water closet public (flushing greater than 1.6 gpf) | DFU: 6.0 | Trap: -100.0
+15:53:14.6022 [INFO]	Automatic clothes washers commercial - 3.0 - 2.0
+15:53:14.6032 [INFO]	Automatic clothes washers residential - 2.0 - 2.0
+15:53:14.6041 [INFO]	Bathroom group as defined in Section 202 (1.6 gpf water closet) - 5.0 - 0.0
+15:53:14.6041 [INFO]	Bathroom group as defined in Section 202 (water closet flushing greater than 1.6 gpf) - 6.0 - 0.0
+15:53:14.6051 [INFO]	Bathtubb (with or without overhead shower or whirlpool attachments) - 2.0 - 1.5
+15:53:14.6062 [INFO]	Bidet - 1.0 - 1.25
+15:53:14.6071 [INFO]	Combination sink and tray - 2.0 - 1.5
+15:53:14.6071 [INFO]	Dental lavatory - 1.0 - 1.25
+15:53:14.6081 [INFO]	Dental unit or cuspidor - 1.0 - 1.25
+15:53:14.6092 [INFO]	Dishwashing machine domestic - 2.0 - 1.5
+15:53:14.6102 [INFO]	Drinking fountain - 0.5 - 1.25
+15:53:14.6116 [INFO]	Emergency floor drain - 0.0 - 2.0
+15:53:14.6132 [INFO]	Floor drains - 2.0 - 2.0
+15:53:14.6132 [INFO]	Floor sinks - -200.0 - 2.0
+15:53:14.6152 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+15:53:14.6162 [INFO]	Kitchen sink domestic with food waste disposer and/or dishwasher - 2.0 - 1.5
+15:53:14.6167 [INFO]	Laundry tray (1 or 2 compartments) - 2.0 - 1.5
+15:53:14.6177 [INFO]	Lavatory - 1.0 - 1.25
+15:53:14.6177 [INFO]	Shower (based on the total flow rate through showerheads and body sprays) Flow rate: 5.7 gpm or less - 2.0 - 1.5
+15:53:14.6188 [INFO]	Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 5.7 gpm to 12.3 gpm - 3.0 - 1.5
+15:53:14.6197 [INFO]	Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 12.3 gpm to 25.8 gpm - 5.0 - 2.0
+15:53:14.6213 [INFO]	Shower (based on the total flow rate through showerheads and body sprays) Flow rate: Greater than 25.8 gpm to 55.6 gpm - 6.0 - 2.0
+15:53:14.6225 [INFO]	Service sink - 2.0 - 1.5
+15:53:14.6233 [INFO]	Sink - 2.0 - 1.5
+15:53:14.6243 [INFO]	Urinal - 4.0 - -100.0
+15:53:14.6253 [INFO]	Urinal 1 gallon per flush or less - 2.0 - -100.0
+15:53:14.6270 [INFO]	Urinal nonwater supplied - 0.5 - -100.0
+15:53:14.6279 [INFO]	Wash sink (circular or multiple) each set of faucets - 2.0 - 1.5
+15:53:14.6289 [INFO]	Water closet flushometer tank public or private - 4.0 - -100.0
+15:53:14.6309 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+15:53:14.6322 [INFO]	Water closet private (flushing greater than 1.6 gpf) - 4.0 - -100.0
+15:53:14.6329 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+15:53:14.6339 [INFO]	Water closet public (flushing greater than 1.6 gpf) - 6.0 - -100.0
+15:54:28.2530 [ERROR]	Not Final
+16:09:04.6559 [FATAL]	Debug mode is not implemented yet
+16:09:04.6729 [INFO]	Starting Drain Sizer Program
+16:09:04.6976 [DEBUG]	
+
+16:09:04.7056 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:09:04.7066 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:09:04.7076 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:09:04.7086 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:09:04.7096 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:09:04.7127 [INFO]	Floor drains - 2.0 - 2.0
+16:09:04.7179 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:09:04.7197 [INFO]	Lavatory - 1.0 - 1.25
+16:09:04.7216 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:09:04.7239 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:09:05.7359 [ERROR]	Not Final
+16:09:20.5292 [FATAL]	Debug mode is not implemented yet
+16:09:20.5479 [INFO]	Starting Drain Sizer Program
+16:09:20.5758 [DEBUG]	
+
+16:09:20.5868 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:09:20.5878 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:09:20.5898 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:09:20.5908 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:09:20.5908 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:09:20.5928 [INFO]	Floor drains - 2.0 - 2.0
+16:09:20.5999 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:09:20.6031 [INFO]	Lavatory - 1.0 - 1.25
+16:09:20.6045 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:09:20.6058 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:09:30.0609 [FATAL]	Debug mode is not implemented yet
+16:09:30.0796 [INFO]	Starting Drain Sizer Program
+16:09:30.1047 [DEBUG]	
+
+16:09:30.1159 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:09:30.1170 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:09:30.1170 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:09:30.1179 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:09:30.1189 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:09:30.1219 [INFO]	Floor drains - 2.0 - 2.0
+16:09:30.1229 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:09:30.1229 [INFO]	Lavatory - 1.0 - 1.25
+16:09:30.1260 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:09:30.1285 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:09:35.5439 [FATAL]	Debug mode is not implemented yet
+16:09:35.5627 [INFO]	Starting Drain Sizer Program
+16:09:35.5997 [DEBUG]	
+
+16:09:35.6087 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:09:35.6107 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:09:35.6117 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:09:35.6127 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:09:35.6137 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:09:35.6157 [INFO]	Floor drains - 2.0 - 2.0
+16:09:35.6162 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:09:35.6168 [INFO]	Lavatory - 1.0 - 1.25
+16:09:35.6168 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:09:35.6178 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:23:19.2591 [FATAL]	Debug mode is not implemented yet
+16:23:19.2798 [INFO]	Starting Drain Sizer Program
+16:23:19.3056 [DEBUG]	
+
+16:23:19.3126 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:23:19.3147 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:23:19.3166 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:23:19.3176 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:23:19.3186 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:23:19.3217 [INFO]	Floor drains - 2.0 - 2.0
+16:23:19.3222 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:23:19.3233 [INFO]	Lavatory - 1.0 - 1.25
+16:23:19.3242 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:23:19.3242 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:23:20.6453 [ERROR]	Not Final
+16:38:47.1103 [FATAL]	Debug mode is not implemented yet
+16:38:47.1275 [INFO]	Starting Drain Sizer Program
+16:38:47.1505 [DEBUG]	
+
+16:38:47.1575 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:38:47.1596 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:38:47.1605 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:38:47.1605 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:38:47.1618 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:38:47.1638 [INFO]	Floor drains - 2.0 - 2.0
+16:38:47.1648 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:38:47.1658 [INFO]	Lavatory - 1.0 - 1.25
+16:38:47.1668 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:38:47.1668 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:38:47.9792 [ERROR]	Not Final
+16:38:48.0462 [ERROR]	An error has occured: For input string: ""
+Stack Trace: java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:678)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:13)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+16:38:48.0462 [ERROR]	Invalid value!
+16:38:51.0069 [ERROR]	Invalid value!
+16:39:13.4699 [FATAL]	Debug mode is not implemented yet
+16:39:13.4893 [INFO]	Starting Drain Sizer Program
+16:39:13.5201 [DEBUG]	
+
+16:39:13.5263 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:39:13.5285 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:39:13.5292 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:39:13.5308 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:39:13.5323 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:39:13.5367 [INFO]	Floor drains - 2.0 - 2.0
+16:39:13.5373 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:39:13.5401 [INFO]	Lavatory - 1.0 - 1.25
+16:39:13.5431 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:39:13.5460 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:39:14.5137 [ERROR]	An error has occured: For input string: "q"
+Stack Trace: java.lang.NumberFormatException: For input string: "q"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:13)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:57)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+16:39:16.2153 [ERROR]	An error has occured: For input string: "q"
+Stack Trace: java.lang.NumberFormatException: For input string: "q"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:13)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:57)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+16:39:17.0947 [ERROR]	Not Final
+16:44:14.3846 [FATAL]	Debug mode is not implemented yet
+16:44:14.4007 [INFO]	Starting Drain Sizer Program
+16:44:14.4265 [DEBUG]	
+
+16:44:14.4330 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:44:14.4350 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:44:14.4360 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:44:14.4370 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:44:14.4380 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:44:14.4409 [INFO]	Floor drains - 2.0 - 2.0
+16:44:14.4420 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:44:14.4430 [INFO]	Lavatory - 1.0 - 1.25
+16:44:14.4440 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:44:14.4450 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:44:15.2888 [ERROR]	Not Final
+16:44:25.1286 [ERROR]	Fixture type 'Lavatory' has no matching implementation.
+16:45:41.1746 [FATAL]	Debug mode is not implemented yet
+16:45:41.1943 [INFO]	Starting Drain Sizer Program
+16:45:41.2176 [DEBUG]	
+
+16:45:41.2262 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:45:41.2287 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:45:41.2292 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:45:41.2312 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:45:41.2323 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:45:41.2352 [INFO]	Floor drains - 2.0 - 2.0
+16:45:41.2373 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:45:41.2373 [INFO]	Lavatory - 1.0 - 1.25
+16:45:41.2382 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:45:41.2402 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:45:42.1785 [ERROR]	Not Final
+16:46:51.3735 [FATAL]	Debug mode is not implemented yet
+16:46:51.3964 [INFO]	Starting Drain Sizer Program
+16:46:51.4243 [DEBUG]	
+
+16:46:51.4303 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:46:51.4329 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:46:51.4336 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:46:51.4348 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:46:51.4359 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:46:51.4386 [INFO]	Floor drains - 2.0 - 2.0
+16:46:51.4396 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:46:51.4406 [INFO]	Lavatory - 1.0 - 1.25
+16:46:51.4417 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:46:51.4437 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:46:52.1314 [ERROR]	Not Final
+16:48:54.3291 [FATAL]	Debug mode is not implemented yet
+16:48:54.3453 [INFO]	Starting Drain Sizer Program
+16:48:54.3723 [DEBUG]	
+
+16:48:54.3793 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:48:54.3803 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:48:54.3822 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:48:54.3851 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:48:54.3871 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:48:54.3891 [INFO]	Floor drains - 2.0 - 2.0
+16:48:54.3901 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:48:54.3901 [INFO]	Lavatory - 1.0 - 1.25
+16:48:54.3919 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:48:54.3926 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:48:55.6435 [ERROR]	Not Final
+16:58:24.8044 [FATAL]	Debug mode is not implemented yet
+16:58:24.8228 [INFO]	Starting Drain Sizer Program
+16:58:24.8496 [DEBUG]	
+
+16:58:24.8571 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:58:24.8584 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:58:24.8616 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:58:24.8627 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:58:24.8635 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:58:24.8655 [INFO]	Floor drains - 2.0 - 2.0
+16:58:24.8665 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:58:24.8675 [INFO]	Lavatory - 1.0 - 1.25
+16:58:24.8675 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:58:24.8685 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:58:26.3472 [ERROR]	Not Final
+16:58:31.6264 [FATAL]	Debug mode is not implemented yet
+16:58:31.6493 [INFO]	Starting Drain Sizer Program
+16:58:31.6983 [DEBUG]	
+
+16:58:31.7074 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:58:31.7083 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:58:31.7083 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:58:31.7093 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:58:31.7103 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:58:31.7113 [INFO]	Floor drains - 2.0 - 2.0
+16:58:31.7127 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:58:31.7134 [INFO]	Lavatory - 1.0 - 1.25
+16:58:31.7143 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:58:31.7166 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:58:32.4425 [ERROR]	Not Final
+16:59:04.8489 [FATAL]	Debug mode is not implemented yet
+16:59:04.8691 [INFO]	Starting Drain Sizer Program
+16:59:04.8976 [DEBUG]	
+
+16:59:04.9046 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:59:04.9065 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:59:04.9095 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:59:04.9105 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:59:04.9121 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:59:04.9140 [INFO]	Floor drains - 2.0 - 2.0
+16:59:04.9140 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:59:04.9150 [INFO]	Lavatory - 1.0 - 1.25
+16:59:04.9150 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:59:04.9160 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+16:59:05.8795 [ERROR]	Not Final
+16:59:12.8286 [ERROR]	Fixture type 'Floor drain' not found in definitions.
+16:59:23.6164 [ERROR]	Fixture type 'Floor drain' not found in definitions.
+16:59:38.7943 [ERROR]	Fixture type 'Kitchen sink' not found in definitions.
+16:59:47.0745 [ERROR]	Fixture type 'Water closet' not found in definitions.
+17:00:09.1336 [ERROR]	Fixture type 'Kitchen Sink' not found in definitions.

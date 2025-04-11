@@ -31,4 +31,8 @@ public class Fixtures {
     public int getFixturesArrayLength() {
         return FixturesList.size();
     }
+
+    public ArrayList<Fixture> getFixturesList() {
+        return FixturesList;
+    }
 }

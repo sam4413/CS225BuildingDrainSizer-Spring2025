@@ -1,6 +1,5 @@
 package utils;
 import java.io.*;
-import utils.*;
 
 public class ExceptionHelper {
     public static String stackToString(Exception err) {

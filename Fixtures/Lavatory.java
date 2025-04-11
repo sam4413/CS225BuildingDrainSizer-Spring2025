@@ -17,5 +17,10 @@ public class Lavatory extends Fixture {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getMinimumTrapSize'");
     }
+    @Override
+    public String toString() {
+        // TODO Auto-generated method stub
+        return super.toString() + "Lavatory - (" + (getIsPublic() == true ? "public" : "private") + ")";
+    }
     
 }

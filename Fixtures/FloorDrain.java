@@ -20,6 +20,6 @@ public class FloorDrain extends Fixture {
     @Override
     public String toString() {
         // TODO Auto-generated method stub
-        return super.toString() + "whaterver ersgdg";
+        return super.toString() + "Floor drain - (" + (getIsPublic() == true ? "public" : "private") + ")";
     }
 }

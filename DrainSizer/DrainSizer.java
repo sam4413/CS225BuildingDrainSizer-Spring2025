@@ -7,13 +7,15 @@ import utils.*;
 
 //This is the main program. This is basically the main menu of the program. The user can choose between the options and passes the actions to their respective methods. This class also contains the currently stored currently added fixtures.
 public class DrainSizer {
+    public PlumbingCode code;
+    public Fixtures fixtures;
     // Main runner method
 
     //prerunner
     public void prerunner() {
-        PlumbingCode code = new PlumbingCode();
+        code = new PlumbingCode();
         code.assembleFixtureDefinitions("codes.csv");
-
+        Log.clear();
         ArrayList<PlumbingCodeDefinition> element = code.getFixturesList();
         
         for (PlumbingCodeDefinition thing : element) {
@@ -24,6 +26,8 @@ public class DrainSizer {
 
             }
         }
+
+        fixtures = new Fixtures();
     }
 
     public void run() {
@@ -33,7 +37,7 @@ public class DrainSizer {
             int choice = -1;
             do {
                 menu(); 
-                choice = menuSelector();
+                choice = menuSelector(input);
             } while (choice != 3);
             
 
@@ -49,14 +53,15 @@ public class DrainSizer {
         }
     }
 
-    public int menuSelector() {
-        int choice = InputHelper.processIntChoice();
+    public int menuSelector(Scanner input) {
+        int choice = InputHelper.processIntChoice(input, "Please enter an option: ");
         switch (choice) {
             case 1:
                 choice = 1;
+                Log.clear();
                 Log.error("Not Final");
                 FixtureOperations myFixtureOperations = new FixtureOperations();
-                myFixtureOperations.fixtureMenu();
+                myFixtureOperations.fixtureMenu(input, code, fixtures);
                 break;
             case 2:
                 choice = 2;
@@ -77,6 +82,7 @@ public class DrainSizer {
     // Top most level of the menu. This will allow the user to either create a new
     // project or load from an existing one.
     public void menu() {
+        //Log.clear();
         Log.out(Color.GREEN + """
                 == Building Drain Sizer ==
                 """ + Color.WHITE + "Welcome. Please choose an option:\n" +

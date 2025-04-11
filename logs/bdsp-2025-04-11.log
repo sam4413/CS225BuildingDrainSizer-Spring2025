@@ -1,0 +1,16 @@
+09:55:49.4067 [ERROR]	Fixture type 'Kitchen Sink' not found in definitions.
+10:23:16.9794 [FATAL]	Debug mode is not implemented yet
+10:23:17.0065 [INFO]	Starting Drain Sizer Program
+10:23:17.0416 [DEBUG]	
+
+10:23:17.0536 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+10:23:17.0556 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+10:23:17.0567 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+10:23:17.0586 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+10:23:17.0596 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+10:23:17.0626 [INFO]	Floor drains - 2.0 - 2.0
+10:23:17.0636 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+10:23:17.0646 [INFO]	Lavatory - 1.0 - 1.25
+10:23:17.0656 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+10:23:17.0666 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+10:24:11.8395 [ERROR]	Not Final

@@ -3,7 +3,6 @@ package drainsizer;
 import java.io.*;
 import java.util.*;
 
-import fixtures.*;
 import utils.*;
 
 /*
