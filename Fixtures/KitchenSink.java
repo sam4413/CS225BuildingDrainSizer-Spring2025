@@ -1,25 +1,33 @@
 package fixtures;
 
 public class KitchenSink extends Fixture {
+    private double baseDFU;
+    private double minTrapSize;
 
-    public KitchenSink(int m_quantity, boolean m_isPublic) {
+    // Note the extra parameters: baseDFU and minTrapSize
+    public KitchenSink(int m_quantity, boolean m_isPublic, double baseDFU, double minTrapSize) {
         super(m_quantity, m_isPublic);
+        this.baseDFU = baseDFU;
+        this.minTrapSize = minTrapSize;
     }
 
     @Override
     public double getBaseDFU() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getBaseDFU'");
+        return baseDFU;
     }
 
     @Override
     public double getMinimumTrapSize() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getMinimumTrapSize'");
+        return (minTrapSize == -100) ? calculateDefaultTrapSize() : minTrapSize;
     }
+    
+    private double calculateDefaultTrapSize() {
+        return baseDFU; 
+    }
+    
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
-        return super.toString() + "Kitchen sink - (" + (getIsPublic() == true ? "public" : "private") + ")";
+        String usage = getIsPublic() ? "public" : "private";
+        return super.toString() + "Kitchen Sink - (" + usage + ") [DFU: " + getBaseDFU() + ", Trap Size: " + getMinimumTrapSize() + "]";
     }
 }

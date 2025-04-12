@@ -1,26 +1,33 @@
 package fixtures;
 
 public class Lavatory extends Fixture {
+    private double baseDFU;
+    private double minTrapSize;
 
-    public Lavatory(int m_quantity, boolean m_isPublic) {
+    // Note the extra parameters: baseDFU and minTrapSize
+    public Lavatory(int m_quantity, boolean m_isPublic, double baseDFU, double minTrapSize) {
         super(m_quantity, m_isPublic);
+        this.baseDFU = baseDFU;
+        this.minTrapSize = minTrapSize;
     }
 
     @Override
     public double getBaseDFU() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getBaseDFU'");
+        return baseDFU;
     }
 
     @Override
     public double getMinimumTrapSize() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getMinimumTrapSize'");
-    }
-    @Override
-    public String toString() {
-        // TODO Auto-generated method stub
-        return super.toString() + "Lavatory - (" + (getIsPublic() == true ? "public" : "private") + ")";
+        return (minTrapSize == -100) ? calculateDefaultTrapSize() : minTrapSize;
     }
     
+    private double calculateDefaultTrapSize() {
+        return baseDFU; 
+    }
+    
+    @Override
+    public String toString() {
+        String usage = getIsPublic() ? "public" : "private";
+        return super.toString() + "Lavatory - (" + usage + ") [DFU: " + getBaseDFU() + ", Trap Size: " + getMinimumTrapSize() + "]";
+    }
 }

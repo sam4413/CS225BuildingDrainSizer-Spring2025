@@ -14,3 +14,201 @@
 10:23:17.0656 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
 10:23:17.0666 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
 10:24:11.8395 [ERROR]	Not Final
+22:00:26.1124 [FATAL]	Debug mode is not implemented yet
+22:00:26.1224 [INFO]	Starting Drain Sizer Program
+22:00:26.1366 [DEBUG]	
+
+22:00:26.1404 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:00:26.1404 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+22:00:26.1414 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:00:26.1414 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:00:26.1424 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:00:26.1434 [INFO]	Floor drains - 2.0 - 2.0
+22:00:26.1434 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+22:00:26.1434 [INFO]	Lavatory - 1.0 - 1.25
+22:00:26.1444 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:00:26.1444 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:02:19.8355 [ERROR]	Not Final
+22:02:23.2649 [FATAL]	Debug mode is not implemented yet
+22:02:23.2722 [INFO]	Starting Drain Sizer Program
+22:02:23.2842 [DEBUG]	
+
+22:02:23.2866 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:02:23.2876 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+22:02:23.2876 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:02:23.2876 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:02:23.2886 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:02:23.2896 [INFO]	Floor drains - 2.0 - 2.0
+22:02:23.2896 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+22:02:23.2896 [INFO]	Lavatory - 1.0 - 1.25
+22:02:23.2906 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:02:23.2906 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:02:26.7250 [ERROR]	Not Final
+22:02:28.9010 [ERROR]	An error has occured: For input string: ""
+Stack Trace: java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:672)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at utils.InputHelper.processIntChoice(InputHelper.java:13)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+22:02:28.9020 [ERROR]	Invalid value!
+22:02:29.4444 [ERROR]	An error has occured: No line found
+Stack Trace: java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at utils.InputHelper.processIntChoice(InputHelper.java:12)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+22:02:29.4444 [ERROR]	Invalid value!
+22:06:50.7336 [FATAL]	Debug mode is not implemented yet
+22:06:50.7425 [INFO]	Starting Drain Sizer Program
+22:06:50.7547 [DEBUG]	
+
+22:06:50.7577 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:06:50.7587 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+22:06:50.7587 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:06:50.7597 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:06:50.7597 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:06:50.7607 [INFO]	Floor drains - 2.0 - 2.0
+22:06:50.7607 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+22:06:50.7617 [INFO]	Lavatory - 1.0 - 1.25
+22:06:50.7617 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:06:50.7617 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:10:22.1534 [FATAL]	Debug mode is not implemented yet
+22:10:22.1607 [INFO]	Starting Drain Sizer Program
+22:10:22.1733 [DEBUG]	
+
+22:10:22.1764 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:10:22.1773 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+22:10:22.1773 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:10:22.1773 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:10:22.1783 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:10:22.1793 [INFO]	Floor drains - 2.0 - 2.0
+22:10:22.1793 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+22:10:22.1793 [INFO]	Lavatory - 1.0 - 1.25
+22:10:22.1803 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:10:22.1803 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:27:01.6104 [FATAL]	Debug mode is not implemented yet
+22:27:01.6175 [INFO]	Starting Drain Sizer Program
+22:27:01.6294 [DEBUG]	
+
+22:27:01.6324 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:27:01.6324 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+22:27:01.6324 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:27:01.6334 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:27:01.6334 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:27:01.6344 [INFO]	Floor drains - 2.0 - 2.0
+22:27:01.6354 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+22:27:01.6354 [INFO]	Lavatory - 1.0 - 1.25
+22:27:01.6354 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:27:01.6364 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:27:04.2945 [ERROR]	Not Final
+22:27:07.1267 [ERROR]	Not added
+23:10:13.1832 [ERROR]	An error has occured: For input string: "cd "c:\Users\Adam\OneDrive - Embry-Riddle Aeronautical University\Desktop\CS225 Spring 2025\Final Project\Project\" && javac DrainSizerRunner.java && java DrainSizerRunner"
+Stack Trace: java.lang.NumberFormatException: For input string: "cd "c:\Users\Adam\OneDrive - Embry-Riddle Aeronautical University\Desktop\CS225 Spring 2025\Final Project\Project\" && javac DrainSizerRunner.java && java DrainSizerRunner"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at utils.InputHelper.processIntChoice(InputHelper.java:13)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+23:10:13.1842 [ERROR]	Invalid value!
+23:10:16.6574 [ERROR]	An error has occured: No line found
+Stack Trace: java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at utils.InputHelper.processIntChoice(InputHelper.java:12)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+23:10:16.6574 [ERROR]	Invalid value!
+23:10:16.6594 [ERROR]	An error has occured: No line found
+Stack Trace: java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at utils.InputHelper.processIntChoice(InputHelper.java:12)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+23:10:16.6594 [ERROR]	Invalid value!
+23:10:16.6604 [ERROR]	An error has occured: No line found
+Stack Trace: java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at utils.InputHelper.processIntChoice(InputHelper.java:12)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+23:10:16.6604 [ERROR]	Invalid value!
+23:10:16.6624 [ERROR]	An error has occured: No line found
+Stack Trace: java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at utils.InputHelper.processIntChoice(InputHelper.java:12)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:42)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:20)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:64)
+	at drainsizer.DrainSizer.run(DrainSizer.java:40)
+	at DrainSizerRunner.main(DrainSizerRunner.java:19)
+
+23:10:24.2086 [FATAL]	Debug mode is not implemented yet
+23:10:24.2167 [INFO]	Starting Drain Sizer Program
+23:10:24.2286 [DEBUG]	
+
+23:10:24.2316 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:10:24.2326 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+23:10:24.2326 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:10:24.2326 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:10:24.2336 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:10:24.2346 [INFO]	Floor drains - 2.0 - 2.0
+23:10:24.2346 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+23:10:24.2346 [INFO]	Lavatory - 1.0 - 1.25
+23:10:24.2346 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:10:24.2356 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:11:04.2116 [FATAL]	Debug mode is not implemented yet
+23:11:04.2196 [INFO]	Starting Drain Sizer Program
+23:11:04.2316 [DEBUG]	
+
+23:11:04.2346 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:11:04.2356 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+23:11:04.2356 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:11:04.2366 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:11:04.2366 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:11:04.2376 [INFO]	Floor drains - 2.0 - 2.0
+23:11:04.2376 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+23:11:04.2386 [INFO]	Lavatory - 1.0 - 1.25
+23:11:04.2386 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:11:04.2386 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:45:56.1393 [FATAL]	Debug mode is not implemented yet
+23:45:56.1484 [INFO]	Starting Drain Sizer Program
+23:45:56.1612 [DEBUG]	
+
+23:45:56.1642 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:45:56.1648 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+23:45:56.1648 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:45:56.1658 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:45:56.1658 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:45:56.1668 [INFO]	Floor drains - 2.0 - 2.0
+23:45:56.1668 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+23:45:56.1668 [INFO]	Lavatory - 1.0 - 1.25
+23:45:56.1668 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:45:56.1678 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:46:01.1399 [ERROR]	Not Final
+23:46:14.2248 [ERROR]	Fixture type 'Floor drain' cannot be found. Please try again.
