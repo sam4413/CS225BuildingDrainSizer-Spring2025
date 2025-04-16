@@ -3,11 +3,12 @@ package fixtures;
 public abstract class Fixture {
     private int quantity;
     private boolean isPublic;
-
+    private double baseDfu;
     //Define a new abstract fixture 
-    public Fixture(int m_quantity, boolean m_isPublic) {
+    public Fixture(int m_quantity, boolean m_isPublic, double m_baseDfu) {
         quantity = Math.abs(m_quantity);
         isPublic = m_isPublic;
+        baseDfu = m_baseDfu;
     }
 
     public int getQuantity() {
@@ -26,7 +27,11 @@ public abstract class Fixture {
         this.quantity = quantity;
     }
 
-    public abstract double getBaseDFU();
+    public double getBaseDFU() {
+        return baseDfu;
+    }
+
+
 
     public abstract double getMinimumTrapSize();
 

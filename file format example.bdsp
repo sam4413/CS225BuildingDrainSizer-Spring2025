@@ -16,10 +16,10 @@ lastsaved:00/00/0000
 totalFixtures:10
 #fixtures iterable
 fixtures[
-FloorDrain:0
-KitchenSink:0
-Lavatory:0
-WaterCloset:0
+FloorDrain:0,true
+KitchenSink:0,true
+Lavatory:0,true
+WaterCloset:0,true
 ]
 #totalstats
 totaldfu:0

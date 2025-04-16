@@ -2,7 +2,6 @@ package drainsizer;
 
 import fixtures.Fixture;
 import fixtures.Fixtures;
-import utils.Log;
 
 public class DrainCalc {
 
@@ -13,7 +12,7 @@ public class DrainCalc {
      * @return the total DFU for the building.
      */
     public double calculateBuildingDfu(Fixtures fixtures) {
-        double totalDFU = -1.0;
+        double totalDFU = 0.0;
 
         for (Fixture fixture : fixtures.getFixturesList()) {
             totalDFU += fixture.getTotalDFU(); 
@@ -24,6 +23,14 @@ public class DrainCalc {
     }
 
     public double calculateDrainSize(Fixtures fixtures) {
-        return 0.0;
+        double totalDfu = calculateBuildingDfu(fixtures);
+        // Example logic: pipe size increases with DFU
+        if (totalDfu <= 10) {
+            return 1; // 1-inch pipe
+        } else if (totalDfu <= 20) {
+            return 2; // 2-inch pipe
+        } else {
+            return 3; // 3-inch pipe
+        }
     }
 }

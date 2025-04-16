@@ -23,7 +23,7 @@ public class FixtureOperations {
     }
 
     public void menu() {
-        String projectName = "testman";
+        String projectName = fixtures.getProjectName();
         Log.out(Color.GREEN + "== Building Drain Sizer ==");
         Log.out("Project " + Color.YELLOW + projectName + Color.RESET + " loaded.");
         Log.out(Color.YELLOW + "---OPTIONS------------------------\n");
@@ -59,9 +59,27 @@ public class FixtureOperations {
             case 5:
                 calculateDfu(input);
                 break;
+            case 7:
+                ProjectLoader myProjectLoader = new ProjectLoader();
+                String inPath = InputHelper.processStringChoice(input, "Enter the folder location to save the project to:");
+                FileIO file = new FileIO(inPath);
+                if (file.fileExists()) {
+                    String inChoice = InputHelper.processStringChoice(input, Color.YELLOW+"Another file already exists at this location. Are you sure you want to override? (y/n):");
+                    if (inChoice.equalsIgnoreCase("Y")) {
+                        myProjectLoader.saveProject(inPath, fixtures);
+                        Log.out(Color.YELLOW+fixtures.getProjectName()+".bdsp+"+Color.CYAN+" saved successfully!");
+                        break;
+                    }
+                }
+                break;
+                
             case 8:
                 choice = 8;
-                Log.out(Color.RED + "Return to main!");
+                String inChoice = InputHelper.processStringChoice(input, Color.YELLOW+"Are you sure you want to exit? Any unsaved changes will be lost! (y/n)");
+                if (inChoice.equalsIgnoreCase("y")) {
+                    Log.out(Color.RED + "Exiting project...");
+                }
+                
                 break;
 
             default:
@@ -167,7 +185,7 @@ public class FixtureOperations {
     public void removeFixture(Scanner input) {
         Log.clear();
 
-        String projectName = "testman";
+        String projectName = fixtures.getProjectName();
         Log.out(Color.GREEN + "== Remove Fixture ==" + Color.RESET);
         Log.out("Project " + Color.YELLOW + projectName + Color.RESET + " loaded.");
 
@@ -212,7 +230,7 @@ public class FixtureOperations {
     public void viewFixtures(Scanner input) {
         Log.clear();
 
-        String projectName = "testman";
+        String projectName = fixtures.getProjectName();
         Log.out(Color.GREEN + "== Building Drain Sizer ==" + Color.RESET);
         Log.out("Project " + Color.YELLOW + projectName + Color.RESET + " loaded.");
 

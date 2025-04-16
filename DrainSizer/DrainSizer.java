@@ -55,17 +55,54 @@ public class DrainSizer {
 
     public int menuSelector(Scanner input) {
         int choice = InputHelper.processIntChoice(input, "Please enter an option: ");
+        ProjectLoader myProjectLoader = new ProjectLoader();
         switch (choice) {
             case 1:
                 choice = 1;
                 Log.clear();
-                Log.error("Not Final");
-                FixtureOperations myFixtureOperations = new FixtureOperations();
-                myFixtureOperations.fixtureMenu(input, code, fixtures);
+                Log.out(Color.GREEN+"== Building Drain Sizer ==");
+                Log.out(Color.CYAN+"Project Creation Wizard");
+                String inProjectName = InputHelper.processStringChoice(input, "Enter the project name you want: ");
+                String inProjectPath = InputHelper.processStringChoice(input, "Enter the folder path you want to save this project to: ");
+                Log.out("Is this ok?");
+                Log.out(Color.GREEN+"Project Name: "+inProjectName);
+                Log.out(Color.GREEN+"Project Directory: "+inProjectPath);
+                String confirm = InputHelper.processStringChoice(input, "(y/n): ");
+                if (confirm.equalsIgnoreCase("Y")) {
+                    if (myProjectLoader.createNewProject(inProjectPath + inProjectName)) {
+                        Log.out(Color.GREEN+"Project created successfully!");
+                        FixtureOperations myFixtureOperations = new FixtureOperations();
+                        myFixtureOperations.fixtureMenu(input, code, fixtures);
+                    } else {
+                        Log.error("There was an error creating the project. Please ensure the program has access to the folder you are trying to create the project towards.");
+                    }
+                    
+                } else {
+                    Log.out(Color.RED+"Project creation aborted.");
+                    break;
+                }
+                
                 break;
             case 2:
                 choice = 2;
-                Log.error("NotImplimented");
+                Log.clear();
+                // FixtureOperations myFixtureOperations = new FixtureOperations();
+                // myFixtureOperations.fixtureMenu(input, code, fixtures);
+                String inPath = InputHelper.processStringChoice(input, "Enter the exact file folder path of the project: ");
+                String inConfirmation = InputHelper.processStringChoice(input, "Load project? This will override any unsaved changes! (y/n): ");
+                if (!inConfirmation.equalsIgnoreCase("Y")) {
+                    Log.out(Color.RED+"Project load aborted."+Color.RESET);
+                }
+                
+                fixtures = myProjectLoader.loadProjectFromFile(inPath, fixtures, code);
+                if (fixtures != null) {
+                    Log.out("Project loaded successfully.");
+                    FixtureOperations myFixtureOperations = new FixtureOperations();
+                    myFixtureOperations.fixtureMenu(input, code, fixtures);
+                } else {
+                    fixtures.removeAllFixtures(); //Remove all fixtures for safety.
+                    Log.error("There was an error with the project file, and cannot be read. Please ensure it is not corrupted and try again.");
+                }
                 break;
             case 3:
                 choice = 3;

@@ -1,19 +1,12 @@
 package fixtures;
 
 public class Lavatory extends Fixture {
-    private double baseDFU;
     private double minTrapSize;
 
     // Note the extra parameters: baseDFU and minTrapSize
-    public Lavatory(int m_quantity, boolean m_isPublic, double baseDFU, double minTrapSize) {
-        super(m_quantity, m_isPublic);
-        this.baseDFU = baseDFU;
-        this.minTrapSize = minTrapSize;
-    }
-
-    @Override
-    public double getBaseDFU() {
-        return baseDFU;
+    public Lavatory(int m_quantity, boolean m_isPublic, double m_baseDfu, double m_trapSize) {
+        super(m_quantity, m_isPublic, m_baseDfu);
+        m_trapSize = minTrapSize;
     }
 
     @Override
@@ -22,7 +15,7 @@ public class Lavatory extends Fixture {
     }
     
     private double calculateDefaultTrapSize() {
-        return baseDFU; 
+        return super.getBaseDFU(); 
     }
     
     @Override

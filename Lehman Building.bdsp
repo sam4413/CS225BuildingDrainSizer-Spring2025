@@ -1,0 +1,12 @@
+# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:null
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0

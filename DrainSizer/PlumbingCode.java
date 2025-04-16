@@ -75,6 +75,11 @@ public class PlumbingCode {
     }
 
     public PlumbingCodeDefinition getFixtureByName(String name) {
+        for (PlumbingCodeDefinition plumbingCodeDefinition : fixturesList) {
+            if (plumbingCodeDefinition.getFixtureName().equalsIgnoreCase(name)) {
+                return plumbingCodeDefinition;
+            }
+        }
         return null;
     }
 

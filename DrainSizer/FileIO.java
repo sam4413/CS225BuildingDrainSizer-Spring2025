@@ -27,12 +27,12 @@ public class FileIO {
         try (Scanner fileScanner = new Scanner(new File(path))) {
             String content = "";
             while (fileScanner.hasNextLine()) {
-                content += fileScanner.nextLine();
+                content += fileScanner.nextLine() + "\n";
             }
             Log.debug(content);
             return content;
         } catch (Exception e) {
-            Log.error("An error occurred.\n" + e.getStackTrace());
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
             return null;
 
         }
@@ -49,7 +49,7 @@ public class FileIO {
             Log.debug(regex);
             return content;
         } catch (Exception e) {
-            Log.error("An error occurred.\n" + e.getStackTrace());
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
             return null;
         }
     }
@@ -65,7 +65,7 @@ public class FileIO {
                 return false;
             }
         } catch (IOException e) {
-            Log.error("An error occurred.\n" + e.getStackTrace());
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
             return false;
         }
     }
@@ -78,7 +78,7 @@ public class FileIO {
             Log.debug("Successfully wrote to the file.");
             return true;
         } catch (IOException e) {
-            Log.error("An error occurred.\n" + e.getStackTrace());
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
             return false;
         }
     }
@@ -90,9 +90,18 @@ public class FileIO {
             myBufferedWriter.close();
             return true;
         } catch (IOException e) {
-            Log.error("An error occurred.\n" + e.getStackTrace());
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
             return false;
         }
     }
 
+    public boolean fileExists() {
+        try {
+            File myFile = new File(path);
+            return myFile.exists();
+        } catch (Exception e) {
+            Log.error("An error occurred.\n" + ExceptionHelper.stackToString(e));
+            return false;
+        }
+    }
 }
