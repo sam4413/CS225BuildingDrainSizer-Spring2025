@@ -8,36 +8,11 @@ import fixtures.FloorDrain;
 import fixtures.KitchenSink;
 import fixtures.Lavatory;
 import fixtures.WaterCloset;
-import utils.Color;
 import utils.ExceptionHelper;
-import utils.InputHelper;
 import utils.Log;
 
 //This class essentially goes over the entirety of the saving / loading features in the program. This will heavily rely on FileIO class.
 public class ProjectLoader {
-
-    // This is the project creation Wizard. This will call the respective actions to
-    // CREATE A NEW PROJECT.
-    public void projectCreator(Scanner input) {
-        Log.out(Color.GREEN + "== Building Drain Sizer ==");
-        String projectName = InputHelper.processStringChoice(input, "Create a new project named as: ");
-        Log.out(Color.GREEN + projectName);
-        String confirmation = InputHelper.processStringChoice(input,
-                "Create a project named '" + Color.YELLOW + projectName + Color.RESET + "'? (Y/N): ");
-        if (confirmation.equalsIgnoreCase("N")) {
-            Log.out(Color.RED + "Operation aborted. Returning to project menu.");
-            return;
-        }
-
-        String path = InputHelper.processStringChoice(input,
-                "Enter the exact folder path you want to save your file in:");
-        if (createNewProject(path + "\\" + projectName + ".bdsp")) {
-            Log.out(Color.GREEN + "Project '" + projectName + "' created successfully at: " + path);
-        } else {
-            Log.error("Failed to create the project. Please check the file path and try again.");
-        }
-    }
-
     // Return the modified fixtures object.
     public Fixtures loadProjectFromFile(String filePath, Fixtures fixtures, PlumbingCode code) {
         FileIO fileIO = new FileIO(filePath);

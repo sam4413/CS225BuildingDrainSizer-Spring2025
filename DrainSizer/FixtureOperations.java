@@ -35,6 +35,7 @@ public class FixtureOperations {
                     5. Calculate DFU
                     6. Calculate Pipe Size
                     7. Save Project
+                    8. Export to CSV
                     8. Exit
                 """);
         // Color.YELLOW + "---OPTIONS------------------------\n" +
@@ -59,6 +60,9 @@ public class FixtureOperations {
             case 5:
                 calculateDfu(input);
                 break;
+            case 6:
+                calculatePipeSize(input);
+                break;
             case 7:
                 ProjectLoader myProjectLoader = new ProjectLoader();
                 String inPath = InputHelper.processStringChoice(input, "Enter the folder location to save the project to:");
@@ -72,9 +76,11 @@ public class FixtureOperations {
                     }
                 }
                 break;
-                
             case 8:
-                choice = 8;
+                exportCSV(input);
+                break;
+            case 9:
+                choice = 9;
                 String inChoice = InputHelper.processStringChoice(input, Color.YELLOW+"Are you sure you want to exit? Any unsaved changes will be lost! (y/n)");
                 if (inChoice.equalsIgnoreCase("y")) {
                     Log.out(Color.RED + "Exiting project...");
@@ -129,8 +135,7 @@ public class FixtureOperations {
             return;
         }
 
-        String usageInput = InputHelper.processStringChoice(input, "Enter fixture usage type (public/private): ")
-                .trim();
+        String usageInput = InputHelper.processStringChoice(input, "Enter fixture usage type (public/private): ").trim();
         boolean isPublic = usageInput.equalsIgnoreCase("public");
 
         boolean updatedExisting = false;
@@ -262,12 +267,19 @@ public class FixtureOperations {
     public void calculateDfu(Scanner input) {
         DrainCalc myDrainCalc = new DrainCalc();
         double result = myDrainCalc.calculateBuildingDfu(fixtures);
-        if (result != -1) {
-            Log.out(Color.GREEN+"Total dfu for the building is: "+Color.YELLOW+result+Color.RESET);
-            InputHelper.processPause(input, Color.CYAN + "Press any key to continue..." + Color.RESET);
-        } else {
-            Log.error("There was an error calculating the dfu.");
-        }
+        Log.out(Color.GREEN+"Total dfu for the building is: "+Color.YELLOW+result+Color.RESET);
+        InputHelper.processPause(input, Color.CYAN + "Press any key to continue..." + Color.RESET);
+    }
+
+    public void calculatePipeSize(Scanner input) {
+        DrainCalc myDrainCalc = new DrainCalc();
+        double result = myDrainCalc.calculateDrainSize(fixtures);
+        Log.out(Color.GREEN+"Total pipe size for the building is: "+Color.YELLOW+result+Color.RESET);
+        InputHelper.processPause(input, Color.CYAN + "Press any key to continue..." + Color.RESET);
+    }
+
+    public void exportCSV(Scanner input) {
+        Log.error("Not added yet");
     }
 
 }

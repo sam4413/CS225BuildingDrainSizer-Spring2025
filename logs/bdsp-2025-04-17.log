@@ -1,0 +1,14 @@
+16:25:19.3427 [FATAL]	Debug mode is not implemented yet
+16:25:19.3684 [INFO]	Starting Drain Sizer Program
+16:25:19.4035 [DEBUG]	
+
+16:25:19.4125 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+16:25:19.4135 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+16:25:19.4145 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+16:25:19.4155 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+16:25:19.4165 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+16:25:19.4185 [INFO]	Floor drains - 2.0 - 2.0
+16:25:19.4195 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+16:25:19.4226 [INFO]	Lavatory - 1.0 - 1.25
+16:25:19.4235 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+16:25:19.4255 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0

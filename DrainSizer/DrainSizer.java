@@ -9,6 +9,7 @@ import utils.*;
 public class DrainSizer {
     public PlumbingCode code;
     public Fixtures fixtures;
+    private ProjectLoader myProjectLoader = new ProjectLoader();
     // Main runner method
 
     //prerunner
@@ -55,32 +56,10 @@ public class DrainSizer {
 
     public int menuSelector(Scanner input) {
         int choice = InputHelper.processIntChoice(input, "Please enter an option: ");
-        ProjectLoader myProjectLoader = new ProjectLoader();
         switch (choice) {
             case 1:
                 choice = 1;
-                Log.clear();
-                Log.out(Color.GREEN+"== Building Drain Sizer ==");
-                Log.out(Color.CYAN+"Project Creation Wizard");
-                String inProjectName = InputHelper.processStringChoice(input, "Enter the project name you want: ");
-                String inProjectPath = InputHelper.processStringChoice(input, "Enter the folder path you want to save this project to: ");
-                Log.out("Is this ok?");
-                Log.out(Color.GREEN+"Project Name: "+inProjectName);
-                Log.out(Color.GREEN+"Project Directory: "+inProjectPath);
-                String confirm = InputHelper.processStringChoice(input, "(y/n): ");
-                if (confirm.equalsIgnoreCase("Y")) {
-                    if (myProjectLoader.createNewProject(inProjectPath + inProjectName)) {
-                        Log.out(Color.GREEN+"Project created successfully!");
-                        FixtureOperations myFixtureOperations = new FixtureOperations();
-                        myFixtureOperations.fixtureMenu(input, code, fixtures);
-                    } else {
-                        Log.error("There was an error creating the project. Please ensure the program has access to the folder you are trying to create the project towards.");
-                    }
-                    
-                } else {
-                    Log.out(Color.RED+"Project creation aborted.");
-                    break;
-                }
+                
                 
                 break;
             case 2:
@@ -135,8 +114,29 @@ public class DrainSizer {
 
     
 
-    public void saveProjectMenu(Scanner input) {
-
+    public void createProjectMenu(Scanner input) {
+        Log.clear();
+        Log.out(Color.GREEN+"== Building Drain Sizer ==");
+        Log.out(Color.CYAN+"Project Creation Wizard");
+        String inProjectName = InputHelper.processStringChoice(input, "Enter the project name you want: ");
+        String inProjectPath = InputHelper.processStringChoice(input, "Enter the folder path you want to save this project to: ");
+        Log.out("Is this ok?");
+        Log.out(Color.GREEN+"Project Name: "+inProjectName);
+        Log.out(Color.GREEN+"Project Directory: "+inProjectPath);
+        String confirm = InputHelper.processStringChoice(input, "(y/n): ");
+        if (confirm.equalsIgnoreCase("Y")) {
+            if (myProjectLoader.createNewProject(inProjectPath + inProjectName)) {
+                Log.out(Color.GREEN+"Project created successfully!");
+                FixtureOperations myFixtureOperations = new FixtureOperations();
+                myFixtureOperations.fixtureMenu(input, code, fixtures);
+            } else {
+                Log.error("There was an error creating the project. Please ensure the program has access to the folder you are trying to create the project towards.");
+            }
+            
+        } else {
+            Log.out(Color.RED+"Project creation aborted.");
+            return;
+        }
     }
 
     public void calculateDfuMenu(Scanner input) {
