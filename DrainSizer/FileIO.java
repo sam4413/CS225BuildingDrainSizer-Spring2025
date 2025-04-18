@@ -104,4 +104,57 @@ public class FileIO {
             return false;
         }
     }
+
+
+    //Test main
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter the file name and path to read  ");
+        String path = input.nextLine();
+        FileIO readFile = new FileIO(path);
+        System.out.println(readFile.readFile());
+        System.out.println("\n\n\nNow enter a file name to write to. ");
+        String writeto = input.nextLine();
+        FileIO writeToFile = new FileIO(writeto);
+        writeToFile.writeFile(""" 
+        According to all known laws
+        of aviation,
+
+        
+        there is no way a bee
+        should be able to fly.
+
+        
+        Its wings are too small to get
+        its fat little body off the ground.
+
+        
+        The bee, of course, flies anyway
+
+        
+        because bees don't care
+        what humans think is impossible.
+
+        
+        Yellow, black. Yellow, black.
+        Yellow, black. Yellow, black.
+
+        
+        Ooh, black and yellow!
+        Let's shake it up a little.
+
+        
+        Barry! Breakfast is ready!
+
+        
+        Ooming!
+
+        
+        Hang on a second.
+
+        
+        Hello?""");
+        System.out.println("All done");
+        input.close();
+    }
 }

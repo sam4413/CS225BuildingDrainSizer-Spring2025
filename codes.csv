@@ -1,6 +1,6 @@
 "Fixture Type","Drainage Fixture Unit Value as Load Factors","Minimum Size of Trap (inches)"
-"Floor drains",2,2
-"Kitchen sink domestic",2,1.5
+"Floor drain",2,2
+"Kitchen sink",2,1.5
 "Lavatory",1,1.25
 "Water closet private (1.6 gpf)",3,-100
 "Water closet public (1.6 gpf)",4,-100

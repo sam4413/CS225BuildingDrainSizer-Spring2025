@@ -1,13 +1,12 @@
 # Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
 # Project metadata
 projectName:COAS
-lastsaved:Wed Apr 16 17:00:23 EDT 2025
-totalFixtures:2
+lastsaved:Thu Apr 17 23:36:53 EDT 2025
+totalFixtures:1
 #fixtures iterable
 fixtures[
-Lavatory:3000,false
-FloorDrain:3000,true
+Lavatory:20,true
 ]
 #totalstats
-totaldfu:9000.0
-pipesize:3.0
+totaldfu:20.0
+pipesize:2.0

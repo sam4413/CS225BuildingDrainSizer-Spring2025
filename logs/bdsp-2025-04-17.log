@@ -12,3 +12,3090 @@
 16:25:19.4226 [INFO]	Lavatory - 1.0 - 1.25
 16:25:19.4235 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
 16:25:19.4255 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:37:25.9674 [FATAL]	Debug mode is not implemented yet
+18:37:25.9904 [INFO]	Starting Drain Sizer Program
+18:37:26.0300 [DEBUG]	
+
+18:37:26.0419 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:37:26.0429 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:37:26.0449 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:37:26.0459 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:37:26.0481 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:37:26.0500 [INFO]	Floor drains - 2.0 - 2.0
+18:37:26.0530 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:37:26.0540 [INFO]	Lavatory - 1.0 - 1.25
+18:37:26.0561 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:37:26.0580 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:37:37.8993 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:null
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:37:37.9013 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:37:37.9036 [DEBUG]	# Project metadata
+18:37:37.9043 [DEBUG]	projectName:null
+18:37:37.9053 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:37:37.9073 [DEBUG]	totalFixtures:1
+18:37:37.9083 [DEBUG]	#fixtures iterable
+18:37:37.9113 [DEBUG]	fixtures[
+18:37:37.9134 [DEBUG]	Lavatory:30,true
+18:37:37.9143 [DEBUG]	]
+18:37:37.9153 [DEBUG]	#totalstats
+18:37:37.9163 [DEBUG]	totaldfu:30.0
+18:37:37.9183 [DEBUG]	pipesize:3.0
+18:37:37.9193 [FATAL]	12
+18:37:37.9203 [FATAL]	projectName:null
+18:37:37.9239 [DEBUG]	Project name set to: null
+18:37:37.9384 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:37:37.9404 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:40:44.6103 [FATAL]	Debug mode is not implemented yet
+18:40:44.6564 [INFO]	Starting Drain Sizer Program
+18:40:44.7332 [DEBUG]	
+
+18:40:44.7564 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:40:44.7594 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:40:44.7624 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:40:44.7664 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:40:44.7684 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:40:44.7754 [INFO]	Floor drains - 2.0 - 2.0
+18:40:44.7774 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:40:44.7785 [INFO]	Lavatory - 1.0 - 1.25
+18:40:44.7806 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:40:44.7835 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:40:51.5299 [FATAL]	Debug mode is not implemented yet
+18:40:51.5664 [INFO]	Starting Drain Sizer Program
+18:40:51.6146 [DEBUG]	
+
+18:40:51.6273 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:40:51.6293 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:40:51.6304 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:40:51.6323 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:40:51.6335 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:40:51.6383 [INFO]	Floor drains - 2.0 - 2.0
+18:40:51.6393 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:40:51.6413 [INFO]	Lavatory - 1.0 - 1.25
+18:40:51.6453 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:40:51.6474 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:41:00.8355 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:Lehman Building
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:41:00.8365 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:41:00.8375 [DEBUG]	# Project metadata
+18:41:00.8396 [DEBUG]	projectName:Lehman Building
+18:41:00.8415 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:41:00.8435 [DEBUG]	totalFixtures:1
+18:41:00.8455 [DEBUG]	#fixtures iterable
+18:41:00.8465 [DEBUG]	fixtures[
+18:41:00.8477 [DEBUG]	Lavatory:30,true
+18:41:00.8483 [DEBUG]	]
+18:41:00.8493 [DEBUG]	#totalstats
+18:41:00.8503 [DEBUG]	totaldfu:30.0
+18:41:00.8513 [DEBUG]	pipesize:3.0
+18:41:00.8523 [FATAL]	12
+18:41:00.8533 [FATAL]	projectName:Lehman Building
+18:41:00.8563 [DEBUG]	Project name set to: Lehman Building
+18:41:00.8684 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:41:00.8703 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:41:49.6252 [ERROR]	Fixture type 'Water closet' cannot be found. Please try again.
+18:41:55.1628 [ERROR]	Fixture type 'Water Closet' cannot be found. Please try again.
+18:45:13.7659 [ERROR]	Fixture type 'Water closet' cannot be found. Please try again.
+18:45:31.1447 [ERROR]	Fixture type 'Kitchen sink' cannot be found. Please try again.
+18:45:39.5856 [ERROR]	Fixture type 'watercloset' cannot be found. Please try again.
+18:45:53.2491 [FATAL]	Debug mode is not implemented yet
+18:45:53.2700 [INFO]	Starting Drain Sizer Program
+18:45:53.3010 [DEBUG]	
+
+18:45:53.3100 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:45:53.3110 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:45:53.3120 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:45:53.3130 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:45:53.3150 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:45:53.3180 [INFO]	Floor drains - 2.0 - 2.0
+18:45:53.3190 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:45:53.3200 [INFO]	Lavatory - 1.0 - 1.25
+18:45:53.3210 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:45:53.3220 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:45:59.4403 [FATAL]	Debug mode is not implemented yet
+18:45:59.4830 [INFO]	Starting Drain Sizer Program
+18:45:59.5423 [DEBUG]	
+
+18:45:59.5583 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:45:59.5603 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:45:59.5623 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:45:59.5653 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:45:59.5673 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:45:59.5723 [INFO]	Floor drains - 2.0 - 2.0
+18:45:59.5734 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:45:59.5755 [INFO]	Lavatory - 1.0 - 1.25
+18:45:59.5783 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:45:59.5813 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:46:04.3100 [ERROR]	An error has occured: For input string: "./Lehman Building.bdsp"
+Stack Trace: java.lang.NumberFormatException: For input string: "./Lehman Building.bdsp"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:654)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:11)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:57)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+18:46:20.5537 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:Lehman Building
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:46:20.5547 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:46:20.5567 [DEBUG]	# Project metadata
+18:46:20.5577 [DEBUG]	projectName:Lehman Building
+18:46:20.5587 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:46:20.5607 [DEBUG]	totalFixtures:1
+18:46:20.5617 [DEBUG]	#fixtures iterable
+18:46:20.5627 [DEBUG]	fixtures[
+18:46:20.5647 [DEBUG]	Lavatory:30,true
+18:46:20.5657 [DEBUG]	]
+18:46:20.5667 [DEBUG]	#totalstats
+18:46:20.5677 [DEBUG]	totaldfu:30.0
+18:46:20.5697 [DEBUG]	pipesize:3.0
+18:46:20.5717 [FATAL]	12
+18:46:20.5737 [FATAL]	projectName:Lehman Building
+18:46:20.5757 [DEBUG]	Project name set to: Lehman Building
+18:46:20.5928 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:46:20.5968 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:47:03.0742 [FATAL]	Debug mode is not implemented yet
+18:47:03.0980 [INFO]	Starting Drain Sizer Program
+18:47:03.1373 [DEBUG]	
+
+18:47:03.1478 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:47:03.1488 [INFO]	Loaded fixture: Kitchen sink domestic | DFU: 2.0 | Trap: 1.5
+18:47:03.1498 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:47:03.1508 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:47:03.1518 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:47:03.1548 [INFO]	Floor drains - 2.0 - 2.0
+18:47:03.1568 [INFO]	Kitchen sink domestic - 2.0 - 1.5
+18:47:03.1579 [INFO]	Lavatory - 1.0 - 1.25
+18:47:03.1589 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:47:03.1599 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:47:10.4555 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:Lehman Building
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:47:10.4574 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:47:10.4591 [DEBUG]	# Project metadata
+18:47:10.4602 [DEBUG]	projectName:Lehman Building
+18:47:10.4619 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:47:10.4629 [DEBUG]	totalFixtures:1
+18:47:10.4649 [DEBUG]	#fixtures iterable
+18:47:10.4669 [DEBUG]	fixtures[
+18:47:10.4679 [DEBUG]	Lavatory:30,true
+18:47:10.4699 [DEBUG]	]
+18:47:10.4709 [DEBUG]	#totalstats
+18:47:10.4719 [DEBUG]	totaldfu:30.0
+18:47:10.4739 [DEBUG]	pipesize:3.0
+18:47:10.4749 [FATAL]	12
+18:47:10.4763 [FATAL]	projectName:Lehman Building
+18:47:10.4779 [DEBUG]	Project name set to: Lehman Building
+18:47:10.4979 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:47:10.4999 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:47:14.1085 [ERROR]	Fixture type 'Water closet' cannot be found. Please try again.
+18:47:41.2035 [ERROR]	Fixture type 'Kitchen sink domestic' is not added.
+18:48:16.6340 [FATAL]	Debug mode is not implemented yet
+18:48:16.6620 [INFO]	Starting Drain Sizer Program
+18:48:16.7037 [DEBUG]	
+
+18:48:16.7140 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:48:16.7157 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+18:48:16.7177 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:48:16.7187 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:48:16.7207 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:48:16.7247 [INFO]	Floor drains - 2.0 - 2.0
+18:48:16.7257 [INFO]	Kitchen sink - 2.0 - 1.5
+18:48:16.7289 [INFO]	Lavatory - 1.0 - 1.25
+18:48:16.7298 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:48:16.7318 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:48:24.4564 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:Lehman Building
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:48:24.4584 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:48:24.4594 [DEBUG]	# Project metadata
+18:48:24.4614 [DEBUG]	projectName:Lehman Building
+18:48:24.4634 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:48:24.4644 [DEBUG]	totalFixtures:1
+18:48:24.4664 [DEBUG]	#fixtures iterable
+18:48:24.4674 [DEBUG]	fixtures[
+18:48:24.4684 [DEBUG]	Lavatory:30,true
+18:48:24.4694 [DEBUG]	]
+18:48:24.4714 [DEBUG]	#totalstats
+18:48:24.4724 [DEBUG]	totaldfu:30.0
+18:48:24.4744 [DEBUG]	pipesize:3.0
+18:48:24.4764 [FATAL]	12
+18:48:24.4774 [FATAL]	projectName:Lehman Building
+18:48:24.4806 [DEBUG]	Project name set to: Lehman Building
+18:48:24.4954 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:48:24.4977 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:49:25.8815 [FATAL]	Debug mode is not implemented yet
+18:49:25.9385 [INFO]	Starting Drain Sizer Program
+18:49:26.0088 [DEBUG]	
+
+18:49:26.0250 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+18:49:26.0268 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+18:49:26.0288 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+18:49:26.0308 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+18:49:26.0328 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+18:49:26.0378 [INFO]	Floor drains - 2.0 - 2.0
+18:49:26.0399 [INFO]	Kitchen sink - 2.0 - 1.5
+18:49:26.0409 [INFO]	Lavatory - 1.0 - 1.25
+18:49:26.0432 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+18:49:26.0439 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+18:49:42.4461 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:Lehman Building
+lastsaved:Wed Apr 16 16:18:16 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:30,true
+]
+#totalstats
+totaldfu:30.0
+pipesize:3.0
+
+18:49:42.4474 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+18:49:42.4488 [DEBUG]	# Project metadata
+18:49:42.4504 [DEBUG]	projectName:Lehman Building
+18:49:42.4517 [DEBUG]	lastsaved:Wed Apr 16 16:18:16 EDT 2025
+18:49:42.4547 [DEBUG]	totalFixtures:1
+18:49:42.4557 [DEBUG]	#fixtures iterable
+18:49:42.4567 [DEBUG]	fixtures[
+18:49:42.4577 [DEBUG]	Lavatory:30,true
+18:49:42.4587 [DEBUG]	]
+18:49:42.4598 [DEBUG]	#totalstats
+18:49:42.4617 [DEBUG]	totaldfu:30.0
+18:49:42.4627 [DEBUG]	pipesize:3.0
+18:49:42.4637 [FATAL]	12
+18:49:42.4657 [FATAL]	projectName:Lehman Building
+18:49:42.4687 [DEBUG]	Project name set to: Lehman Building
+18:49:42.4833 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 30
+	With visibility: true
+
+18:49:42.4855 [INFO]	Project loaded successfully from: ./Lehman Building.bdsp
+18:50:05.9601 [ERROR]	Fixture type 'Water closet' cannot be found. Please try again.
+19:04:32.5331 [FATAL]	Debug mode is not implemented yet
+19:04:32.5714 [INFO]	Starting Drain Sizer Program
+19:04:32.6216 [DEBUG]	
+
+19:04:32.6367 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+19:04:32.6387 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+19:04:32.6408 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+19:04:32.6436 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+19:04:32.6456 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+19:04:32.6496 [INFO]	Floor drains - 2.0 - 2.0
+19:04:32.6506 [INFO]	Kitchen sink - 2.0 - 1.5
+19:04:32.6526 [INFO]	Lavatory - 1.0 - 1.25
+19:04:32.6539 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+19:04:32.6546 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+19:04:55.4189 [DEBUG]	# Building Drain Sizer 
+## Software Design Document 
+### Adam Ahmad 
+### Date 4/5/2025
+### CS 225, Spring 2025 
+    
+Embry-Riddle Aeronautical University<br>
+Daytona Beach campus<br>
+1 Aerospace Boulevard Daytona Beach, FL 32114 <br>
+
+> **As this project is source available, please do not copy, fork, or use any code from this repository to use it on your own project, or any other project. Academic plagerism is very serious and can lead to severe consequences.**
+
+***
+## INTRODUCTION:  
+This project will have a strong emphasis on real world applications. The goal of this project and in extension this program is to be at least capable of aiding engineers in calculating the total drainage fixture units value of a building. Calculating this value by itself is a complicated process, especially if the given project involves many fixtures of many types which can take hours if there is a large building being designed. This program aims to save the hassle of calculating hundreds of fixtures and give the engineer or designer an easy-to-use utility tool to aid in calculating this value. 
+
+This program is designed to assist designers and engineers in accurately calculating the total Drainage Fixture Units (DFU) for each building, calculating the values with respect & compliance with the Florida Plumbing Code (1). By automating the calculation of these values, the program simplifies the timely process of determining the appropriate main sanitary/sewer drainage size based on regulatory guidelines. The program will also incorporate a saving / loading system to allow portability between devices and allow engineers to save their current progress as the design process for buildings in general can take months, if not years. The program will help streamline the overall plumbing system design, improve efficiency, and ensure proper drainage capacity for various types of buildings.  
+
+19:05:23.6510 [DEBUG]	# Building Drain Sizer 
+## Software Design Document 
+### Adam Ahmad 
+### Date 4/5/2025
+### CS 225, Spring 2025 
+    
+Embry-Riddle Aeronautical University<br>
+Daytona Beach campus<br>
+1 Aerospace Boulevard Daytona Beach, FL 32114 <br>
+
+> **As this project is source available, please do not copy, fork, or use any code from this repository to use it on your own project, or any other project. Academic plagerism is very serious and can lead to severe consequences.**
+
+***
+## INTRODUCTION:  
+This project will have a strong emphasis on real world applications. The goal of this project and in extension this program is to be at least capable of aiding engineers in calculating the total drainage fixture units value of a building. Calculating this value by itself is a complicated process, especially if the given project involves many fixtures of many types which can take hours if there is a large building being designed. This program aims to save the hassle of calculating hundreds of fixtures and give the engineer or designer an easy-to-use utility tool to aid in calculating this value. 
+
+This program is designed to assist designers and engineers in accurately calculating the total Drainage Fixture Units (DFU) for each building, calculating the values with respect & compliance with the Florida Plumbing Code (1). By automating the calculation of these values, the program simplifies the timely process of determining the appropriate main sanitary/sewer drainage size based on regulatory guidelines. The program will also incorporate a saving / loading system to allow portability between devices and allow engineers to save their current progress as the design process for buildings in general can take months, if not years. The program will help streamline the overall plumbing system design, improve efficiency, and ensure proper drainage capacity for various types of buildings.  
+
+19:05:36.4541 [DEBUG]	Successfully wrote to the file.
+21:57:34.7094 [FATAL]	Debug mode is not implemented yet
+21:57:34.7282 [INFO]	Starting Drain Sizer Program
+21:57:34.7562 [DEBUG]	
+
+21:57:34.7632 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+21:57:34.7652 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+21:57:34.7652 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+21:57:34.7662 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+21:57:34.7672 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+21:57:34.7682 [INFO]	Floor drains - 2.0 - 2.0
+21:57:34.7696 [INFO]	Kitchen sink - 2.0 - 1.5
+21:57:34.7702 [INFO]	Lavatory - 1.0 - 1.25
+21:57:34.7713 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+21:57:34.7713 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+21:57:41.2795 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:COAS
+lastsaved:Wed Apr 16 17:00:23 EDT 2025
+totalFixtures:2
+#fixtures iterable
+fixtures[
+Lavatory:3000,false
+FloorDrain:3000,true
+]
+#totalstats
+totaldfu:9000.0
+pipesize:3.0
+
+21:57:41.2800 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+21:57:41.2810 [DEBUG]	# Project metadata
+21:57:41.2820 [DEBUG]	projectName:COAS
+21:57:41.2830 [DEBUG]	lastsaved:Wed Apr 16 17:00:23 EDT 2025
+21:57:41.2844 [DEBUG]	totalFixtures:2
+21:57:41.2850 [DEBUG]	#fixtures iterable
+21:57:41.2860 [DEBUG]	fixtures[
+21:57:41.2870 [DEBUG]	Lavatory:3000,false
+21:57:41.2870 [DEBUG]	FloorDrain:3000,true
+21:57:41.2880 [DEBUG]	]
+21:57:41.2900 [DEBUG]	#totalstats
+21:57:41.2910 [DEBUG]	totaldfu:9000.0
+21:57:41.2910 [DEBUG]	pipesize:3.0
+21:57:41.2925 [FATAL]	13
+21:57:41.2925 [FATAL]	projectName:COAS
+21:57:41.2945 [DEBUG]	Project name set to: COAS
+21:57:41.3027 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 3000
+	With visibility: false
+
+21:57:41.3037 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 3000
+	With visibility: true
+
+21:57:41.3047 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+21:57:41.3058 [INFO]	Project loaded successfully from: ./COAS.bdsp
+22:06:22.0489 [ERROR]	Not added yet
+22:07:15.7939 [FATAL]	Debug mode is not implemented yet
+22:07:15.8092 [INFO]	Starting Drain Sizer Program
+22:07:15.8331 [DEBUG]	
+
+22:07:15.8401 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:07:15.8411 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:07:15.8421 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:07:15.8432 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:07:15.8440 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:07:15.8470 [INFO]	Floor drains - 2.0 - 2.0
+22:07:15.8480 [INFO]	Kitchen sink - 2.0 - 1.5
+22:07:15.8482 [INFO]	Lavatory - 1.0 - 1.25
+22:07:15.8490 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:07:15.8490 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:08:08.6336 [FATAL]	Debug mode is not implemented yet
+22:08:08.6507 [INFO]	Starting Drain Sizer Program
+22:08:08.6733 [DEBUG]	
+
+22:08:08.6803 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:08:08.6813 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:08:08.6825 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:08:08.6834 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:08:08.6844 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:08:08.6864 [INFO]	Floor drains - 2.0 - 2.0
+22:08:08.6874 [INFO]	Kitchen sink - 2.0 - 1.5
+22:08:08.6874 [INFO]	Lavatory - 1.0 - 1.25
+22:08:08.6884 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:08:08.6894 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:08:31.3511 [FATAL]	Debug mode is not implemented yet
+22:08:31.3673 [INFO]	Starting Drain Sizer Program
+22:08:31.3911 [DEBUG]	
+
+22:08:31.3992 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:08:31.4001 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:08:31.4011 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:08:31.4021 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:08:31.4031 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:08:31.4061 [INFO]	Floor drains - 2.0 - 2.0
+22:08:31.4071 [INFO]	Kitchen sink - 2.0 - 1.5
+22:08:31.4081 [INFO]	Lavatory - 1.0 - 1.25
+22:08:31.4091 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:08:31.4101 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:08:59.4906 [DEBUG]	Successfully wrote to the file.
+22:09:38.4706 [ERROR]	An error occurred.
+java.io.FileNotFoundException: . (Access is denied)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+	at drainsizer.FileIO.writeFile(FileIO.java:75)
+	at drainsizer.ProjectLoader.saveProject(ProjectLoader.java:165)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:73)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:21)
+	at drainsizer.DrainSizer.createProjectMenu(DrainSizer.java:127)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:61)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:09:38.4714 [ERROR]	Failed to save the project to: ./
+22:09:54.7553 [FATAL]	Debug mode is not implemented yet
+22:09:54.7702 [INFO]	Starting Drain Sizer Program
+22:09:54.7925 [DEBUG]	
+
+22:09:54.7989 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:09:54.7995 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:09:54.8005 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:09:54.8015 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:09:54.8025 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:09:54.8045 [INFO]	Floor drains - 2.0 - 2.0
+22:09:54.8055 [INFO]	Kitchen sink - 2.0 - 1.5
+22:09:54.8075 [INFO]	Lavatory - 1.0 - 1.25
+22:09:54.8085 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:09:54.8095 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:10:05.1258 [DEBUG]	# Building Drain Sizer
+projectName:New Project
+lastsaved:00/00/0000
+totalFixtures:0
+#Fixtures Iterable
+fixtures[
+FloorDrain:0
+KitchenSink:0
+Lavatory:0
+WaterCloset:0
+]
+#Total Stats
+totaldfu:0
+pipesize:0
+
+22:10:05.1262 [DEBUG]	# Building Drain Sizer
+22:10:05.1272 [DEBUG]	projectName:New Project
+22:10:05.1292 [DEBUG]	lastsaved:00/00/0000
+22:10:05.1302 [DEBUG]	totalFixtures:0
+22:10:05.1312 [DEBUG]	#Fixtures Iterable
+22:10:05.1322 [DEBUG]	fixtures[
+22:10:05.1332 [DEBUG]	FloorDrain:0
+22:10:05.1352 [DEBUG]	KitchenSink:0
+22:10:05.1362 [DEBUG]	Lavatory:0
+22:10:05.1362 [DEBUG]	WaterCloset:0
+22:10:05.1394 [DEBUG]	]
+22:10:05.1402 [DEBUG]	#Total Stats
+22:10:05.1419 [DEBUG]	totaldfu:0
+22:10:05.1425 [DEBUG]	pipesize:0
+22:10:05.1434 [FATAL]	14
+22:10:05.1444 [FATAL]	projectName:New Project
+22:10:05.1454 [DEBUG]	Project name set to: New Project
+22:10:05.1464 [WARN]	Invalid fixture entry: FloorDrain:0
+22:10:05.1486 [WARN]	Invalid fixture entry: KitchenSink:0
+22:10:05.1494 [WARN]	Invalid fixture entry: Lavatory:0
+22:10:05.1494 [WARN]	Invalid fixture entry: WaterCloset:0
+22:10:05.1504 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:13:04.3554 [FATAL]	Debug mode is not implemented yet
+22:13:04.3714 [INFO]	Starting Drain Sizer Program
+22:13:04.3955 [DEBUG]	
+
+22:13:04.4030 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:13:04.4040 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:13:04.4050 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:13:04.4060 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:13:04.4070 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:13:04.4090 [INFO]	Floor drains - 2.0 - 2.0
+22:13:04.4100 [INFO]	Kitchen sink - 2.0 - 1.5
+22:13:04.4110 [INFO]	Lavatory - 1.0 - 1.25
+22:13:04.4120 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:13:04.4120 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:13:21.8587 [DEBUG]	Successfully wrote to the file.
+22:14:37.9433 [FATAL]	Debug mode is not implemented yet
+22:14:37.9616 [INFO]	Starting Drain Sizer Program
+22:14:37.9842 [DEBUG]	
+
+22:14:37.9902 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:14:37.9922 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:14:37.9932 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:14:37.9942 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:14:37.9954 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:14:37.9972 [INFO]	Floor drains - 2.0 - 2.0
+22:14:37.9982 [INFO]	Kitchen sink - 2.0 - 1.5
+22:14:37.9992 [INFO]	Lavatory - 1.0 - 1.25
+22:14:38.0010 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:14:38.0012 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:15:02.4342 [FATAL]	Debug mode is not implemented yet
+22:15:02.4501 [INFO]	Starting Drain Sizer Program
+22:15:02.4752 [DEBUG]	
+
+22:15:02.4825 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:15:02.4835 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:15:02.4845 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:15:02.4865 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:15:02.4875 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:15:02.4895 [INFO]	Floor drains - 2.0 - 2.0
+22:15:02.4905 [INFO]	Kitchen sink - 2.0 - 1.5
+22:15:02.4915 [INFO]	Lavatory - 1.0 - 1.25
+22:15:02.4915 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:15:02.4925 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:15:13.9154 [FATAL]	Debug mode is not implemented yet
+22:15:13.9320 [INFO]	Starting Drain Sizer Program
+22:15:13.9563 [DEBUG]	
+
+22:15:13.9635 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:15:13.9645 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:15:13.9655 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:15:13.9665 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:15:13.9675 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:15:13.9695 [INFO]	Floor drains - 2.0 - 2.0
+22:15:13.9705 [INFO]	Kitchen sink - 2.0 - 1.5
+22:15:13.9705 [INFO]	Lavatory - 1.0 - 1.25
+22:15:13.9715 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:15:13.9725 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:15:28.6357 [DEBUG]	Successfully wrote to the file.
+22:15:28.6400 [ERROR]	An error occurred.
+java.io.FileNotFoundException: .\College of Aviation (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.util.Scanner.<init>(Scanner.java:639)
+	at drainsizer.FileIO.readFile(FileIO.java:27)
+	at drainsizer.ProjectLoader.loadProjectFromFile(ProjectLoader.java:19)
+	at drainsizer.DrainSizer.createProjectMenu(DrainSizer.java:126)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:61)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:15:28.6411 [ERROR]	Failed to read file or file is empty: ./College of Aviation
+22:16:31.7965 [FATAL]	Debug mode is not implemented yet
+22:16:31.8131 [INFO]	Starting Drain Sizer Program
+22:16:31.8361 [DEBUG]	
+
+22:16:31.8440 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:16:31.8450 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:16:31.8460 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:16:31.8470 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:16:31.8480 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:16:31.8500 [INFO]	Floor drains - 2.0 - 2.0
+22:16:31.8500 [INFO]	Kitchen sink - 2.0 - 1.5
+22:16:31.8522 [INFO]	Lavatory - 1.0 - 1.25
+22:16:31.8522 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:16:31.8532 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:16:39.0674 [DEBUG]	Successfully wrote to the file.
+22:16:39.0715 [DEBUG]	# Building Drain Sizer
+projectName:College of Aviation
+lastsaved:00/00/0000
+totalFixtures:0
+#Fixtures Iterable
+fixtures[
+FloorDrain:0
+KitchenSink:0
+Lavatory:0
+WaterCloset:0
+]
+#Total Stats
+totaldfu:0
+pipesize:0
+
+22:16:39.0725 [DEBUG]	# Building Drain Sizer
+22:16:39.0735 [DEBUG]	projectName:College of Aviation
+22:16:39.0745 [DEBUG]	lastsaved:00/00/0000
+22:16:39.0755 [DEBUG]	totalFixtures:0
+22:16:39.0755 [DEBUG]	#Fixtures Iterable
+22:16:39.0771 [DEBUG]	fixtures[
+22:16:39.0795 [DEBUG]	FloorDrain:0
+22:16:39.0805 [DEBUG]	KitchenSink:0
+22:16:39.0815 [DEBUG]	Lavatory:0
+22:16:39.0815 [DEBUG]	WaterCloset:0
+22:16:39.0825 [DEBUG]	]
+22:16:39.0833 [DEBUG]	#Total Stats
+22:16:39.0841 [DEBUG]	totaldfu:0
+22:16:39.0858 [DEBUG]	pipesize:0
+22:16:39.0867 [FATAL]	14
+22:16:39.0871 [FATAL]	projectName:College of Aviation
+22:16:39.0881 [DEBUG]	Project name set to: College of Aviation
+22:16:39.0891 [WARN]	Invalid fixture entry: FloorDrain:0
+22:16:39.0901 [WARN]	Invalid fixture entry: KitchenSink:0
+22:16:39.0913 [WARN]	Invalid fixture entry: Lavatory:0
+22:16:39.0918 [WARN]	Invalid fixture entry: WaterCloset:0
+22:16:39.0924 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:17:32.8213 [ERROR]	Fixture type 'Water closet' cannot be found. Please try again.
+22:18:49.4032 [ERROR]	An error occurred.
+java.io.FileNotFoundException: . (Access is denied)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+	at drainsizer.FileIO.writeFile(FileIO.java:75)
+	at drainsizer.ProjectLoader.saveProject(ProjectLoader.java:165)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:73)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:21)
+	at drainsizer.DrainSizer.createProjectMenu(DrainSizer.java:128)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:61)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:18:49.4039 [ERROR]	Failed to save the project to: ./
+22:19:17.9724 [DEBUG]	Successfully wrote to the file.
+22:19:17.9735 [INFO]	Project saved successfully to: ./College of Aviation.bdsp
+22:23:54.2004 [FATAL]	Debug mode is not implemented yet
+22:23:54.2150 [INFO]	Starting Drain Sizer Program
+22:23:54.2390 [DEBUG]	
+
+22:23:54.2450 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:23:54.2460 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:23:54.2480 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:23:54.2490 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:23:54.2500 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:23:54.2520 [INFO]	Floor drains - 2.0 - 2.0
+22:23:54.2530 [INFO]	Kitchen sink - 2.0 - 1.5
+22:23:54.2540 [INFO]	Lavatory - 1.0 - 1.25
+22:23:54.2550 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:23:54.2560 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:24:10.8811 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:24:10.8824 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:24:10.8834 [DEBUG]	# Project metadata
+22:24:10.8844 [DEBUG]	projectName:College of Aviation
+22:24:10.8854 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:24:10.8864 [DEBUG]	totalFixtures:4
+22:24:10.8874 [DEBUG]	#fixtures iterable
+22:24:10.8874 [DEBUG]	fixtures[
+22:24:10.8884 [DEBUG]	Lavatory:25,true
+22:24:10.8894 [DEBUG]	FloorDrain:6,true
+22:24:10.8894 [DEBUG]	KitchenSink:12,true
+22:24:10.8904 [DEBUG]	KitchenSink:2,false
+22:24:10.8914 [DEBUG]	]
+22:24:10.8924 [DEBUG]	#totalstats
+22:24:10.8934 [DEBUG]	totaldfu:65.0
+22:24:10.8934 [DEBUG]	pipesize:3.0
+22:24:10.8944 [FATAL]	15
+22:24:10.8954 [FATAL]	projectName:College of Aviation
+22:24:10.8964 [DEBUG]	Project name set to: College of Aviation
+22:24:10.9062 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:24:10.9080 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:24:10.9098 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:24:10.9108 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:24:10.9118 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:24:10.9137 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:24:10.9147 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:24:10.9157 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:26:08.8249 [FATAL]	Debug mode is not implemented yet
+22:26:08.8439 [INFO]	Starting Drain Sizer Program
+22:26:08.8722 [DEBUG]	
+
+22:26:08.8792 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:26:08.8802 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:26:08.8812 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:26:08.8822 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:26:08.8832 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:26:08.8852 [INFO]	Floor drains - 2.0 - 2.0
+22:26:08.8862 [INFO]	Kitchen sink - 2.0 - 1.5
+22:26:08.8872 [INFO]	Lavatory - 1.0 - 1.25
+22:26:08.8882 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:26:08.8882 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:26:17.3983 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:26:17.3997 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:26:17.4014 [DEBUG]	# Project metadata
+22:26:17.4019 [DEBUG]	projectName:College of Aviation
+22:26:17.4039 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:26:17.4049 [DEBUG]	totalFixtures:4
+22:26:17.4059 [DEBUG]	#fixtures iterable
+22:26:17.4069 [DEBUG]	fixtures[
+22:26:17.4079 [DEBUG]	Lavatory:25,true
+22:26:17.4098 [DEBUG]	FloorDrain:6,true
+22:26:17.4099 [DEBUG]	KitchenSink:12,true
+22:26:17.4109 [DEBUG]	KitchenSink:2,false
+22:26:17.4119 [DEBUG]	]
+22:26:17.4138 [DEBUG]	#totalstats
+22:26:17.4149 [DEBUG]	totaldfu:65.0
+22:26:17.4158 [DEBUG]	pipesize:3.0
+22:26:17.4168 [FATAL]	15
+22:26:17.4178 [FATAL]	projectName:College of Aviation
+22:26:17.4188 [DEBUG]	Project name set to: College of Aviation
+22:26:17.4269 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:26:17.4278 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:26:17.4288 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:26:17.4298 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:26:17.4298 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:26:17.4308 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:26:17.4318 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:26:17.4328 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:27:34.1181 [FATAL]	Debug mode is not implemented yet
+22:27:34.1350 [INFO]	Starting Drain Sizer Program
+22:27:34.1581 [DEBUG]	
+
+22:27:34.1651 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:27:34.1661 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:27:34.1671 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:27:34.1681 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:27:34.1691 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:27:34.1711 [INFO]	Floor drains - 2.0 - 2.0
+22:27:34.1721 [INFO]	Kitchen sink - 2.0 - 1.5
+22:27:34.1731 [INFO]	Lavatory - 1.0 - 1.25
+22:27:34.1741 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:27:34.1751 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:27:42.6210 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:27:42.6210 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:27:42.6224 [DEBUG]	# Project metadata
+22:27:42.6233 [DEBUG]	projectName:College of Aviation
+22:27:42.6234 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:27:42.6244 [DEBUG]	totalFixtures:4
+22:27:42.6254 [DEBUG]	#fixtures iterable
+22:27:42.6254 [DEBUG]	fixtures[
+22:27:42.6264 [DEBUG]	Lavatory:25,true
+22:27:42.6277 [DEBUG]	FloorDrain:6,true
+22:27:42.6285 [DEBUG]	KitchenSink:12,true
+22:27:42.6293 [DEBUG]	KitchenSink:2,false
+22:27:42.6303 [DEBUG]	]
+22:27:42.6321 [DEBUG]	#totalstats
+22:27:42.6328 [DEBUG]	totaldfu:65.0
+22:27:42.6338 [DEBUG]	pipesize:3.0
+22:27:42.6348 [FATAL]	15
+22:27:42.6348 [FATAL]	projectName:College of Aviation
+22:27:42.6358 [DEBUG]	Project name set to: College of Aviation
+22:27:42.6419 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:27:42.6439 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:27:42.6449 [ERROR]	FloorDrain turned out null
+22:27:42.6459 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:27:42.6469 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:27:42.6482 [ERROR]	KitchenSink turned out null
+22:27:42.6489 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:27:42.6509 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:27:42.6509 [ERROR]	KitchenSink turned out null
+22:27:42.6519 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:27:42.6529 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:35:35.4738 [FATAL]	Debug mode is not implemented yet
+22:35:35.4898 [INFO]	Starting Drain Sizer Program
+22:35:35.5170 [DEBUG]	
+
+22:35:35.5244 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:35:35.5254 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:35:35.5276 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:35:35.5284 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:35:35.5294 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:35:35.5325 [INFO]	Floor drains - 2.0 - 2.0
+22:35:35.5334 [INFO]	Kitchen sink - 2.0 - 1.5
+22:35:35.5345 [INFO]	Lavatory - 1.0 - 1.25
+22:35:35.5354 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:35:35.5364 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:35:46.0556 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:35:46.0570 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:35:46.0576 [DEBUG]	# Project metadata
+22:35:46.0586 [DEBUG]	projectName:College of Aviation
+22:35:46.0586 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:35:46.0596 [DEBUG]	totalFixtures:4
+22:35:46.0606 [DEBUG]	#fixtures iterable
+22:35:46.0616 [DEBUG]	fixtures[
+22:35:46.0626 [DEBUG]	Lavatory:25,true
+22:35:46.0626 [DEBUG]	FloorDrain:6,true
+22:35:46.0636 [DEBUG]	KitchenSink:12,true
+22:35:46.0646 [DEBUG]	KitchenSink:2,false
+22:35:46.0646 [DEBUG]	]
+22:35:46.0656 [DEBUG]	#totalstats
+22:35:46.0676 [DEBUG]	totaldfu:65.0
+22:35:46.0676 [DEBUG]	pipesize:3.0
+22:35:46.0686 [FATAL]	15
+22:35:46.0696 [FATAL]	projectName:College of Aviation
+22:35:46.0706 [DEBUG]	Project name set to: College of Aviation
+22:35:46.0792 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:35:46.0796 [ERROR]	Getting Floor drains
+22:35:46.0806 [ERROR]	Getting Kitchen sink
+22:35:46.0816 [ERROR]	Getting Lavatory
+22:35:46.0829 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:35:46.0839 [ERROR]	Getting Floor drains
+22:35:46.0849 [ERROR]	Getting Kitchen sink
+22:35:46.0859 [ERROR]	Getting Lavatory
+22:35:46.0859 [ERROR]	Getting Water closet private (1.6 gpf)
+22:35:46.0869 [ERROR]	Getting Water closet public (1.6 gpf)
+22:35:46.0879 [ERROR]	FloorDrain turned out null
+22:35:46.0889 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:35:46.0899 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:35:46.0909 [ERROR]	Getting Floor drains
+22:35:46.0919 [ERROR]	Getting Kitchen sink
+22:35:46.0930 [ERROR]	Getting Lavatory
+22:35:46.0948 [ERROR]	Getting Water closet private (1.6 gpf)
+22:35:46.0958 [ERROR]	Getting Water closet public (1.6 gpf)
+22:35:46.0968 [ERROR]	KitchenSink turned out null
+22:35:46.0978 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:35:46.0988 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:35:46.0988 [ERROR]	Getting Floor drains
+22:35:46.0998 [ERROR]	Getting Kitchen sink
+22:35:46.0998 [ERROR]	Getting Lavatory
+22:35:46.1008 [ERROR]	Getting Water closet private (1.6 gpf)
+22:35:46.1018 [ERROR]	Getting Water closet public (1.6 gpf)
+22:35:46.1028 [ERROR]	KitchenSink turned out null
+22:35:46.1038 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:35:46.1038 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:43:12.4753 [FATAL]	Debug mode is not implemented yet
+22:43:12.4929 [INFO]	Starting Drain Sizer Program
+22:43:12.5164 [DEBUG]	
+
+22:43:12.5238 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:43:12.5244 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:43:12.5254 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:43:12.5264 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:43:12.5274 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:43:12.5294 [INFO]	Floor drains - 2.0 - 2.0
+22:43:12.5306 [INFO]	Kitchen sink - 2.0 - 1.5
+22:43:12.5306 [INFO]	Lavatory - 1.0 - 1.25
+22:43:12.5314 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:43:12.5326 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:43:21.0360 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:43:21.0384 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:43:21.0396 [DEBUG]	# Project metadata
+22:43:21.0404 [DEBUG]	projectName:College of Aviation
+22:43:21.0425 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:43:21.0438 [DEBUG]	totalFixtures:4
+22:43:21.0446 [DEBUG]	#fixtures iterable
+22:43:21.0456 [DEBUG]	fixtures[
+22:43:21.0456 [DEBUG]	Lavatory:25,true
+22:43:21.0466 [DEBUG]	FloorDrain:6,true
+22:43:21.0486 [DEBUG]	KitchenSink:12,true
+22:43:21.0506 [DEBUG]	KitchenSink:2,false
+22:43:21.0516 [DEBUG]	]
+22:43:21.0516 [DEBUG]	#totalstats
+22:43:21.0527 [DEBUG]	totaldfu:65.0
+22:43:21.0537 [DEBUG]	pipesize:3.0
+22:43:21.0537 [FATAL]	15
+22:43:21.0547 [FATAL]	projectName:College of Aviation
+22:43:21.0567 [DEBUG]	Project name set to: College of Aviation
+22:43:21.0643 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:43:21.0653 [ERROR]	Getting Floor drains
+22:43:21.0663 [ERROR]	Getting Kitchen sink
+22:43:21.0673 [ERROR]	Getting Lavatory
+22:43:21.0683 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:43:21.0695 [ERROR]	Getting Floor drains
+22:43:21.0703 [ERROR]	Getting Kitchen sink
+22:43:21.0713 [ERROR]	Getting Lavatory
+22:43:21.0723 [ERROR]	Getting Water closet private (1.6 gpf)
+22:43:21.0733 [ERROR]	Getting Water closet public (1.6 gpf)
+22:43:21.0743 [ERROR]	FloorDrain turned out null
+22:43:21.0753 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:43:21.0773 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:43:21.0783 [ERROR]	Getting Floor drains
+22:43:21.0803 [ERROR]	Getting Kitchen sink
+22:43:21.0803 [ERROR]	Getting Lavatory
+22:43:21.0813 [ERROR]	Getting Water closet private (1.6 gpf)
+22:43:21.0823 [ERROR]	Getting Water closet public (1.6 gpf)
+22:43:21.0823 [ERROR]	KitchenSink turned out null
+22:43:21.0833 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:43:21.0843 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:43:21.0853 [ERROR]	Getting Floor drains
+22:43:21.0863 [ERROR]	Getting Kitchen sink
+22:43:21.0863 [ERROR]	Getting Lavatory
+22:43:21.0873 [ERROR]	Getting Water closet private (1.6 gpf)
+22:43:21.0883 [ERROR]	Getting Water closet public (1.6 gpf)
+22:43:21.0893 [ERROR]	KitchenSink turned out null
+22:43:21.0893 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:43:21.0913 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:46:15.9014 [ERROR]	An error has occured: For input string: "y"
+Stack Trace: java.lang.NumberFormatException: For input string: "y"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:11)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:45)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:21)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:78)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:46:15.9030 [ERROR]	Invalid value!
+22:46:18.0052 [FATAL]	Debug mode is not implemented yet
+22:46:18.0203 [INFO]	Starting Drain Sizer Program
+22:46:18.0430 [DEBUG]	
+
+22:46:18.0491 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:46:18.0501 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:46:18.0510 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:46:18.0520 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:46:18.0530 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:46:18.0560 [INFO]	Floor drains - 2.0 - 2.0
+22:46:18.0570 [INFO]	Kitchen sink - 2.0 - 1.5
+22:46:18.0570 [INFO]	Lavatory - 1.0 - 1.25
+22:46:18.0581 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:46:18.0590 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:46:24.1579 [ERROR]	An error occurred.
+java.io.FileNotFoundException: . (Access is denied)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.util.Scanner.<init>(Scanner.java:639)
+	at drainsizer.FileIO.readFile(FileIO.java:27)
+	at drainsizer.ProjectLoader.loadProjectFromFile(ProjectLoader.java:19)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:74)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:46:24.1591 [ERROR]	Failed to read file or file is empty: ./
+22:46:24.1645 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+Stack Trace:
+java.lang.NullPointerException: Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:80)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:46:26.8173 [FATAL]	Debug mode is not implemented yet
+22:46:26.8329 [INFO]	Starting Drain Sizer Program
+22:46:26.8550 [DEBUG]	
+
+22:46:26.8610 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:46:26.8620 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:46:26.8630 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:46:26.8640 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:46:26.8650 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:46:26.8670 [INFO]	Floor drains - 2.0 - 2.0
+22:46:26.8680 [INFO]	Kitchen sink - 2.0 - 1.5
+22:46:26.8690 [INFO]	Lavatory - 1.0 - 1.25
+22:46:26.8700 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:46:26.8710 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:46:30.0766 [ERROR]	An error occurred.
+java.io.FileNotFoundException: 
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.util.Scanner.<init>(Scanner.java:639)
+	at drainsizer.FileIO.readFile(FileIO.java:27)
+	at drainsizer.ProjectLoader.loadProjectFromFile(ProjectLoader.java:19)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:74)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:46:30.0776 [ERROR]	Failed to read file or file is empty: 
+22:46:30.0826 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+Stack Trace:
+java.lang.NullPointerException: Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:80)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+22:48:10.1951 [FATAL]	Debug mode is not implemented yet
+22:48:10.2104 [INFO]	Starting Drain Sizer Program
+22:48:10.2341 [DEBUG]	
+
+22:48:10.2401 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:48:10.2411 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:48:10.2421 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:48:10.2431 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:48:10.2441 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:48:10.2471 [INFO]	Floor drains - 2.0 - 2.0
+22:48:10.2481 [INFO]	Kitchen sink - 2.0 - 1.5
+22:48:10.2481 [INFO]	Lavatory - 1.0 - 1.25
+22:48:10.2501 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:48:10.2511 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:48:20.7572 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:48:20.7582 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:48:20.7592 [DEBUG]	# Project metadata
+22:48:20.7602 [DEBUG]	projectName:College of Aviation
+22:48:20.7612 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:48:20.7622 [DEBUG]	totalFixtures:4
+22:48:20.7632 [DEBUG]	#fixtures iterable
+22:48:20.7634 [DEBUG]	fixtures[
+22:48:20.7642 [DEBUG]	Lavatory:25,true
+22:48:20.7652 [DEBUG]	FloorDrain:6,true
+22:48:20.7662 [DEBUG]	KitchenSink:12,true
+22:48:20.7673 [DEBUG]	KitchenSink:2,false
+22:48:20.7682 [DEBUG]	]
+22:48:20.7682 [DEBUG]	#totalstats
+22:48:20.7692 [DEBUG]	totaldfu:65.0
+22:48:20.7702 [DEBUG]	pipesize:3.0
+22:48:20.7712 [FATAL]	15
+22:48:20.7729 [FATAL]	projectName:College of Aviation
+22:48:20.7749 [DEBUG]	Project name set to: College of Aviation
+22:48:20.7835 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:48:20.7847 [ERROR]	Getting Floor drains
+22:48:20.7857 [ERROR]	Getting Kitchen sink
+22:48:20.7867 [ERROR]	Getting Lavatory
+22:48:20.7877 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:48:20.7887 [ERROR]	Getting Floor drains
+22:48:20.7897 [ERROR]	Getting Kitchen sink
+22:48:20.7907 [ERROR]	Getting Lavatory
+22:48:20.7917 [ERROR]	Getting Water closet private (1.6 gpf)
+22:48:20.7924 [ERROR]	Getting Water closet public (1.6 gpf)
+22:48:20.7934 [ERROR]	floordrain turned out null
+22:48:20.7944 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:48:20.7954 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:48:20.7966 [ERROR]	Getting Floor drains
+22:48:20.7974 [ERROR]	Getting Kitchen sink
+22:48:20.7984 [ERROR]	Getting Lavatory
+22:48:20.7994 [ERROR]	Getting Water closet private (1.6 gpf)
+22:48:20.8004 [ERROR]	Getting Water closet public (1.6 gpf)
+22:48:20.8014 [ERROR]	kitchensink turned out null
+22:48:20.8024 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:48:20.8036 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:48:20.8046 [ERROR]	Getting Floor drains
+22:48:20.8056 [ERROR]	Getting Kitchen sink
+22:48:20.8066 [ERROR]	Getting Lavatory
+22:48:20.8076 [ERROR]	Getting Water closet private (1.6 gpf)
+22:48:20.8086 [ERROR]	Getting Water closet public (1.6 gpf)
+22:48:20.8096 [ERROR]	kitchensink turned out null
+22:48:20.8099 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:48:20.8106 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:53:22.2797 [FATAL]	Debug mode is not implemented yet
+22:53:22.2962 [INFO]	Starting Drain Sizer Program
+22:53:22.3184 [DEBUG]	
+
+22:53:22.3243 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:53:22.3264 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:53:22.3273 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:53:22.3283 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:53:22.3293 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:53:22.3313 [INFO]	Floor drains - 2.0 - 2.0
+22:53:22.3323 [INFO]	Kitchen sink - 2.0 - 1.5
+22:53:22.3333 [INFO]	Lavatory - 1.0 - 1.25
+22:53:22.3343 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:53:22.3343 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:55:34.4210 [FATAL]	Debug mode is not implemented yet
+22:55:34.4393 [INFO]	Starting Drain Sizer Program
+22:55:34.4603 [DEBUG]	
+
+22:55:34.4669 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:55:34.4691 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:55:34.4699 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:55:34.4709 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:55:34.4719 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:55:34.4739 [INFO]	Floor drains - 2.0 - 2.0
+22:55:34.4739 [INFO]	Kitchen sink - 2.0 - 1.5
+22:55:34.4749 [INFO]	Lavatory - 1.0 - 1.25
+22:55:34.4759 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:55:34.4759 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:55:44.9734 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:55:44.9744 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:55:44.9756 [DEBUG]	# Project metadata
+22:55:44.9764 [DEBUG]	projectName:College of Aviation
+22:55:44.9774 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:55:44.9779 [DEBUG]	totalFixtures:4
+22:55:44.9785 [DEBUG]	#fixtures iterable
+22:55:44.9794 [DEBUG]	fixtures[
+22:55:44.9807 [DEBUG]	Lavatory:25,true
+22:55:44.9807 [DEBUG]	FloorDrain:6,true
+22:55:44.9824 [DEBUG]	KitchenSink:12,true
+22:55:44.9841 [DEBUG]	KitchenSink:2,false
+22:55:44.9841 [DEBUG]	]
+22:55:44.9850 [DEBUG]	#totalstats
+22:55:44.9860 [DEBUG]	totaldfu:65.0
+22:55:44.9870 [DEBUG]	pipesize:3.0
+22:55:44.9880 [FATAL]	15
+22:55:44.9890 [FATAL]	projectName:College of Aviation
+22:55:44.9900 [DEBUG]	Project name set to: College of Aviation
+22:55:44.9991 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:55:44.9991 [ERROR]	Getting Floor drains
+22:55:45.0005 [ERROR]	Getting Kitchen sink
+22:55:45.0016 [ERROR]	Getting Lavatory
+22:55:45.0036 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:55:45.0044 [ERROR]	Getting Floor drains
+22:55:45.0049 [ERROR]	Getting Kitchen sink
+22:55:45.0062 [ERROR]	Getting Lavatory
+22:55:45.0068 [ERROR]	Getting Water closet private (1.6 gpf)
+22:55:45.0090 [ERROR]	Getting Water closet public (1.6 gpf)
+22:55:45.0110 [ERROR]	floordrain turned out null
+22:55:45.0120 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:55:45.0131 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:55:45.0136 [ERROR]	Getting Floor drains
+22:55:45.0147 [ERROR]	Getting Kitchen sink
+22:55:45.0152 [ERROR]	Getting Lavatory
+22:55:45.0159 [ERROR]	Getting Water closet private (1.6 gpf)
+22:55:45.0171 [ERROR]	Getting Water closet public (1.6 gpf)
+22:55:45.0178 [ERROR]	kitchensink turned out null
+22:55:45.0185 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:55:45.0198 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:55:45.0209 [ERROR]	Getting Floor drains
+22:55:45.0215 [ERROR]	Getting Kitchen sink
+22:55:45.0220 [ERROR]	Getting Lavatory
+22:55:45.0230 [ERROR]	Getting Water closet private (1.6 gpf)
+22:55:45.0245 [ERROR]	Getting Water closet public (1.6 gpf)
+22:55:45.0260 [ERROR]	kitchensink turned out null
+22:55:45.0276 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:55:45.0281 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:57:31.8864 [FATAL]	Debug mode is not implemented yet
+22:57:31.9049 [INFO]	Starting Drain Sizer Program
+22:57:31.9279 [DEBUG]	
+
+22:57:31.9340 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:57:31.9349 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:57:31.9359 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:57:31.9369 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:57:31.9381 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:57:31.9410 [INFO]	Floor drains - 2.0 - 2.0
+22:57:31.9420 [INFO]	Kitchen sink - 2.0 - 1.5
+22:57:31.9430 [INFO]	Lavatory - 1.0 - 1.25
+22:57:31.9430 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:57:31.9440 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:57:39.6919 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:57:39.6942 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:57:39.6948 [DEBUG]	# Project metadata
+22:57:39.6958 [DEBUG]	projectName:College of Aviation
+22:57:39.6968 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:57:39.6988 [DEBUG]	totalFixtures:4
+22:57:39.6998 [DEBUG]	#fixtures iterable
+22:57:39.6999 [DEBUG]	fixtures[
+22:57:39.7015 [DEBUG]	Lavatory:25,true
+22:57:39.7020 [DEBUG]	FloorDrain:6,true
+22:57:39.7040 [DEBUG]	KitchenSink:12,true
+22:57:39.7050 [DEBUG]	KitchenSink:2,false
+22:57:39.7060 [DEBUG]	]
+22:57:39.7070 [DEBUG]	#totalstats
+22:57:39.7080 [DEBUG]	totaldfu:65.0
+22:57:39.7080 [DEBUG]	pipesize:3.0
+22:57:39.7090 [FATAL]	15
+22:57:39.7100 [FATAL]	projectName:College of Aviation
+22:57:39.7120 [DEBUG]	Project name set to: College of Aviation
+22:57:39.7200 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:57:39.7210 [ERROR]	Getting Floor drains
+22:57:39.7231 [ERROR]	Getting Kitchen sink
+22:57:39.7240 [ERROR]	Getting Lavatory
+22:57:39.7240 [ERROR]	Getting Water closet private (1.6 gpf)
+22:57:39.7260 [ERROR]	Getting Water closet public (1.6 gpf)
+22:57:39.7270 [ERROR]	lavatory turned out null
+22:57:39.7280 [WARN]	Fixture type 'Lavatory' is not defined in the plumbing code.
+22:57:39.7300 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:57:39.7311 [ERROR]	Getting Floor drains
+22:57:39.7316 [ERROR]	Getting Kitchen sink
+22:57:39.7321 [ERROR]	Getting Lavatory
+22:57:39.7331 [ERROR]	Getting Water closet private (1.6 gpf)
+22:57:39.7341 [ERROR]	Getting Water closet public (1.6 gpf)
+22:57:39.7355 [ERROR]	floordrain turned out null
+22:57:39.7355 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:57:39.7375 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:57:39.7381 [ERROR]	Getting Floor drains
+22:57:39.7381 [ERROR]	Getting Kitchen sink
+22:57:39.7401 [ERROR]	Getting Lavatory
+22:57:39.7401 [ERROR]	Getting Water closet private (1.6 gpf)
+22:57:39.7417 [ERROR]	Getting Water closet public (1.6 gpf)
+22:57:39.7433 [ERROR]	kitchensink turned out null
+22:57:39.7442 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:57:39.7442 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:57:39.7452 [ERROR]	Getting Floor drains
+22:57:39.7462 [ERROR]	Getting Kitchen sink
+22:57:39.7472 [ERROR]	Getting Lavatory
+22:57:39.7492 [ERROR]	Getting Water closet private (1.6 gpf)
+22:57:39.7502 [ERROR]	Getting Water closet public (1.6 gpf)
+22:57:39.7502 [ERROR]	kitchensink turned out null
+22:57:39.7512 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:57:39.7522 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+22:58:15.1602 [FATAL]	Debug mode is not implemented yet
+22:58:15.1742 [INFO]	Starting Drain Sizer Program
+22:58:15.1963 [DEBUG]	
+
+22:58:15.2032 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+22:58:15.2042 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+22:58:15.2052 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+22:58:15.2062 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+22:58:15.2074 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+22:58:15.2102 [INFO]	Floor drains - 2.0 - 2.0
+22:58:15.2112 [INFO]	Kitchen sink - 2.0 - 1.5
+22:58:15.2112 [INFO]	Lavatory - 1.0 - 1.25
+22:58:15.2124 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+22:58:15.2134 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+22:58:24.8295 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+22:58:24.8322 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+22:58:24.8332 [DEBUG]	# Project metadata
+22:58:24.8342 [DEBUG]	projectName:College of Aviation
+22:58:24.8358 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+22:58:24.8362 [DEBUG]	totalFixtures:4
+22:58:24.8372 [DEBUG]	#fixtures iterable
+22:58:24.8384 [DEBUG]	fixtures[
+22:58:24.8392 [DEBUG]	Lavatory:25,true
+22:58:24.8402 [DEBUG]	FloorDrain:6,true
+22:58:24.8402 [DEBUG]	KitchenSink:12,true
+22:58:24.8425 [DEBUG]	KitchenSink:2,false
+22:58:24.8441 [DEBUG]	]
+22:58:24.8441 [DEBUG]	#totalstats
+22:58:24.8451 [DEBUG]	totaldfu:65.0
+22:58:24.8461 [DEBUG]	pipesize:3.0
+22:58:24.8471 [FATAL]	15
+22:58:24.8481 [FATAL]	projectName:College of Aviation
+22:58:24.8491 [DEBUG]	Project name set to: College of Aviation
+22:58:24.8576 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+22:58:24.8583 [ERROR]	Getting Floor drains
+22:58:24.8593 [ERROR]	Getting Kitchen sink
+22:58:24.8603 [ERROR]	Getting Lavatory
+22:58:24.8623 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+22:58:24.8633 [ERROR]	Getting Floor drains
+22:58:24.8643 [ERROR]	Getting Kitchen sink
+22:58:24.8653 [ERROR]	Getting Lavatory
+22:58:24.8657 [ERROR]	Getting Water closet private (1.6 gpf)
+22:58:24.8663 [ERROR]	Getting Water closet public (1.6 gpf)
+22:58:24.8673 [ERROR]	FloorDrain turned out null
+22:58:24.8684 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+22:58:24.8703 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+22:58:24.8713 [ERROR]	Getting Floor drains
+22:58:24.8721 [ERROR]	Getting Kitchen sink
+22:58:24.8721 [ERROR]	Getting Lavatory
+22:58:24.8731 [ERROR]	Getting Water closet private (1.6 gpf)
+22:58:24.8741 [ERROR]	Getting Water closet public (1.6 gpf)
+22:58:24.8751 [ERROR]	KitchenSink turned out null
+22:58:24.8761 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:58:24.8771 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+22:58:24.8791 [ERROR]	Getting Floor drains
+22:58:24.8791 [ERROR]	Getting Kitchen sink
+22:58:24.8801 [ERROR]	Getting Lavatory
+22:58:24.8811 [ERROR]	Getting Water closet private (1.6 gpf)
+22:58:24.8817 [ERROR]	Getting Water closet public (1.6 gpf)
+22:58:24.8822 [ERROR]	KitchenSink turned out null
+22:58:24.8831 [WARN]	Fixture type 'KitchenSink' is not defined in the plumbing code.
+22:58:24.8841 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:01:20.9624 [FATAL]	Debug mode is not implemented yet
+23:01:20.9824 [INFO]	Starting Drain Sizer Program
+23:01:21.0104 [DEBUG]	
+
+23:01:21.0174 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:01:21.0194 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:01:21.0204 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:01:21.0214 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:01:21.0214 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:01:21.0235 [INFO]	Floor drains - 2.0 - 2.0
+23:01:21.0244 [INFO]	Kitchen sink - 2.0 - 1.5
+23:01:21.0254 [INFO]	Lavatory - 1.0 - 1.25
+23:01:21.0254 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:01:21.0264 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:01:29.6736 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:01:29.6746 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:01:29.6756 [DEBUG]	# Project metadata
+23:01:29.6766 [DEBUG]	projectName:College of Aviation
+23:01:29.6776 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:01:29.6786 [DEBUG]	totalFixtures:4
+23:01:29.6796 [DEBUG]	#fixtures iterable
+23:01:29.6796 [DEBUG]	fixtures[
+23:01:29.6806 [DEBUG]	Lavatory:25,true
+23:01:29.6816 [DEBUG]	FloorDrain:6,true
+23:01:29.6826 [DEBUG]	KitchenSink:12,true
+23:01:29.6826 [DEBUG]	KitchenSink:2,false
+23:01:29.6836 [DEBUG]	]
+23:01:29.6848 [DEBUG]	#totalstats
+23:01:29.6856 [DEBUG]	totaldfu:65.0
+23:01:29.6866 [DEBUG]	pipesize:3.0
+23:01:29.6876 [FATAL]	15
+23:01:29.6886 [FATAL]	projectName:College of Aviation
+23:01:29.6906 [DEBUG]	Project name set to: College of Aviation
+23:01:29.6970 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:01:29.7001 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:01:29.7020 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:01:29.7030 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:01:29.7040 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:01:29.7051 [WARN]	Unknown fixture type: KitchenSink
+23:01:29.7062 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:01:29.7083 [WARN]	Unknown fixture type: KitchenSink
+23:01:29.7092 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:02:30.5930 [FATAL]	Debug mode is not implemented yet
+23:02:30.6081 [INFO]	Starting Drain Sizer Program
+23:02:30.6305 [DEBUG]	
+
+23:02:30.6374 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:02:30.6387 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:02:30.6396 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:02:30.6404 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:02:30.6414 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:02:30.6435 [INFO]	Floor drains - 2.0 - 2.0
+23:02:30.6444 [INFO]	Kitchen sink - 2.0 - 1.5
+23:02:30.6454 [INFO]	Lavatory - 1.0 - 1.25
+23:02:30.6454 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:02:30.6464 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:02:37.6996 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:02:37.7015 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:02:37.7025 [DEBUG]	# Project metadata
+23:02:37.7035 [DEBUG]	projectName:College of Aviation
+23:02:37.7045 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:02:37.7055 [DEBUG]	totalFixtures:4
+23:02:37.7075 [DEBUG]	#fixtures iterable
+23:02:37.7075 [DEBUG]	fixtures[
+23:02:37.7085 [DEBUG]	Lavatory:25,true
+23:02:37.7095 [DEBUG]	FloorDrain:6,true
+23:02:37.7106 [DEBUG]	KitchenSink:12,true
+23:02:37.7115 [DEBUG]	KitchenSink:2,false
+23:02:37.7121 [DEBUG]	]
+23:02:37.7141 [DEBUG]	#totalstats
+23:02:37.7151 [DEBUG]	totaldfu:65.0
+23:02:37.7151 [DEBUG]	pipesize:3.0
+23:02:37.7161 [FATAL]	15
+23:02:37.7171 [FATAL]	projectName:College of Aviation
+23:02:37.7191 [DEBUG]	Project name set to: College of Aviation
+23:02:37.7274 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:02:37.7292 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:02:37.7301 [WARN]	Fixture type 'FloorDrain' is null!
+23:02:37.7320 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:02:37.7330 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:02:37.7350 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:02:37.7360 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:02:47.5813 [FATAL]	Debug mode is not implemented yet
+23:02:47.5986 [INFO]	Starting Drain Sizer Program
+23:02:47.6189 [DEBUG]	
+
+23:02:47.6280 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:02:47.6289 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:02:47.6299 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:02:47.6319 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:02:47.6331 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:02:47.6351 [INFO]	Floor drains - 2.0 - 2.0
+23:02:47.6367 [INFO]	Kitchen sink - 2.0 - 1.5
+23:02:47.6371 [INFO]	Lavatory - 1.0 - 1.25
+23:02:47.6381 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:02:47.6391 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:02:55.7554 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:02:55.7554 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:02:55.7564 [DEBUG]	# Project metadata
+23:02:55.7574 [DEBUG]	projectName:College of Aviation
+23:02:55.7584 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:02:55.7594 [DEBUG]	totalFixtures:4
+23:02:55.7594 [DEBUG]	#fixtures iterable
+23:02:55.7604 [DEBUG]	fixtures[
+23:02:55.7604 [DEBUG]	Lavatory:25,true
+23:02:55.7614 [DEBUG]	FloorDrain:6,true
+23:02:55.7614 [DEBUG]	KitchenSink:12,true
+23:02:55.7629 [DEBUG]	KitchenSink:2,false
+23:02:55.7629 [DEBUG]	]
+23:02:55.7649 [DEBUG]	#totalstats
+23:02:55.7661 [DEBUG]	totaldfu:65.0
+23:02:55.7669 [DEBUG]	pipesize:3.0
+23:02:55.7669 [FATAL]	15
+23:02:55.7679 [FATAL]	projectName:College of Aviation
+23:02:55.7699 [DEBUG]	Project name set to: College of Aviation
+23:02:55.7780 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:02:55.7801 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:02:55.7809 [WARN]	Fixture type 'FloorDrain' is null!
+23:02:55.7829 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:02:55.7839 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:02:55.7859 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:02:55.7869 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:03:44.7344 [FATAL]	Debug mode is not implemented yet
+23:03:44.7524 [INFO]	Starting Drain Sizer Program
+23:03:44.7761 [DEBUG]	
+
+23:03:44.7821 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:03:44.7831 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:03:44.7841 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:03:44.7851 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:03:44.7861 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:03:44.7891 [INFO]	Floor drains - 2.0 - 2.0
+23:03:44.7891 [INFO]	Kitchen sink - 2.0 - 1.5
+23:03:44.7901 [INFO]	Lavatory - 1.0 - 1.25
+23:03:44.7911 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:03:44.7921 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:03:54.5614 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:03:54.5619 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:03:54.5629 [DEBUG]	# Project metadata
+23:03:54.5639 [DEBUG]	projectName:College of Aviation
+23:03:54.5649 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:03:54.5659 [DEBUG]	totalFixtures:4
+23:03:54.5669 [DEBUG]	#fixtures iterable
+23:03:54.5669 [DEBUG]	fixtures[
+23:03:54.5680 [DEBUG]	Lavatory:25,true
+23:03:54.5689 [DEBUG]	FloorDrain:6,true
+23:03:54.5689 [DEBUG]	KitchenSink:12,true
+23:03:54.5711 [DEBUG]	KitchenSink:2,false
+23:03:54.5722 [DEBUG]	]
+23:03:54.5733 [DEBUG]	#totalstats
+23:03:54.5736 [DEBUG]	totaldfu:65.0
+23:03:54.5742 [DEBUG]	pipesize:3.0
+23:03:54.5752 [FATAL]	15
+23:03:54.5762 [FATAL]	projectName:College of Aviation
+23:03:54.5772 [DEBUG]	Project name set to: College of Aviation
+23:03:54.5849 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:03:54.5869 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:03:54.5889 [WARN]	Fixture type 'FloorDrain' is null!
+23:03:54.5899 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:03:54.5909 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:03:54.5929 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:03:54.5943 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:05:25.0113 [FATAL]	Debug mode is not implemented yet
+23:05:25.0269 [INFO]	Starting Drain Sizer Program
+23:05:25.0519 [DEBUG]	
+
+23:05:25.0602 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:05:25.0602 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:05:25.0612 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:05:25.0622 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:05:25.0633 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:05:25.0652 [INFO]	Floor drains - 2.0 - 2.0
+23:05:25.0662 [INFO]	Kitchen sink - 2.0 - 1.5
+23:05:25.0673 [INFO]	Lavatory - 1.0 - 1.25
+23:05:25.0682 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:05:25.0694 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:05:31.8280 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:05:31.8290 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:05:31.8300 [DEBUG]	# Project metadata
+23:05:31.8310 [DEBUG]	projectName:College of Aviation
+23:05:31.8320 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:05:31.8320 [DEBUG]	totalFixtures:4
+23:05:31.8332 [DEBUG]	#fixtures iterable
+23:05:31.8343 [DEBUG]	fixtures[
+23:05:31.8352 [DEBUG]	Lavatory:25,true
+23:05:31.8362 [DEBUG]	FloorDrain:6,true
+23:05:31.8368 [DEBUG]	KitchenSink:12,true
+23:05:31.8372 [DEBUG]	KitchenSink:2,false
+23:05:31.8383 [DEBUG]	]
+23:05:31.8383 [DEBUG]	#totalstats
+23:05:31.8392 [DEBUG]	totaldfu:65.0
+23:05:31.8403 [DEBUG]	pipesize:3.0
+23:05:31.8418 [FATAL]	15
+23:05:31.8428 [FATAL]	projectName:College of Aviation
+23:05:31.8448 [DEBUG]	Project name set to: College of Aviation
+23:05:31.8538 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:05:31.8569 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:05:31.8578 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:05:31.8588 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:05:31.8598 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:05:31.8618 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:05:31.8628 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:08:12.1073 [FATAL]	Debug mode is not implemented yet
+23:08:12.1213 [INFO]	Starting Drain Sizer Program
+23:08:12.1433 [DEBUG]	
+
+23:08:12.1492 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:08:12.1502 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:08:12.1512 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:08:12.1520 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:08:12.1530 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:08:12.1540 [INFO]	Floor drains - 2.0 - 2.0
+23:08:12.1550 [INFO]	Kitchen sink - 2.0 - 1.5
+23:08:12.1550 [INFO]	Lavatory - 1.0 - 1.25
+23:08:12.1560 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:08:12.1576 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:08:28.0414 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+FloorDrain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:08:28.0430 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:08:28.0450 [DEBUG]	# Project metadata
+23:08:28.0462 [DEBUG]	projectName:College of Aviation
+23:08:28.0480 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:08:28.0490 [DEBUG]	totalFixtures:4
+23:08:28.0500 [DEBUG]	#fixtures iterable
+23:08:28.0510 [DEBUG]	fixtures[
+23:08:28.0520 [DEBUG]	Lavatory:25,true
+23:08:28.0531 [DEBUG]	FloorDrain:6,true
+23:08:28.0541 [DEBUG]	KitchenSink:12,true
+23:08:28.0550 [DEBUG]	KitchenSink:2,false
+23:08:28.0560 [DEBUG]	]
+23:08:28.0570 [DEBUG]	#totalstats
+23:08:28.0584 [DEBUG]	totaldfu:65.0
+23:08:28.0590 [DEBUG]	pipesize:3.0
+23:08:28.0600 [FATAL]	15
+23:08:28.0610 [FATAL]	projectName:College of Aviation
+23:08:28.0630 [DEBUG]	Project name set to: College of Aviation
+23:08:28.0701 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:08:28.0722 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 6
+	With visibility: true
+
+23:08:28.0730 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:08:28.0740 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:08:28.0760 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:08:28.0783 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:08:28.0792 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:08:44.1439 [FATAL]	Debug mode is not implemented yet
+23:08:44.1588 [INFO]	Starting Drain Sizer Program
+23:08:44.1809 [DEBUG]	
+
+23:08:44.1869 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:08:44.1879 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:08:44.1889 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:08:44.1899 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:08:44.1909 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:08:44.1929 [INFO]	Floor drains - 2.0 - 2.0
+23:08:44.1939 [INFO]	Kitchen sink - 2.0 - 1.5
+23:08:44.1949 [INFO]	Lavatory - 1.0 - 1.25
+23:08:44.1960 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:08:44.1960 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:08:54.5599 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+Floor Drain:6,true
+Kitchen Sink:12,true
+Kitchen Sink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:08:54.5609 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:08:54.5619 [DEBUG]	# Project metadata
+23:08:54.5632 [DEBUG]	projectName:College of Aviation
+23:08:54.5639 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:08:54.5648 [DEBUG]	totalFixtures:4
+23:08:54.5648 [DEBUG]	#fixtures iterable
+23:08:54.5658 [DEBUG]	fixtures[
+23:08:54.5668 [DEBUG]	Lavatory:25,true
+23:08:54.5668 [DEBUG]	Floor Drain:6,true
+23:08:54.5683 [DEBUG]	Kitchen Sink:12,true
+23:08:54.5698 [DEBUG]	Kitchen Sink:2,false
+23:08:54.5709 [DEBUG]	]
+23:08:54.5728 [DEBUG]	#totalstats
+23:08:54.5729 [DEBUG]	totaldfu:65.0
+23:08:54.5738 [DEBUG]	pipesize:3.0
+23:08:54.5748 [FATAL]	15
+23:08:54.5760 [FATAL]	projectName:College of Aviation
+23:08:54.5778 [DEBUG]	Project name set to: College of Aviation
+23:08:54.5848 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:08:54.5864 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor Drain
+	With quantity: 6
+	With visibility: true
+
+23:08:54.5884 [WARN]	Fixture type 'Floor Drain' is not defined in the plumbing code.
+23:08:54.5894 [WARN]	Fixture type 'Floor Drain' is not defined in the plumbing code.
+23:08:54.5904 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen Sink
+	With quantity: 12
+	With visibility: true
+
+23:08:54.5914 [WARN]	Unknown fixture type: Kitchen Sink
+23:08:54.5932 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen Sink
+	With quantity: 2
+	With visibility: false
+
+23:08:54.5942 [WARN]	Unknown fixture type: Kitchen Sink
+23:08:54.5952 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:09:06.8912 [FATAL]	Debug mode is not implemented yet
+23:09:06.9059 [INFO]	Starting Drain Sizer Program
+23:09:06.9289 [DEBUG]	
+
+23:09:06.9353 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:09:06.9363 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:09:06.9373 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:09:06.9383 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:09:06.9393 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:09:06.9423 [INFO]	Floor drains - 2.0 - 2.0
+23:09:06.9433 [INFO]	Kitchen sink - 2.0 - 1.5
+23:09:06.9443 [INFO]	Lavatory - 1.0 - 1.25
+23:09:06.9453 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:09:06.9464 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:09:14.8868 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 22:19:17 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+Floor Drain:6,true
+KitchenSink:12,true
+KitchenSink:2,false
+]
+#totalstats
+totaldfu:65.0
+pipesize:3.0
+
+23:09:14.8868 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:09:14.8879 [DEBUG]	# Project metadata
+23:09:14.8888 [DEBUG]	projectName:College of Aviation
+23:09:14.8898 [DEBUG]	lastsaved:Thu Apr 17 22:19:17 EDT 2025
+23:09:14.8908 [DEBUG]	totalFixtures:4
+23:09:14.8918 [DEBUG]	#fixtures iterable
+23:09:14.8928 [DEBUG]	fixtures[
+23:09:14.8928 [DEBUG]	Lavatory:25,true
+23:09:14.8938 [DEBUG]	Floor Drain:6,true
+23:09:14.8948 [DEBUG]	KitchenSink:12,true
+23:09:14.8961 [DEBUG]	KitchenSink:2,false
+23:09:14.8968 [DEBUG]	]
+23:09:14.8968 [DEBUG]	#totalstats
+23:09:14.8978 [DEBUG]	totaldfu:65.0
+23:09:14.8978 [DEBUG]	pipesize:3.0
+23:09:14.8999 [FATAL]	15
+23:09:14.9008 [FATAL]	projectName:College of Aviation
+23:09:14.9024 [DEBUG]	Project name set to: College of Aviation
+23:09:14.9087 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:09:14.9114 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor Drain
+	With quantity: 6
+	With visibility: true
+
+23:09:14.9135 [WARN]	Fixture type 'Floor Drain' is not defined in the plumbing code.
+23:09:14.9145 [WARN]	Fixture type 'Floor Drain' is not defined in the plumbing code.
+23:09:14.9155 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:09:14.9185 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:09:14.9196 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:10:09.6220 [DEBUG]	Successfully wrote to the file.
+23:10:09.6247 [INFO]	Project saved successfully to: ./College of Aviation.bdsp
+23:10:40.5357 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:10:40.5379 [DEBUG]	Successfully wrote to the file.
+23:10:40.5401 [INFO]	Project saved successfully to: ./College of Aviation.bdsp
+23:11:17.3824 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+Kitchen sink:12,true
+Kitchen sink:2,false
+FloorDrain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:11:17.3843 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:11:17.3853 [DEBUG]	# Project metadata
+23:11:17.3863 [DEBUG]	projectName:College of Aviation
+23:11:17.3883 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:11:17.3893 [DEBUG]	totalFixtures:4
+23:11:17.3903 [DEBUG]	#fixtures iterable
+23:11:17.3913 [DEBUG]	fixtures[
+23:11:17.3923 [DEBUG]	Lavatory:25,true
+23:11:17.3935 [DEBUG]	Kitchen sink:12,true
+23:11:17.3945 [DEBUG]	Kitchen sink:2,false
+23:11:17.3954 [DEBUG]	FloorDrain:20,false
+23:11:17.3964 [DEBUG]	]
+23:11:17.3977 [DEBUG]	#totalstats
+23:11:17.3995 [DEBUG]	totaldfu:93.0
+23:11:17.4005 [DEBUG]	pipesize:3.0
+23:11:17.4014 [FATAL]	15
+23:11:17.4024 [FATAL]	projectName:College of Aviation
+23:11:17.4034 [DEBUG]	Project name set to: College of Aviation
+23:11:17.4044 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:11:17.4044 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 12
+	With visibility: true
+
+23:11:17.4054 [WARN]	Unknown fixture type: Kitchen sink
+23:11:17.4064 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 2
+	With visibility: false
+
+23:11:17.4074 [WARN]	Unknown fixture type: Kitchen sink
+23:11:17.4084 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 20
+	With visibility: false
+
+23:11:17.4095 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:11:17.4104 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:11:17.4114 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:11:47.1560 [FATAL]	Debug mode is not implemented yet
+23:11:47.1712 [INFO]	Starting Drain Sizer Program
+23:11:47.1953 [DEBUG]	
+
+23:11:47.2013 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:11:47.2023 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:11:47.2033 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:11:47.2043 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:11:47.2056 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:11:47.2073 [INFO]	Floor drains - 2.0 - 2.0
+23:11:47.2083 [INFO]	Kitchen sink - 2.0 - 1.5
+23:11:47.2093 [INFO]	Lavatory - 1.0 - 1.25
+23:11:47.2103 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:11:47.2103 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:11:55.6633 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+Kitchen sink:12,true
+Kitchen sink:2,false
+FloorDrain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:11:55.6642 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:11:55.6645 [DEBUG]	# Project metadata
+23:11:55.6653 [DEBUG]	projectName:College of Aviation
+23:11:55.6663 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:11:55.6672 [DEBUG]	totalFixtures:4
+23:11:55.6685 [DEBUG]	#fixtures iterable
+23:11:55.6690 [DEBUG]	fixtures[
+23:11:55.6700 [DEBUG]	Lavatory:25,true
+23:11:55.6700 [DEBUG]	Kitchen sink:12,true
+23:11:55.6710 [DEBUG]	Kitchen sink:2,false
+23:11:55.6717 [DEBUG]	FloorDrain:20,false
+23:11:55.6722 [DEBUG]	]
+23:11:55.6732 [DEBUG]	#totalstats
+23:11:55.6744 [DEBUG]	totaldfu:93.0
+23:11:55.6752 [DEBUG]	pipesize:3.0
+23:11:55.6762 [FATAL]	15
+23:11:55.6772 [FATAL]	projectName:College of Aviation
+23:11:55.6782 [DEBUG]	Project name set to: College of Aviation
+23:11:55.6843 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:11:55.6863 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 12
+	With visibility: true
+
+23:11:55.6883 [WARN]	Unknown fixture type: Kitchen sink
+23:11:55.6893 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 2
+	With visibility: false
+
+23:11:55.6904 [WARN]	Unknown fixture type: Kitchen sink
+23:11:55.6923 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 20
+	With visibility: false
+
+23:11:55.6943 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:11:55.6953 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:11:55.6963 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:12:08.5692 [FATAL]	Debug mode is not implemented yet
+23:12:08.5850 [INFO]	Starting Drain Sizer Program
+23:12:08.6083 [DEBUG]	
+
+23:12:08.6136 [INFO]	Loaded fixture: Floor drains | DFU: 2.0 | Trap: 2.0
+23:12:08.6156 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:12:08.6168 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:12:08.6173 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:12:08.6189 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:12:08.6203 [INFO]	Floor drains - 2.0 - 2.0
+23:12:08.6213 [INFO]	Kitchen sink - 2.0 - 1.5
+23:12:08.6223 [INFO]	Lavatory - 1.0 - 1.25
+23:12:08.6233 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:12:08.6243 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:12:17.6612 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+Kitchen sink:12,true
+Kitchen sink:2,false
+FloorDrain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:12:17.6639 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:12:17.6649 [DEBUG]	# Project metadata
+23:12:17.6659 [DEBUG]	projectName:College of Aviation
+23:12:17.6679 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:12:17.6689 [DEBUG]	totalFixtures:4
+23:12:17.6699 [DEBUG]	#fixtures iterable
+23:12:17.6709 [DEBUG]	fixtures[
+23:12:17.6719 [DEBUG]	Lavatory:25,true
+23:12:17.6729 [DEBUG]	Kitchen sink:12,true
+23:12:17.6741 [DEBUG]	Kitchen sink:2,false
+23:12:17.6749 [DEBUG]	FloorDrain:20,false
+23:12:17.6771 [DEBUG]	]
+23:12:17.6789 [DEBUG]	#totalstats
+23:12:17.6794 [DEBUG]	totaldfu:93.0
+23:12:17.6804 [DEBUG]	pipesize:3.0
+23:12:17.6814 [FATAL]	15
+23:12:17.6824 [FATAL]	projectName:College of Aviation
+23:12:17.6834 [DEBUG]	Project name set to: College of Aviation
+23:12:17.6914 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:12:17.6924 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 12
+	With visibility: true
+
+23:12:17.6944 [WARN]	Unknown fixture type: Kitchen sink
+23:12:17.6955 [DEBUG]	FixtureLoader:
+	Adding fixture: Kitchen sink
+	With quantity: 2
+	With visibility: false
+
+23:12:17.6964 [WARN]	Unknown fixture type: Kitchen sink
+23:12:17.6974 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 20
+	With visibility: false
+
+23:12:17.6994 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:12:17.7004 [WARN]	Fixture type 'FloorDrain' is not defined in the plumbing code.
+23:12:17.7014 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:13:20.6711 [FATAL]	Debug mode is not implemented yet
+23:13:20.6878 [INFO]	Starting Drain Sizer Program
+23:13:20.7081 [DEBUG]	
+
+23:13:20.7152 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:13:20.7159 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:13:20.7168 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:13:20.7188 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:13:20.7198 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:13:20.7218 [INFO]	Floor drain - 2.0 - 2.0
+23:13:20.7227 [INFO]	Kitchen sink - 2.0 - 1.5
+23:13:20.7228 [INFO]	Lavatory - 1.0 - 1.25
+23:13:20.7237 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:13:20.7237 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:13:33.7015 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drains:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:13:33.7024 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:13:33.7034 [DEBUG]	# Project metadata
+23:13:33.7044 [DEBUG]	projectName:College of Aviation
+23:13:33.7054 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:13:33.7054 [DEBUG]	totalFixtures:4
+23:13:33.7064 [DEBUG]	#fixtures iterable
+23:13:33.7074 [DEBUG]	fixtures[
+23:13:33.7078 [DEBUG]	Lavatory:25,true
+23:13:33.7084 [DEBUG]	KitchenSink:12,true
+23:13:33.7084 [DEBUG]	KitchenSink:2,false
+23:13:33.7094 [DEBUG]	Floor drains:20,false
+23:13:33.7104 [DEBUG]	]
+23:13:33.7104 [DEBUG]	#totalstats
+23:13:33.7114 [DEBUG]	totaldfu:93.0
+23:13:33.7126 [DEBUG]	pipesize:3.0
+23:13:33.7137 [FATAL]	15
+23:13:33.7147 [FATAL]	projectName:College of Aviation
+23:13:33.7167 [DEBUG]	Project name set to: College of Aviation
+23:13:33.7217 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:13:33.7238 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:13:33.7258 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:13:33.7268 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor drains
+	With quantity: 20
+	With visibility: false
+
+23:13:33.7278 [WARN]	Fixture type 'Floor drains' is not defined in the plumbing code.
+23:13:33.7288 [WARN]	Fixture type 'Floor drains' is not defined in the plumbing code.
+23:13:33.7299 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:13:45.0178 [FATAL]	Debug mode is not implemented yet
+23:13:45.0341 [INFO]	Starting Drain Sizer Program
+23:13:45.0561 [DEBUG]	
+
+23:13:45.0621 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:13:45.0632 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:13:45.0642 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:13:45.0653 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:13:45.0661 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:13:45.0681 [INFO]	Floor drain - 2.0 - 2.0
+23:13:45.0691 [INFO]	Kitchen sink - 2.0 - 1.5
+23:13:45.0693 [INFO]	Lavatory - 1.0 - 1.25
+23:13:45.0701 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:13:45.0711 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:13:53.2964 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:13:53.2972 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:13:53.2982 [DEBUG]	# Project metadata
+23:13:53.2992 [DEBUG]	projectName:College of Aviation
+23:13:53.2993 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:13:53.3002 [DEBUG]	totalFixtures:4
+23:13:53.3012 [DEBUG]	#fixtures iterable
+23:13:53.3012 [DEBUG]	fixtures[
+23:13:53.3022 [DEBUG]	Lavatory:25,true
+23:13:53.3032 [DEBUG]	KitchenSink:12,true
+23:13:53.3042 [DEBUG]	KitchenSink:2,false
+23:13:53.3052 [DEBUG]	Floor drain:20,false
+23:13:53.3062 [DEBUG]	]
+23:13:53.3072 [DEBUG]	#totalstats
+23:13:53.3082 [DEBUG]	totaldfu:93.0
+23:13:53.3092 [DEBUG]	pipesize:3.0
+23:13:53.3102 [FATAL]	15
+23:13:53.3112 [FATAL]	projectName:College of Aviation
+23:13:53.3133 [DEBUG]	Project name set to: College of Aviation
+23:13:53.3193 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:13:53.3202 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:13:53.3223 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:13:53.3243 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor drain
+	With quantity: 20
+	With visibility: false
+
+23:13:53.3253 [WARN]	Unknown fixture type: Floor drain
+23:13:53.3263 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:15:07.9304 [FATAL]	Debug mode is not implemented yet
+23:15:07.9474 [INFO]	Starting Drain Sizer Program
+23:15:07.9708 [DEBUG]	
+
+23:15:07.9782 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:15:07.9789 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:15:07.9799 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:15:07.9809 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:15:07.9819 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:15:07.9839 [INFO]	Floor drain - 2.0 - 2.0
+23:15:07.9850 [INFO]	Kitchen sink - 2.0 - 1.5
+23:15:07.9860 [INFO]	Lavatory - 1.0 - 1.25
+23:15:07.9869 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:15:07.9879 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:15:19.6426 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:15:19.6436 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:15:19.6436 [DEBUG]	# Project metadata
+23:15:19.6446 [DEBUG]	projectName:College of Aviation
+23:15:19.6456 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:15:19.6466 [DEBUG]	totalFixtures:4
+23:15:19.6476 [DEBUG]	#fixtures iterable
+23:15:19.6476 [DEBUG]	fixtures[
+23:15:19.6486 [DEBUG]	Lavatory:25,true
+23:15:19.6496 [DEBUG]	KitchenSink:12,true
+23:15:19.6506 [DEBUG]	KitchenSink:2,false
+23:15:19.6516 [DEBUG]	Floor drain:20,false
+23:15:19.6516 [DEBUG]	]
+23:15:19.6526 [DEBUG]	#totalstats
+23:15:19.6536 [DEBUG]	totaldfu:93.0
+23:15:19.6557 [DEBUG]	pipesize:3.0
+23:15:19.6566 [FATAL]	15
+23:15:19.6576 [FATAL]	projectName:College of Aviation
+23:15:19.6586 [DEBUG]	Project name set to: College of Aviation
+23:15:19.6652 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:15:19.6672 [WARN]	Unknown fixture type: Lavatory
+23:15:19.6682 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:15:19.6692 [WARN]	Unknown fixture type: KitchenSink
+23:15:19.6702 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:15:19.6714 [WARN]	Unknown fixture type: KitchenSink
+23:15:19.6719 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor drain
+	With quantity: 20
+	With visibility: false
+
+23:15:19.6739 [WARN]	Unknown fixture type: Floor drain
+23:15:19.6749 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:15:29.1812 [FATAL]	Debug mode is not implemented yet
+23:15:29.1971 [INFO]	Starting Drain Sizer Program
+23:15:29.2184 [DEBUG]	
+
+23:15:29.2255 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:15:29.2264 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:15:29.2274 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:15:29.2274 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:15:29.2284 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:15:29.2304 [INFO]	Floor drain - 2.0 - 2.0
+23:15:29.2314 [INFO]	Kitchen sink - 2.0 - 1.5
+23:15:29.2327 [INFO]	Lavatory - 1.0 - 1.25
+23:15:29.2335 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:15:29.2344 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:15:37.2004 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:15:37.2011 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:15:37.2021 [DEBUG]	# Project metadata
+23:15:37.2031 [DEBUG]	projectName:College of Aviation
+23:15:37.2042 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:15:37.2042 [DEBUG]	totalFixtures:4
+23:15:37.2053 [DEBUG]	#fixtures iterable
+23:15:37.2061 [DEBUG]	fixtures[
+23:15:37.2071 [DEBUG]	Lavatory:25,true
+23:15:37.2071 [DEBUG]	KitchenSink:12,true
+23:15:37.2081 [DEBUG]	KitchenSink:2,false
+23:15:37.2091 [DEBUG]	Floor drain:20,false
+23:15:37.2091 [DEBUG]	]
+23:15:37.2101 [DEBUG]	#totalstats
+23:15:37.2111 [DEBUG]	totaldfu:93.0
+23:15:37.2121 [DEBUG]	pipesize:3.0
+23:15:37.2131 [FATAL]	15
+23:15:37.2141 [FATAL]	projectName:College of Aviation
+23:15:37.2165 [DEBUG]	Project name set to: College of Aviation
+23:15:37.2241 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:15:37.2271 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:15:37.2281 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:15:37.2303 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor drain
+	With quantity: 20
+	With visibility: false
+
+23:15:37.2311 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:16:06.5142 [FATAL]	Debug mode is not implemented yet
+23:16:06.5293 [INFO]	Starting Drain Sizer Program
+23:16:06.5544 [DEBUG]	
+
+23:16:06.5617 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:16:06.5623 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:16:06.5623 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:16:06.5632 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:16:06.5642 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:16:06.5662 [INFO]	Floor drain - 2.0 - 2.0
+23:16:06.5684 [INFO]	Kitchen sink - 2.0 - 1.5
+23:16:06.5684 [INFO]	Lavatory - 1.0 - 1.25
+23:16:06.5692 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:16:06.5704 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:16:15.1787 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+
+23:16:15.1797 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:16:15.1807 [DEBUG]	# Project metadata
+23:16:15.1817 [DEBUG]	projectName:College of Aviation
+23:16:15.1827 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 2025
+23:16:15.1837 [DEBUG]	totalFixtures:4
+23:16:15.1847 [DEBUG]	#fixtures iterable
+23:16:15.1857 [DEBUG]	fixtures[
+23:16:15.1867 [DEBUG]	Lavatory:25,true
+23:16:15.1867 [DEBUG]	KitchenSink:12,true
+23:16:15.1877 [DEBUG]	KitchenSink:2,false
+23:16:15.1887 [DEBUG]	Floor drain:20,false
+23:16:15.1897 [DEBUG]	]
+23:16:15.1907 [DEBUG]	#totalstats
+23:16:15.1919 [DEBUG]	totaldfu:93.0
+23:16:15.1925 [DEBUG]	pipesize:3.0
+23:16:15.1935 [FATAL]	15
+23:16:15.1945 [FATAL]	projectName:College of Aviation
+23:16:15.1955 [DEBUG]	Project name set to: College of Aviation
+23:16:15.2024 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 25
+	With visibility: true
+
+23:16:15.2044 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 12
+	With visibility: true
+
+23:16:15.2054 [DEBUG]	FixtureLoader:
+	Adding fixture: KitchenSink
+	With quantity: 2
+	With visibility: false
+
+23:16:15.2074 [DEBUG]	FixtureLoader:
+	Adding fixture: Floor drain
+	With quantity: 20
+	With visibility: false
+
+23:16:15.2084 [INFO]	Project loaded successfully from: ./College of Aviation.bdsp
+23:18:19.4280 [FATAL]	Debug mode is not implemented yet
+23:18:19.4420 [INFO]	Starting Drain Sizer Program
+23:18:19.4641 [DEBUG]	
+
+23:18:19.4700 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:18:19.4710 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:18:19.4720 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:18:19.4731 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:18:19.4740 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:18:19.4770 [INFO]	Floor drain - 2.0 - 2.0
+23:18:19.4770 [INFO]	Kitchen sink - 2.0 - 1.5
+23:18:19.4780 [INFO]	Lavatory - 1.0 - 1.25
+23:18:19.4790 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:18:19.4793 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:18:27.6323 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Corruption
+lastsaved:Thu Apr 17 23:10:40 EDT 29034
+totalFixtures:4
+#fixtures iterable
+fixtures!
+Lavatory:-23423,yeet yeet
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]{}
+[]
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+@@@@!!!
+
+23:18:27.6332 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:18:27.6342 [DEBUG]	# Project metadata
+23:18:27.6352 [DEBUG]	projectName:College of Corruption
+23:18:27.6362 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 29034
+23:18:27.6362 [DEBUG]	totalFixtures:4
+23:18:27.6372 [DEBUG]	#fixtures iterable
+23:18:27.6372 [DEBUG]	fixtures!
+23:18:27.6382 [DEBUG]	Lavatory:-23423,yeet yeet
+23:18:27.6392 [DEBUG]	KitchenSink:12,true
+23:18:27.6392 [DEBUG]	KitchenSink:2,false
+23:18:27.6402 [DEBUG]	Floor drain:20,false
+23:18:27.6412 [DEBUG]	]{}
+23:18:27.6422 [DEBUG]	[]
+23:18:27.6432 [DEBUG]	#totalstats
+23:18:27.6442 [DEBUG]	totaldfu:93.0
+23:18:27.6452 [DEBUG]	pipesize:3.0
+23:18:27.6462 [DEBUG]	@@@@!!!
+23:18:27.6472 [FATAL]	17
+23:18:27.6482 [FATAL]	projectName:College of Corruption
+23:18:27.6502 [DEBUG]	Project name set to: College of Corruption
+23:18:27.6512 [INFO]	Project loaded successfully from: ./Corrupt.bdsp
+23:18:48.0009 [FATAL]	Debug mode is not implemented yet
+23:18:48.0174 [INFO]	Starting Drain Sizer Program
+23:18:48.0385 [DEBUG]	
+
+23:18:48.0460 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:18:48.0467 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:18:48.0477 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:18:48.0487 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:18:48.0497 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:18:48.0517 [INFO]	Floor drain - 2.0 - 2.0
+23:18:48.0527 [INFO]	Kitchen sink - 2.0 - 1.5
+23:18:48.0537 [INFO]	Lavatory - 1.0 - 1.25
+23:18:48.0547 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:18:48.0555 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:18:55.4524 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Corruption
+lastsaved:Thu Apr 17 23:10:40 EDT 29034
+totalFixtures:4
+#fixtures iterable
+fixtures!
+Lavatory:-23423,yeet yeet
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]{}
+
+#totalstats
+totaldfu:93.0
+pipesize:3.0
+@@@@!!!
+
+23:18:55.4534 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:18:55.4544 [DEBUG]	# Project metadata
+23:18:55.4565 [DEBUG]	projectName:College of Corruption
+23:18:55.4574 [DEBUG]	lastsaved:Thu Apr 17 23:10:40 EDT 29034
+23:18:55.4584 [DEBUG]	totalFixtures:4
+23:18:55.4594 [DEBUG]	#fixtures iterable
+23:18:55.4604 [DEBUG]	fixtures!
+23:18:55.4614 [DEBUG]	Lavatory:-23423,yeet yeet
+23:18:55.4620 [DEBUG]	KitchenSink:12,true
+23:18:55.4630 [DEBUG]	KitchenSink:2,false
+23:18:55.4630 [DEBUG]	Floor drain:20,false
+23:18:55.4640 [DEBUG]	]{}
+23:18:55.4650 [DEBUG]	
+23:18:55.4660 [DEBUG]	#totalstats
+23:18:55.4680 [DEBUG]	totaldfu:93.0
+23:18:55.4680 [DEBUG]	pipesize:3.0
+23:18:55.4690 [DEBUG]	@@@@!!!
+23:18:55.4700 [FATAL]	17
+23:18:55.4700 [FATAL]	projectName:College of Corruption
+23:18:55.4720 [DEBUG]	Project name set to: College of Corruption
+23:18:55.4720 [INFO]	Project loaded successfully from: ./Corrupt.bdsp
+23:19:27.0870 [ERROR]	Fixture type 'Floor drain' is not added.
+23:19:46.3899 [DEBUG]	Successfully wrote to the file.
+23:19:46.3909 [INFO]	Project saved successfully to: ./Corrupt.bdsp
+23:20:38.4858 [FATAL]	Debug mode is not implemented yet
+23:20:38.5015 [INFO]	Starting Drain Sizer Program
+23:20:38.5234 [DEBUG]	
+
+23:20:38.5304 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:20:38.5314 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:20:38.5324 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:20:38.5334 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:20:38.5344 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:20:38.5365 [INFO]	Floor drain - 2.0 - 2.0
+23:20:38.5374 [INFO]	Kitchen sink - 2.0 - 1.5
+23:20:38.5384 [INFO]	Lavatory - 1.0 - 1.25
+23:20:38.5384 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:20:38.5394 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:20:47.5870 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+proje3Nameeee:College of Corruption
+lastAAAved:Thu Apr 17 23:10:40 EDT 29034
+totWEEFEFlFixtures:4
+#fixtures iterable
+fixtures!
+Lavatory:-23423,yeet yeet
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]{}
+
+#totalstats
+HELLO THERE!:93.0
+IM HERE TO MAKE THIS FILE NOT LOAD!:3.0
+HOW COOL IS THAT?
+
+23:20:47.5880 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:20:47.5890 [DEBUG]	# Project metadata
+23:20:47.5900 [DEBUG]	proje3Nameeee:College of Corruption
+23:20:47.5910 [DEBUG]	lastAAAved:Thu Apr 17 23:10:40 EDT 29034
+23:20:47.5920 [DEBUG]	totWEEFEFlFixtures:4
+23:20:47.5920 [DEBUG]	#fixtures iterable
+23:20:47.5930 [DEBUG]	fixtures!
+23:20:47.5940 [DEBUG]	Lavatory:-23423,yeet yeet
+23:20:47.5950 [DEBUG]	KitchenSink:12,true
+23:20:47.5950 [DEBUG]	KitchenSink:2,false
+23:20:47.5960 [DEBUG]	Floor drain:20,false
+23:20:47.5970 [DEBUG]	]{}
+23:20:47.6040 [DEBUG]	
+23:20:47.6070 [DEBUG]	#totalstats
+23:20:47.6090 [DEBUG]	HELLO THERE!:93.0
+23:20:47.6315 [DEBUG]	IM HERE TO MAKE THIS FILE NOT LOAD!:3.0
+23:20:47.6569 [DEBUG]	HOW COOL IS THAT?
+23:20:47.6592 [FATAL]	17
+23:20:47.6610 [INFO]	Project loaded successfully from: ./Corrupt.bdsp
+23:22:57.9567 [FATAL]	Debug mode is not implemented yet
+23:22:57.9728 [INFO]	Starting Drain Sizer Program
+23:22:57.9958 [DEBUG]	
+
+23:22:58.0028 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:22:58.0038 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:22:58.0048 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:22:58.0058 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:22:58.0068 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:22:58.0088 [INFO]	Floor drain - 2.0 - 2.0
+23:22:58.0098 [INFO]	Kitchen sink - 2.0 - 1.5
+23:22:58.0108 [INFO]	Lavatory - 1.0 - 1.25
+23:22:58.0118 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:22:58.0128 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:23:03.5229 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+proje3Nameeee:College of Corruption
+lastAAAved:Thu Apr 17 23:10:40 EDT 29034
+totWEEFEFlFixtures:4
+#fixtures iterable
+fixtures!
+Lavatory:-23423,yeet yeet
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]{}
+
+#totalstats
+HELLO THERE!:93.0
+IM HERE TO MAKE THIS FILE NOT LOAD!:3.0
+HOW COOL IS THAT?
+
+23:23:03.5239 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:23:03.5249 [DEBUG]	# Project metadata
+23:23:03.5259 [DEBUG]	proje3Nameeee:College of Corruption
+23:23:03.5259 [DEBUG]	lastAAAved:Thu Apr 17 23:10:40 EDT 29034
+23:23:03.5269 [DEBUG]	totWEEFEFlFixtures:4
+23:23:03.5279 [DEBUG]	#fixtures iterable
+23:23:03.5279 [DEBUG]	fixtures!
+23:23:03.5289 [DEBUG]	Lavatory:-23423,yeet yeet
+23:23:03.5299 [DEBUG]	KitchenSink:12,true
+23:23:03.5309 [DEBUG]	KitchenSink:2,false
+23:23:03.5316 [DEBUG]	Floor drain:20,false
+23:23:03.5326 [DEBUG]	]{}
+23:23:03.5326 [DEBUG]	
+23:23:03.5336 [DEBUG]	#totalstats
+23:23:03.5347 [DEBUG]	HELLO THERE!:93.0
+23:23:03.5356 [DEBUG]	IM HERE TO MAKE THIS FILE NOT LOAD!:3.0
+23:23:03.5376 [DEBUG]	HOW COOL IS THAT?
+23:23:03.5386 [FATAL]	17
+23:23:03.5396 [INFO]	Project loaded successfully from: ./Corrupt.bdsp
+23:23:58.4152 [FATAL]	Debug mode is not implemented yet
+23:23:58.4311 [INFO]	Starting Drain Sizer Program
+23:23:58.4538 [DEBUG]	
+
+23:23:58.4614 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:23:58.4620 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:23:58.4631 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:23:58.4641 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:23:58.4653 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:23:58.4670 [INFO]	Floor drain - 2.0 - 2.0
+23:23:58.4670 [INFO]	Kitchen sink - 2.0 - 1.5
+23:23:58.4680 [INFO]	Lavatory - 1.0 - 1.25
+23:23:58.4690 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:23:58.4700 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:24:04.3057 [DEBUG]	
+23:24:04.3077 [ERROR]	Failed to read file or file is empty: ./Corrupt.bdsp
+23:24:04.3166 [FATAL]	An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.
+Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+Stack Trace:
+java.lang.NullPointerException: Cannot invoke "fixtures.Fixtures.removeAllFixtures()" because "this.fixtures" is null
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:80)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+23:24:40.0308 [FATAL]	Debug mode is not implemented yet
+23:24:40.0476 [INFO]	Starting Drain Sizer Program
+23:24:40.0739 [DEBUG]	
+
+23:24:40.0800 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:24:40.0814 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:24:40.0823 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:24:40.0853 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:24:40.0883 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:24:40.1184 [INFO]	Floor drain - 2.0 - 2.0
+23:24:40.1492 [INFO]	Kitchen sink - 2.0 - 1.5
+23:24:40.1505 [INFO]	Lavatory - 1.0 - 1.25
+23:24:40.1510 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:24:40.1520 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:24:46.1097 [DEBUG]	
+23:24:46.1117 [ERROR]	Failed to read file or file is empty: ./Corrupt.bdsp
+23:24:46.1127 [ERROR]	There was an error with the project file, and cannot be read. Please ensure it is not corrupted and try again.
+23:32:41.5098 [FATAL]	Debug mode is not implemented yet
+23:32:41.5258 [INFO]	Starting Drain Sizer Program
+23:32:41.5488 [DEBUG]	
+
+23:32:41.5560 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+23:32:41.5570 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+23:32:41.5580 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+23:32:41.5590 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+23:32:41.5610 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+23:32:41.5628 [INFO]	Floor drain - 2.0 - 2.0
+23:32:41.5638 [INFO]	Kitchen sink - 2.0 - 1.5
+23:32:41.5648 [INFO]	Lavatory - 1.0 - 1.25
+23:32:41.5664 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+23:32:41.5668 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+23:32:48.1668 [ERROR]	An error has occured: For input string: "./COAS.bdsp"
+Stack Trace: java.lang.NumberFormatException: For input string: "./COAS.bdsp"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:654)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:11)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:57)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+23:32:57.8112 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:COAS
+lastsaved:Wed Apr 16 17:00:23 EDT 2025
+totalFixtures:2
+#fixtures iterable
+fixtures[
+Lavatory:3000,false
+FloorDrain:3000,true
+]
+#totalstats
+totaldfu:9000.0
+pipesize:3.0
+
+23:32:57.8118 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+23:32:57.8138 [DEBUG]	# Project metadata
+23:32:57.8148 [DEBUG]	projectName:COAS
+23:32:57.8168 [DEBUG]	lastsaved:Wed Apr 16 17:00:23 EDT 2025
+23:32:57.8178 [DEBUG]	totalFixtures:2
+23:32:57.8188 [DEBUG]	#fixtures iterable
+23:32:57.8198 [DEBUG]	fixtures[
+23:32:57.8216 [DEBUG]	Lavatory:3000,false
+23:32:57.8228 [DEBUG]	FloorDrain:3000,true
+23:32:57.8236 [DEBUG]	]
+23:32:57.8246 [DEBUG]	#totalstats
+23:32:57.8256 [DEBUG]	totaldfu:9000.0
+23:32:57.8276 [DEBUG]	pipesize:3.0
+23:32:57.8276 [FATAL]	13
+23:32:57.8296 [DEBUG]	Project name set to: COAS
+23:32:57.8387 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 3000
+	With visibility: false
+
+23:32:57.8406 [DEBUG]	FixtureLoader:
+	Adding fixture: FloorDrain
+	With quantity: 3000
+	With visibility: true
+
+23:32:57.8416 [INFO]	Project loaded successfully from: ./COAS.bdsp
+23:33:28.8984 [ERROR]	Fixture type 'Floor drains' cannot be found. Please try again.
+23:34:03.3653 [ERROR]	Fixture type 'FloorDrain' cannot be found. Please try again.
+23:34:12.7836 [ERROR]	Fixture type 'Floor drain' is not added.
+23:34:42.3815 [ERROR]	Fixture type 'Water Closet' cannot be found. Please try again.
+23:35:02.4684 [ERROR]	Fixture type 'Water closet private (1.6 gpf)' is not added.
+23:35:53.1191 [ERROR]	Fixture type '' cannot be found. Please try again.
+23:36:53.0799 [DEBUG]	Successfully wrote to the file.
+23:36:53.0809 [INFO]	Project saved successfully to: ./COAS.bdsp
+23:43:42.8818 [ERROR]	Fixture type 'fqerwwf' cannot be found. Please try again.
+23:44:30.5163 [ERROR]	Invalid value!
+23:46:53.3025 [ERROR]	Not added yet
+23:47:08.9543 [DEBUG]	Successfully wrote to the file.
+23:47:08.9589 [DEBUG]	# Building Drain Sizer
+projectName:!!!
+lastsaved:00/00/0000
+totalFixtures:0
+#Fixtures Iterable
+fixtures[
+FloorDrain:0
+KitchenSink:0
+Lavatory:0
+WaterCloset:0
+]
+#Total Stats
+totaldfu:0
+pipesize:0
+
+23:47:08.9609 [DEBUG]	# Building Drain Sizer
+23:47:08.9620 [DEBUG]	projectName:!!!
+23:47:08.9630 [DEBUG]	lastsaved:00/00/0000
+23:47:08.9640 [DEBUG]	totalFixtures:0
+23:47:08.9660 [DEBUG]	#Fixtures Iterable
+23:47:08.9660 [DEBUG]	fixtures[
+23:47:08.9680 [DEBUG]	FloorDrain:0
+23:47:08.9690 [DEBUG]	KitchenSink:0
+23:47:08.9700 [DEBUG]	Lavatory:0
+23:47:08.9710 [DEBUG]	WaterCloset:0
+23:47:08.9720 [DEBUG]	]
+23:47:08.9730 [DEBUG]	#Total Stats
+23:47:08.9741 [DEBUG]	totaldfu:0
+23:47:08.9750 [DEBUG]	pipesize:0
+23:47:08.9760 [FATAL]	14
+23:47:08.9782 [DEBUG]	Project name set to: !!!
+23:47:08.9790 [WARN]	Invalid fixture entry: FloorDrain:0
+23:47:08.9800 [WARN]	Invalid fixture entry: KitchenSink:0
+23:47:08.9810 [WARN]	Invalid fixture entry: Lavatory:0
+23:47:08.9820 [WARN]	Invalid fixture entry: WaterCloset:0
+23:47:08.9831 [INFO]	Project loaded successfully from: !!!!!!.bdsp
+23:47:47.7997 [ERROR]	An error occurred.
+java.io.FileNotFoundException: .\College of Could I Please Get an Extension on P6.bdsp (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.util.Scanner.<init>(Scanner.java:639)
+	at drainsizer.FileIO.readFile(FileIO.java:27)
+	at drainsizer.ProjectLoader.loadProjectFromFile(ProjectLoader.java:19)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:74)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+23:47:47.8011 [ERROR]	Failed to read file or file is empty: ./College of Could I Please Get an Extension on P6.bdsp
+23:47:47.8016 [ERROR]	There was an error with the project file, and cannot be read. Please ensure it is not corrupted and try again.

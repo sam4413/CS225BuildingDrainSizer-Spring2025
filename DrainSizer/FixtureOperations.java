@@ -19,7 +19,7 @@ public class FixtureOperations {
         do {
             menu();
             choice = menuSelector(input);
-        } while (choice != 8);
+        } while (choice != 9);
     }
 
     public void menu() {
@@ -36,7 +36,7 @@ public class FixtureOperations {
                     6. Calculate Pipe Size
                     7. Save Project
                     8. Export to CSV
-                    8. Exit
+                    9. Exit
                 """);
         // Color.YELLOW + "---OPTIONS------------------------\n" +
     }
@@ -139,7 +139,7 @@ public class FixtureOperations {
         boolean isPublic = usageInput.equalsIgnoreCase("public");
 
         boolean updatedExisting = false;
-        for (Fixture fixture : fixtures.getFixturesList()) {
+        /*for (Fixture fixture : fixtures.getFixturesList()) {
             if (selectedDef.getFixtureName().equalsIgnoreCase("Floor drains") && fixture instanceof FloorDrain
                     && fixture.getIsPublic() == isPublic) {
 
@@ -154,7 +154,7 @@ public class FixtureOperations {
                 updatedExisting = true;
                 break;
             }
-        }
+        }*/
 
         // add to array list based on user input (this is bad i know)
         if (!updatedExisting) {

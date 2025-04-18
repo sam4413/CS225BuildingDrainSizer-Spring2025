@@ -49,7 +49,6 @@ public class DrainSizer {
             Log.fatal(
                     "An unhandled exception has occured. As a result, the program has to close. Please try again or report this issue to the program author.\n"
                             + err.getMessage() + "\nStack Trace:\n" + ExceptionHelper.stackToString(err));
-            // Save methods TBD
             System.exit(-1);
         }
     }
@@ -59,8 +58,7 @@ public class DrainSizer {
         switch (choice) {
             case 1:
                 choice = 1;
-                
-                
+                createProjectMenu(input);
                 break;
             case 2:
                 choice = 2;
@@ -69,7 +67,7 @@ public class DrainSizer {
                 // myFixtureOperations.fixtureMenu(input, code, fixtures);
                 String inPath = InputHelper.processStringChoice(input, "Enter the exact file folder path of the project: ");
                 String inConfirmation = InputHelper.processStringChoice(input, "Load project? This will override any unsaved changes! (y/n): ");
-                if (!inConfirmation.equalsIgnoreCase("Y")) {
+                if (!inConfirmation.equalsIgnoreCase("Y") || inConfirmation.isEmpty() || inConfirmation == null || inPath.isEmpty() || inPath == null) {
                     Log.out(Color.RED+"Project load aborted."+Color.RESET);
                 }
                 
@@ -79,7 +77,6 @@ public class DrainSizer {
                     FixtureOperations myFixtureOperations = new FixtureOperations();
                     myFixtureOperations.fixtureMenu(input, code, fixtures);
                 } else {
-                    fixtures.removeAllFixtures(); //Remove all fixtures for safety.
                     Log.error("There was an error with the project file, and cannot be read. Please ensure it is not corrupted and try again.");
                 }
                 break;
@@ -112,8 +109,6 @@ public class DrainSizer {
                 Color.RED + "v.0.1 alpha " + Color.CYAN + "- nogui - public\n");
     }
 
-    
-
     public void createProjectMenu(Scanner input) {
         Log.clear();
         Log.out(Color.GREEN+"== Building Drain Sizer ==");
@@ -125,8 +120,9 @@ public class DrainSizer {
         Log.out(Color.GREEN+"Project Directory: "+inProjectPath);
         String confirm = InputHelper.processStringChoice(input, "(y/n): ");
         if (confirm.equalsIgnoreCase("Y")) {
-            if (myProjectLoader.createNewProject(inProjectPath + inProjectName)) {
+            if (myProjectLoader.createNewProject(inProjectPath, inProjectName)) {
                 Log.out(Color.GREEN+"Project created successfully!");
+                myProjectLoader.loadProjectFromFile(inProjectPath + inProjectName+".bdsp", fixtures, code);
                 FixtureOperations myFixtureOperations = new FixtureOperations();
                 myFixtureOperations.fixtureMenu(input, code, fixtures);
             } else {
@@ -139,13 +135,6 @@ public class DrainSizer {
         }
     }
 
-    public void calculateDfuMenu(Scanner input) {
-
-    }
-
-    public void calculateDrainSizeMenu(Scanner input) {
-
-    }
 
     
 }

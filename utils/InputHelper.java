@@ -3,8 +3,6 @@ package utils;
 import java.util.Scanner;
 
 public class InputHelper {
-    //im in the middle of debugging a scanner bug, so this will look a bit messy for now. 
-    // in next demo on thursday this will be fixed. Check github for updates.
     public static int processIntChoice(Scanner input, String prompt) {
         int choice = -1;
         try {

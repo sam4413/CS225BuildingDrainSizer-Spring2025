@@ -42,7 +42,7 @@ public class PlumbingCode {
 
         for (String line : csvLines) {
             // Remove quotes and trim
-            String cleanedLine = line.replaceAll("\"", "").trim();
+            String cleanedLine = line.replaceAll("\"", "");
             String[] parts = cleanedLine.split(",", -1);
 
             if (parts.length >= 3) {
@@ -75,11 +75,18 @@ public class PlumbingCode {
     }
 
     public PlumbingCodeDefinition getFixtureByName(String name) {
+        // Normalize the input name
+        String normalizedInputName = name.toLowerCase().replaceAll("\\s+", "");
+    
         for (PlumbingCodeDefinition plumbingCodeDefinition : fixturesList) {
-            if (plumbingCodeDefinition.getFixtureName().equalsIgnoreCase(name)) {
+            // Normalize the fixture name in the plumbing code
+            String normalizedFixtureName = plumbingCodeDefinition.getFixtureName().toLowerCase().replaceAll("\\s+", "");
+            if (normalizedFixtureName.equals(normalizedInputName)) {
                 return plumbingCodeDefinition;
             }
         }
+    
+        Log.warn("Fixture type '" + name + "' is not defined in the plumbing code.");
         return null;
     }
 

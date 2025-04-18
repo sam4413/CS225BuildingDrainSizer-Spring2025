@@ -41,7 +41,10 @@ public class ProjectLoader {
                 
                 if (line.startsWith("projectName:")) {
                     String projectName = line.split(":",2)[1];
-                    Log.fatal(line);
+                    if (projectName.equalsIgnoreCase("null")|| projectName == null) {
+                        Log.error("Cannot load project. Project file is corrupted.");
+                        return null;
+                    }
                     fixtures.setProjectName(projectName);
                     Log.debug("Project name set to: " + projectName);
                     continue;
@@ -108,20 +111,28 @@ public class ProjectLoader {
         if (!updatedExisting) {
             // Create a new fixture based on the definition
             Fixture newFixture = null;
-            switch (fixtureName.toLowerCase()) {
-                case "floordrain":
+            switch (fixtureName) {
+                case "Floor drain":
                     newFixture = new FloorDrain(quantity, isPublic, definition.getFixtureDfu(),
                             definition.getFixtureDrainTrap());
                     break;
-                case "kitchensink":
+                case "FloorDrain":
+                    newFixture = new FloorDrain(quantity, isPublic, definition.getFixtureDfu(),
+                            definition.getFixtureDrainTrap());
+                    break;
+                case "KitchenSink":
                     newFixture = new KitchenSink(quantity, isPublic, definition.getFixtureDfu(),
                             definition.getFixtureDrainTrap());
                     break;
-                case "lavatory":
+                case "Lavatory":
                     newFixture = new Lavatory(quantity, isPublic, definition.getFixtureDfu(),
                             definition.getFixtureDrainTrap());
                     break;
-                case "watercloset":
+                case "Water closet private (1.6 gpf)":
+                    newFixture = new WaterCloset(quantity, isPublic, definition.getFixtureDfu(),
+                            definition.getFixtureDrainTrap());
+                    break;
+                case "Water closet public (1.6 gpf)":
                     newFixture = new WaterCloset(quantity, isPublic, definition.getFixtureDfu(),
                             definition.getFixtureDrainTrap());
                     break;
@@ -177,10 +188,10 @@ public class ProjectLoader {
 
     // This will create a new .bdsp file with empty data that can be loaded for the
     // project.
-    public boolean createNewProject(String filePath) {
+    public boolean createNewProject(String filePath, String inProjectName) {
         StringBuilder fileContent = new StringBuilder();
         fileContent.append("# Building Drain Sizer\n");
-        fileContent.append("projectName:New Project\n");
+        fileContent.append("projectName:"+inProjectName+"\n");
         fileContent.append("lastsaved:00/00/0000\n");
         fileContent.append("totalFixtures:0\n");
         fileContent.append("#Fixtures Iterable\n");
@@ -194,7 +205,7 @@ public class ProjectLoader {
         fileContent.append("totaldfu:0\n");
         fileContent.append("pipesize:0\n");
         String pathf = fileContent.toString();
-        FileIO fileIO = new FileIO(filePath+".bdsp");
+        FileIO fileIO = new FileIO(filePath+inProjectName+".bdsp");
         return fileIO.writeFile(pathf);
     }
 

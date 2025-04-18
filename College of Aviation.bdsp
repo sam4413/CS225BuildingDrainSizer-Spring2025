@@ -1,0 +1,15 @@
+# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:College of Aviation
+lastsaved:Thu Apr 17 23:10:40 EDT 2025
+totalFixtures:4
+#fixtures iterable
+fixtures[
+Lavatory:25,true
+KitchenSink:12,true
+KitchenSink:2,false
+Floor drain:20,false
+]
+#totalstats
+totaldfu:93.0
+pipesize:3.0

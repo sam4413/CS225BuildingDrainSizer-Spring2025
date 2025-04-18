@@ -1,0 +1,78 @@
+00:30:00.4506 [FATAL]	Debug mode is not implemented yet
+00:30:00.4824 [INFO]	Starting Drain Sizer Program
+00:30:00.5238 [DEBUG]	
+
+00:30:00.5344 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+00:30:00.5354 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+00:30:00.5364 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+00:30:00.5374 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+00:30:00.5384 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+00:30:00.5414 [INFO]	Floor drain - 2.0 - 2.0
+00:30:00.5424 [INFO]	Kitchen sink - 2.0 - 1.5
+00:30:00.5434 [INFO]	Lavatory - 1.0 - 1.25
+00:30:00.5444 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+00:30:00.5454 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+00:30:06.5944 [FATAL]	Debug mode is not implemented yet
+00:30:06.6187 [INFO]	Starting Drain Sizer Program
+00:30:06.6525 [DEBUG]	
+
+00:30:06.6627 [INFO]	Loaded fixture: Floor drain | DFU: 2.0 | Trap: 2.0
+00:30:06.6637 [INFO]	Loaded fixture: Kitchen sink | DFU: 2.0 | Trap: 1.5
+00:30:06.6637 [INFO]	Loaded fixture: Lavatory | DFU: 1.0 | Trap: 1.25
+00:30:06.6657 [INFO]	Loaded fixture: Water closet private (1.6 gpf) | DFU: 3.0 | Trap: -100.0
+00:30:06.6657 [INFO]	Loaded fixture: Water closet public (1.6 gpf) | DFU: 4.0 | Trap: -100.0
+00:30:06.6696 [INFO]	Floor drain - 2.0 - 2.0
+00:30:06.6696 [INFO]	Kitchen sink - 2.0 - 1.5
+00:30:06.6706 [INFO]	Lavatory - 1.0 - 1.25
+00:30:06.6716 [INFO]	Water closet private (1.6 gpf) - 3.0 - -100.0
+00:30:06.6727 [INFO]	Water closet public (1.6 gpf) - 4.0 - -100.0
+00:30:14.8587 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+# Project metadata
+projectName:COAS
+lastsaved:Thu Apr 17 23:36:53 EDT 2025
+totalFixtures:1
+#fixtures iterable
+fixtures[
+Lavatory:20,true
+]
+#totalstats
+totaldfu:20.0
+pipesize:2.0
+
+00:30:14.8607 [DEBUG]	# Building Drain Sizer (c) Adam Ahmad 2025 All Rights Reserved
+00:30:14.8617 [DEBUG]	# Project metadata
+00:30:14.8638 [DEBUG]	projectName:COAS
+00:30:14.8647 [DEBUG]	lastsaved:Thu Apr 17 23:36:53 EDT 2025
+00:30:14.8657 [DEBUG]	totalFixtures:1
+00:30:14.8667 [DEBUG]	#fixtures iterable
+00:30:14.8677 [DEBUG]	fixtures[
+00:30:14.8687 [DEBUG]	Lavatory:20,true
+00:30:14.8707 [DEBUG]	]
+00:30:14.8727 [DEBUG]	#totalstats
+00:30:14.8738 [DEBUG]	totaldfu:20.0
+00:30:14.8748 [DEBUG]	pipesize:2.0
+00:30:14.8758 [FATAL]	12
+00:30:14.8779 [DEBUG]	Project name set to: COAS
+00:30:14.8979 [DEBUG]	FixtureLoader:
+	Adding fixture: Lavatory
+	With quantity: 20
+	With visibility: true
+
+00:30:14.9045 [INFO]	Project loaded successfully from: ./COAS.bdsp
+00:30:24.2592 [ERROR]	An error has occured: For input string: ""
+Stack Trace: java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:678)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at utils.InputHelper.processIntChoice(InputHelper.java:11)
+	at drainsizer.FixtureOperations.addFixture(FixtureOperations.java:131)
+	at drainsizer.FixtureOperations.menuSelector(FixtureOperations.java:52)
+	at drainsizer.FixtureOperations.fixtureMenu(FixtureOperations.java:21)
+	at drainsizer.DrainSizer.menuSelector(DrainSizer.java:78)
+	at drainsizer.DrainSizer.run(DrainSizer.java:41)
+	at DrainSizerRunner.main(DrainSizerRunner.java:18)
+
+00:30:24.2604 [ERROR]	Invalid quantity entered.
+00:30:35.3385 [ERROR]	Fixture type 'Floor drain' is not added.
+00:30:47.1005 [ERROR]	Fixture type 'FloorDrain' cannot be found. Please try again.
+00:30:57.6811 [ERROR]	Fixture type 'Floor drain' is not added.
